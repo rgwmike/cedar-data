@@ -1,0 +1,178 @@
+{
+ "schema": 1,
+ "updated": "2026-09-23",
+ "stores": {
+  "neptune": {
+   "name": "Neptune Cigar",
+   "home": "https://www.neptunecigar.com",
+   "pageShape": "line page: every vitola, single + box, plain HTML"
+  },
+  "holts": {
+   "name": "Holt's",
+   "home": "https://www.holts.com",
+   "pageShape": "line page: table with MSRP, single, 5-pack, box, plain HTML"
+  },
+  "smokeinn": {
+   "name": "Smoke Inn",
+   "home": "https://www.smokeinn.com",
+   "pageShape": "line page: box and 5-pack per vitola, plain HTML"
+  },
+  "mikes": {
+   "name": "Mike's Cigars",
+   "home": "https://mikescigars.com",
+   "pageShape": "brand-line listing or per-vitola page; single price in page metadata"
+  }
+ },
+ "lines": [
+  {
+   "id": "E.P. Carrillo|Encore",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/ep-carrillo-encore",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
+    "smokeinn": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+    "mikes": "https://mikescigars.com/brands/ep-carrillo-encore"
+   },
+   "notes": "Mike's page also lists Encore Black items; filter by name."
+  },
+  {
+   "id": "Foundation|Olmec",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/foundation-olmec-maduro",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
+    "smokeinn": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
+    "mikes": null
+   },
+   "notes": "Maduro pages; Claro at neptune /cigar/foundation-olmec-claro and smokeinn /Foundation-Cigars-Olmec-Claro/. Mike's doesn't carry Olmec."
+  },
+  {
+   "id": "Arturo Fuente|OpusX Oro Oscuro",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigars/arturo-fuente-opus-x-oxo-oro-oscuro-robusto",
+    "holts": null,
+    "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
+    "mikes": null
+   },
+   "notes": "Rare. Neptune per-vitola page (Robusto); Smoke Inn lists only Perfecxion #4; Mike's has gift tins only."
+  },
+  {
+   "id": "Davidoff|Winston Churchill The Late Hour",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/davidoff-winston-churchill-late-hour",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
+    "smokeinn": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
+    "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour"
+   },
+   "notes": ""
+  },
+  {
+   "id": "My Father|Le Bijou 1922",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/my-father-le-bijou-1922",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+    "mikes": "https://mikescigars.com/brands/my-father-le-bijou-1922"
+   },
+   "notes": ""
+  },
+  {
+   "id": "My Father|The Judge",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/my-father-the-judge",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+    "smokeinn": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
+    "mikes": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Ashton|VSG",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/ashton-vsg",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-ashton-vsg/",
+    "mikes": "https://mikescigars.com/cigars/brands/ashton-vsg"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Drew Estate|Liga Privada No. 9",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+    "smokeinn": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+    "mikes": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Drew Estate|Liga Privada T52",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/liga-privada-t52",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+    "mikes": "https://mikescigars.com/brands/liga-privada-t52"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Plasencia|Reserva Original",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/plasencia-reserva-original",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
+    "smokeinn": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
+    "mikes": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Dunbarton Tobacco & Trust|Mi Querida",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/mi-querida",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/mi-querida.html",
+    "smokeinn": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+    "mikes": null
+   },
+   "notes": "Holt's page is clearance/sold out; weight Smoke Inn and Neptune. Mike's doesn't carry Dunbarton."
+  },
+  {
+   "id": "Padrón|1926 Serie",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+    "mikes": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie"
+   },
+   "notes": "Neptune Natural at /cigar/padron-1926; Holt's page covers both wrappers; Mike's line page is paginated."
+  },
+  {
+   "id": "Crux|Limitada",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/crux-limitada",
+    "holts": null,
+    "smokeinn": null,
+    "mikes": null
+   },
+   "notes": "Only Neptune carries it."
+  },
+  {
+   "id": "Arturo Fuente|Don Carlos",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+    "mikes": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos"
+   },
+   "notes": ""
+  },
+  {
+   "id": "Foundation|The Tabernacle",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/the-tabernacle",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
+    "smokeinn": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
+    "mikes": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle"
+   },
+   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name."
+  }
+ ]
+}
