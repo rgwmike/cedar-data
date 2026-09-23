@@ -1,0 +1,117 @@
+[
+{"id":"E.P. Carrillo|Encore","store":"smokeinn","url":"https://www.smokeinn.com/E.P.-Carrillo-Encore/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Majestic Robusto","size":"5.375 x 52","single":null,"fivePack":64.75,"box":245.95,"count":20,"inStock":false},
+{"vitola":"Celestial Toro","size":"6.125 x 50","single":null,"fivePack":66.00,"box":250.95,"count":20,"inStock":false},
+{"vitola":"El Primero Churchill","size":"6.875 x 54","single":null,"fivePack":67.50,"box":256.50,"count":20,"inStock":true},
+{"vitola":"Valientes Torpedo","size":"6.125 x 52","single":null,"fivePack":68.50,"box":259.95,"count":20,"inStock":false}
+],"notes":"Smoke Inn prices; 5-packs; 3 of 4 vitolas out of stock"},
+{"id":"Foundation|Olmec","store":"smokeinn","url":"https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Corona Gorda","size":"5.5 x 48","single":null,"fivePack":64.50,"box":143.99,"count":12,"inStock":true},
+{"vitola":"Robusto","size":"5 x 50","single":null,"fivePack":69.50,"box":154.95,"count":12,"inStock":true},
+{"vitola":"Toro","size":"6 x 52","single":null,"fivePack":74.50,"box":165.95,"count":12,"inStock":false}
+],"notes":"Olmec Maduro page; Smoke Inn prices; 5-packs; boxes of 12"},
+{"id":"Arturo Fuente|OpusX Oro Oscuro","store":"smokeinn","url":"https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Perfection #4","size":"5.125 x 43","single":null,"fivePack":125.00,"box":1050.00,"count":42,"inStock":false}
+],"notes":"Only one vitola listed on page; both box and 5-pack out of stock"},
+{"id":"Davidoff|Winston Churchill The Late Hour","store":"smokeinn","url":"https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Robusto","size":"5 x 52","single":null,"fivePack":108.80,"packCount":4,"box":null,"count":null,"inStock":true},
+{"vitola":"Toro","size":"6 x 54","single":null,"fivePack":118.40,"packCount":4,"box":null,"count":null,"inStock":true},
+{"vitola":"Churchill","size":"7 x 48","single":null,"fivePack":124.80,"packCount":4,"box":null,"count":null,"inStock":true}
+],"notes":"4-pack prices; no box price captured"},
+{"id":"My Father|Le Bijou 1922","store":"smokeinn","url":"https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Petite Robusto","size":"4.5 x 50","single":null,"fivePack":39.00,"box":143.95,"count":20,"inStock":true},
+{"vitola":"Grand Robusto","size":"5 x 58","single":null,"fivePack":57.50,"box":214.50,"count":20,"inStock":true},
+{"vitola":"Toro","size":"6 x 52","single":null,"fivePack":59.50,"box":221.50,"count":20,"inStock":true},
+{"vitola":"Torpedo Box Press","size":"6.125 x 52","single":null,"fivePack":61.50,"box":229.50,"count":20,"inStock":true},
+{"vitola":"Churchill","size":"7 x 50","single":null,"fivePack":64.00,"box":237.50,"count":20,"inStock":true}
+],"notes":"Smoke Inn prices; 5-packs; boxes of 20"},
+{"id":"My Father|The Judge","store":"smokeinn","url":"https://www.smokeinn.com/My-Father-The-Judge-Cigars/","fetched":"2026-09-23","vitolas":[],"notes":"fetch returned description/reviews only, no product grid"},
+{"id":"Ashton|VSG","store":"smokeinn","url":"https://www.smokeinn.com/cigars-ashton-vsg/","fetched":"2026-09-23","vitolas":[],"notes":"fetch returned description/reviews only, no product grid"},
+{"id":"Drew Estate|Liga Privada No. 9","store":"smokeinn","url":"https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Flying Pig","size":"3.94 x 60","single":null,"fivePack":76.00,"packCount":4,"box":214.95,"count":12,"inStock":true},
+{"vitola":"Corona Viva","size":"6 x 46","single":null,"fivePack":80.00,"box":363.95,"count":24,"inStock":false},
+{"vitola":"Robusto Oscuro","size":"5 x 54","single":null,"fivePack":85.00,"box":385.95,"count":24,"inStock":true},
+{"vitola":"Toro","size":"6 x 52","single":null,"fivePack":89.50,"box":407.50,"count":24,"inStock":true},
+{"vitola":"Belicoso Oscuro","size":"6 x 52","single":null,"fivePack":94.50,"box":428.95,"count":24,"inStock":true},
+{"vitola":"Corona Doble Oscuro","size":"7 x 54","single":null,"fivePack":99.00,"box":450.50,"count":24,"inStock":true}
+],"notes":"Smoke Inn prices; Flying Pig is a 4-pack"},
+{"id":"Drew Estate|Liga Privada T52","store":"smokeinn","url":"https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Flying Pig","size":"3.94 x 60","single":null,"fivePack":76.00,"packCount":4,"box":214.95,"count":12,"inStock":true},
+{"vitola":"Corona Viva","size":"6 x 46","single":null,"fivePack":53.50,"box":242.95,"count":24,"inStock":false},
+{"vitola":"Robusto","size":"5 x 54","single":null,"fivePack":85.00,"box":363.95,"count":24,"inStock":true},
+{"vitola":"Toro","size":"6 x 52","single":null,"fivePack":89.50,"box":407.50,"count":24,"inStock":true},
+{"vitola":"Belicoso","size":"6 x 52","single":null,"fivePack":94.50,"box":428.95,"count":24,"inStock":true},
+{"vitola":"Corona Doble","size":"7 x 54","single":null,"fivePack":99.00,"box":null,"count":null,"inStock":false}
+],"notes":"Smoke Inn prices; Flying Pig is a 4-pack; Belicoso size corrected to 6 x 52"},
+{"id":"Plasencia|Reserva Original","store":"smokeinn","url":"https://www.smokeinn.com/Plasencia-Reserva-Original/","fetched":"2026-09-23","vitolas":[],"notes":"fetch returned no product grid"},
+{"id":"Dunbarton Tobacco & Trust|Mi Querida","store":"smokeinn","url":"https://www.smokeinn.com/Mi-Querida-Cigars/","fetched":"2026-09-23","vitolas":[
+{"vitola":"Pequeño","size":"4 x 44","single":null,"fivePack":39.25,"box":132.95,"count":20,"inStock":false},
+{"vitola":"Fino Largo","size":"7 x 64","single":null,"fivePack":79.50,"box":141.95,"count":10,"inStock":true},
+{"vitola":"Gordita","size":"4 x 48","single":null,"fivePack":50.50,"box":180.95,"count":20,"inStock":true},
+{"vitola":"Ancho Corto","size":"5 x 52","single":null,"fivePack":65.00,"box":231.95,"count":20,"inStock":true},
+{"vitola":"Ancho Largo","size":"6 x 48","single":null,"fivePack":69.50,"box":248.95,"count":20,"inStock":true},
+{"vitola":"Muy Gordo Grande","size":"6 x 52","single":null,"fivePack":69.50,"box":248.95,"count":20,"inStock":true},
+{"vitola":"Gran Corto","size":"6 x 56","single":null,"fivePack":67.00,"box":228.50,"count":20,"inStock":false},
+{"vitola":"Gran Largo","size":"6 x 60","single":null,"fivePack":74.50,"box":266.95,"count":20,"inStock":true}
+],"notes":"Smoke Inn prices; 5-packs; Fino Largo is a box of 10"},
+{"id":"Padrón|1926 Serie","store":"smokeinn","url":"https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/","fetched":"2026-09-23","vitolas":[
+{"vitola":"No. 90 Tubo","size":"5.5 x 52","single":null,"fivePack":124.00,"box":247.95,"count":10,"inStock":true},
+{"vitola":"80 Years","size":"6.75 x 54","single":null,"fivePack":183.50,"box":293.50,"count":8,"inStock":true},
+{"vitola":"No. 35","size":"4 x 48","single":null,"fivePack":79.00,"box":378.95,"count":24,"inStock":true},
+{"vitola":"No. 6","size":"4.75 x 50","single":null,"fivePack":89.50,"box":429.50,"count":24,"inStock":true},
+{"vitola":"No. 2","size":"5.5 x 52","single":null,"fivePack":109.50,"box":525.50,"count":24,"inStock":true},
+{"vitola":"No. 9","size":"5.25 x 56","single":null,"fivePack":120.00,"box":574.50,"count":24,"inStock":true},
+{"vitola":"No. 1","size":"6.75 x 54","single":null,"fivePack":129.50,"box":622.50,"count":24,"inStock":true},
+{"vitola":"No. 40","size":"6.5 x 54","single":null,"fivePack":157.00,"box":627.95,"count":20,"inStock":true}
+],"notes":"Maduro page; names inferred from size and count; stock assumed"},
+{"id":"Arturo Fuente|Don Carlos","store":"smokeinn","url":"https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/","fetched":"2026-09-23","vitolas":[
+{"vitola":"No. 4","size":"5.125 x 43","single":null,"fivePack":55.00,"box":245.50,"count":25,"inStock":false},
+{"vitola":"No. 3","size":"5.5 x 44","single":null,"fivePack":59.50,"box":266.50,"count":25,"inStock":true},
+{"vitola":"Robusto","size":"5 x 50","single":null,"fivePack":66.00,"box":294.50,"count":25,"inStock":true},
+{"vitola":"Double Robusto","size":"5.75 x 52","single":null,"fivePack":71.00,"box":316.95,"count":25,"inStock":false},
+{"vitola":"Belicoso","size":"5.375 x 52","single":null,"fivePack":73.00,"box":325.95,"count":25,"inStock":true},
+{"vitola":"Presidente","size":"6.5 x 50","single":null,"fivePack":76.50,"box":341.50,"count":25,"inStock":false},
+{"vitola":"No. 2","size":"6 x 55","single":null,"fivePack":87.00,"box":387.95,"count":25,"inStock":false}
+],"notes":"Smoke Inn prices; 5-packs; boxes of 25"},
+{"id":"Foundation|The Tabernacle","store":"smokeinn","url":"https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/","fetched":"2026-09-23","vitolas":[],"notes":"fetch returned description/reviews only"},
+{"id":"Padrón|1926 Serie","store":"neptune","url":"https://www.neptunecigar.com/cigar/padron-1926-maduro","fetched":"2026-09-23","vitolas":[
+{"vitola":"80 Years","size":"6.75 x 54","single":37.30,"fivePack":null,"box":298.40,"count":8,"inStock":true},
+{"vitola":"No. 1","size":"6.75 x 54","single":26.50,"fivePack":null,"box":636.00,"count":24,"inStock":true},
+{"vitola":"No. 2 Belicoso","size":"5.5 x 52","single":22.45,"fivePack":null,"box":538.80,"count":24,"inStock":true},
+{"vitola":"No. 35","size":"4 x 48","single":16.35,"fivePack":null,"box":392.40,"count":24,"inStock":true},
+{"vitola":"No. 40","size":"6.5 x 54","single":32.00,"fivePack":null,"box":640.00,"count":20,"inStock":true},
+{"vitola":"No. 47","size":"5.5 x 50","single":20.45,"fivePack":null,"box":490.80,"count":24,"inStock":true},
+{"vitola":"No. 48","size":"5.5 x 60","single":26.95,"fivePack":null,"box":269.50,"count":10,"inStock":true},
+{"vitola":"No. 6","size":"4.75 x 50","single":18.45,"fivePack":null,"box":442.80,"count":24,"inStock":true},
+{"vitola":"No. 9","size":"5.25 x 56","single":24.50,"fivePack":null,"box":588.00,"count":24,"inStock":true},
+{"vitola":"No. 90 Tubo","size":"5.5 x 52","single":25.50,"fivePack":null,"box":255.00,"count":10,"inStock":true}
+],"notes":"Maduro page; all in stock"},
+{"id":"Foundation|Olmec","store":"neptune","url":"https://www.neptunecigar.com/cigar/foundation-olmec-maduro","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Crux|Limitada","store":"neptune","url":"https://www.neptunecigar.com/cigar/crux-limitada","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Plasencia|Reserva Original","store":"neptune","url":"https://www.neptunecigar.com/cigar/plasencia-reserva-original","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Dunbarton Tobacco & Trust|Mi Querida","store":"neptune","url":"https://www.neptunecigar.com/cigar/mi-querida","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Drew Estate|Liga Privada No. 9","store":"neptune","url":"https://www.neptunecigar.com/cigar/liga-privada-no-9","fetched":"2026-09-23","vitolas":[
+{"vitola":"Belicoso","size":"6 x 52","single":19.25,"fivePack":null,"box":439.20,"count":24,"inStock":true},
+{"vitola":"Corona Doble","size":"7 x 54","single":20.25,"fivePack":null,"box":462.00,"count":24,"inStock":true},
+{"vitola":"Corona Viva","size":"6 x 46","single":16.25,"fivePack":null,"box":370.80,"count":24,"inStock":true},
+{"vitola":"Flying Pig","size":"3.94 x 60","single":19.95,"fivePack":null,"box":227.43,"count":12,"inStock":false},
+{"vitola":"Robusto","size":"5 x 54","single":17.25,"fivePack":null,"box":393.60,"count":24,"inStock":true},
+{"vitola":"Toro","size":"6 x 52","single":18.25,"fivePack":null,"box":416.40,"count":24,"inStock":true}
+],"notes":"Flying Pig out of stock"},
+{"id":"Drew Estate|Liga Privada T52","store":"neptune","url":"https://www.neptunecigar.com/cigar/liga-privada-t52","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Ashton|VSG","store":"neptune","url":"https://www.neptunecigar.com/cigar/ashton-vsg","fetched":"2026-09-23","vitolas":[],"notes":"page too long for fetch"},
+{"id":"Arturo Fuente|Don Carlos","store":"neptune","url":"https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos","fetched":"2026-09-23","vitolas":[
+{"vitola":"Belicoso","size":"5.375 x 52","single":15.35,"fivePack":null,"box":326.08,"count":25,"inStock":false},
+{"vitola":"Double Robusto","size":"5.75 x 52","single":14.91,"fivePack":null,"box":316.73,"count":25,"inStock":false},
+{"vitola":"Eye of the Bull","size":"3.5 x 55","single":22.89,"fivePack":114.48,"box":457.92,"count":20,"inStock":false},
+{"vitola":"Eye of the Shark","size":"5.75 x 52","single":32.40,"fivePack":161.97,"box":647.82,"count":20,"inStock":false},
+{"vitola":"No. 2","size":"6 x 55","single":18.26,"fivePack":null,"box":388.03,"count":25,"inStock":true},
+{"vitola":"No. 3","size":"5.5 x 44","single":12.54,"fivePack":null,"box":266.48,"count":25,"inStock":true},
+{"vitola":"No. 4","size":"5 x 43","single":11.55,"fivePack":null,"box":245.44,"count":25,"inStock":false},
+{"vitola":"Personal Reserve","size":"5 x 50","single":34.89,"fivePack":174.48,"box":697.95,"count":20,"inStock":false},
+{"vitola":"Petite Lancero","size":"6.25 x 40","single":24.05,"fivePack":null,"box":601.25,"count":25,"inStock":false},
+{"vitola":"Presidente","size":"6.5 x 50","single":16.06,"fivePack":null,"box":341.28,"count":25,"inStock":false},
+{"vitola":"Robusto","size":"5 x 50","single":13.86,"fivePack":null,"box":294.53,"count":25,"inStock":false},
+{"vitola":"The Man Robusto","size":"5.25 x 50","single":35.64,"fivePack":null,"box":712.80,"count":20,"inStock":false}
+],"notes":"backorder recorded as out of stock"}
+]

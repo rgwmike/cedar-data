@@ -1,0 +1,4226 @@
+{
+ "schema": 1,
+ "generated": "2026-09-23",
+ "stores": {
+  "neptune": {
+   "name": "Neptune Cigar",
+   "home": "https://www.neptunecigar.com"
+  },
+  "holts": {
+   "name": "Holt's",
+   "home": "https://www.holts.com"
+  },
+  "smokeinn": {
+   "name": "Smoke Inn",
+   "home": "https://www.smokeinn.com"
+  },
+  "mikes": {
+   "name": "Mike's Cigars",
+   "home": "https://mikescigars.com"
+  }
+ },
+ "note": "perStick basis: single = listed single price; box = box price / count; pack = pack price / pack size. low/median/high are across stores.",
+ "lines": [
+  {
+   "id": "Arturo Fuente|Don Carlos",
+   "display": "Arturo Fuente Don Carlos",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Eye of the Bull",
+     "size": "3.5 x 55",
+     "low": 17.25,
+     "median": 20.07,
+     "high": 22.89,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Eye of the Bull",
+       "single": 22.89,
+       "box": 457.92,
+       "count": 20,
+       "pack": 114.48,
+       "packCount": 5,
+       "perStick": 22.89,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Eye of the Bull",
+       "single": 17.25,
+       "box": 345.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.25,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 4",
+     "size": "5 x 43",
+     "low": 11.55,
+     "median": 11.55,
+     "high": 11.55,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "No. 4",
+       "single": 11.55,
+       "box": 245.44,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 11.55,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Personal Reserve",
+     "size": "5 x 50",
+     "low": 11.78,
+     "median": 19.43,
+     "high": 34.89,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Robusto",
+       "single": null,
+       "box": 294.5,
+       "count": 25,
+       "pack": 66.0,
+       "packCount": 5,
+       "perStick": 11.78,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Personal Reserve",
+       "single": 34.89,
+       "box": 697.95,
+       "count": 20,
+       "pack": 174.48,
+       "packCount": 5,
+       "perStick": 34.89,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Robusto",
+       "single": 13.86,
+       "box": 294.53,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 13.86,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Personal Reserve",
+       "single": 25.0,
+       "box": 500.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 25.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 4",
+     "size": "5.12 x 43",
+     "low": 9.82,
+     "median": 11.55,
+     "high": 13.3,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 4",
+       "single": null,
+       "box": 245.5,
+       "count": 25,
+       "pack": 55.0,
+       "packCount": 5,
+       "perStick": 9.82,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 4",
+       "single": 11.55,
+       "box": 244.95,
+       "count": 25,
+       "pack": 54.75,
+       "packCount": 5,
+       "perStick": 11.55,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 4",
+       "single": 13.3,
+       "box": 259.95,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 13.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5.25 x 50",
+     "low": 13.86,
+     "median": 15.95,
+     "high": 35.64,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "The Man Robusto",
+       "single": 35.64,
+       "box": 712.8,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 35.64,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 13.86,
+       "box": 293.95,
+       "count": 25,
+       "pack": 65.75,
+       "packCount": 5,
+       "perStick": 13.86,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": 15.95,
+       "box": 311.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Eye of the Shark",
+     "size": "5.25 x 52",
+     "low": 25.0,
+     "median": 25.0,
+     "high": 25.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Eye of the Shark",
+       "single": 25.0,
+       "box": 500.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 25.0,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Belicoso",
+     "size": "5.38 x 52",
+     "low": 13.04,
+     "median": 15.35,
+     "high": 15.35,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Belicoso",
+       "single": null,
+       "box": 325.95,
+       "count": 25,
+       "pack": 73.0,
+       "packCount": 5,
+       "perStick": 13.04,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Belicoso",
+       "single": 15.35,
+       "box": 326.08,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.35,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Belicoso",
+       "single": 15.35,
+       "box": 325.95,
+       "count": 25,
+       "pack": 72.75,
+       "packCount": 5,
+       "perStick": 15.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 3",
+     "size": "5.5 x 44",
+     "low": 10.66,
+     "median": 12.54,
+     "high": 14.5,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 3",
+       "single": null,
+       "box": 266.5,
+       "count": 25,
+       "pack": 59.5,
+       "packCount": 5,
+       "perStick": 10.66,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 3",
+       "single": 12.54,
+       "box": 266.48,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 12.54,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 3",
+       "single": 12.54,
+       "box": 265.95,
+       "count": 25,
+       "pack": 59.5,
+       "packCount": 5,
+       "perStick": 12.54,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 3",
+       "single": 14.5,
+       "box": 282.5,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Belicoso",
+     "size": "5.5 x 52",
+     "low": 17.65,
+     "median": 17.65,
+     "high": 17.65,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Belicoso",
+       "single": 17.65,
+       "box": 345.5,
+       "count": null,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.65,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Double Robusto",
+     "size": "5.75 x 52",
+     "low": 12.68,
+     "median": 14.91,
+     "high": 32.4,
+     "stores": 5,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Double Robusto",
+       "single": null,
+       "box": 316.95,
+       "count": 25,
+       "pack": 71.0,
+       "packCount": 5,
+       "perStick": 12.68,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Double Robusto",
+       "single": 14.91,
+       "box": 316.73,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.91,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Eye of the Shark",
+       "single": 32.4,
+       "box": 647.82,
+       "count": 20,
+       "pack": 161.97,
+       "packCount": 5,
+       "perStick": 32.4,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Double Robusto",
+       "single": 14.91,
+       "box": 315.95,
+       "count": 25,
+       "pack": 70.75,
+       "packCount": 5,
+       "perStick": 14.91,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Double Robusto",
+       "single": 17.15,
+       "box": 335.5,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.15,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 2 Torpedo",
+     "size": "6 x 55",
+     "low": 15.52,
+     "median": 18.26,
+     "high": 21.0,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 2",
+       "single": null,
+       "box": 387.95,
+       "count": 25,
+       "pack": 87.0,
+       "packCount": 5,
+       "perStick": 15.52,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 2",
+       "single": 18.26,
+       "box": 388.03,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.26,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 2",
+       "single": 18.26,
+       "box": 387.95,
+       "count": 25,
+       "pack": 86.5,
+       "packCount": 5,
+       "perStick": 18.26,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 2",
+       "single": 21.0,
+       "box": 410.95,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 21.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Petite Lancero",
+     "size": "6.25 x 40",
+     "low": 24.05,
+     "median": 24.05,
+     "high": 24.05,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Petite Lancero",
+       "single": 24.05,
+       "box": 601.25,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.05,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Presidente",
+     "size": "6.5 x 50",
+     "low": 13.66,
+     "median": 16.06,
+     "high": 18.45,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Presidente",
+       "single": null,
+       "box": 341.5,
+       "count": 25,
+       "pack": 76.5,
+       "packCount": 5,
+       "perStick": 13.66,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Presidente",
+       "single": 16.06,
+       "box": 341.28,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.06,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Presidente",
+       "single": 16.06,
+       "box": 340.95,
+       "count": 25,
+       "pack": 76.25,
+       "packCount": 5,
+       "perStick": 16.06,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Presidente",
+       "single": 18.45,
+       "box": 361.5,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Arturo Fuente|OpusX Oro Oscuro",
+   "display": "Arturo Fuente OpusX Oro Oscuro",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Perfection #4",
+     "size": "5.12 x 43",
+     "low": 25.0,
+     "median": 25.0,
+     "high": 25.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Perfection #4",
+       "single": null,
+       "box": 1050.0,
+       "count": 42,
+       "pack": 125.0,
+       "packCount": 5,
+       "perStick": 25.0,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Ashton|VSG",
+   "display": "Ashton VSG",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes"
+   ],
+   "vitolas": [
+    {
+     "name": "Tres Mystique",
+     "size": "4.38 x 44",
+     "low": 15.0,
+     "median": 15.0,
+     "high": 15.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Tres Mystique",
+       "single": 15.0,
+       "box": 323.95,
+       "count": 24,
+       "pack": 71.25,
+       "packCount": 5,
+       "perStick": 15.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Enchantment",
+     "size": "4.38 x 60",
+     "low": 17.75,
+     "median": 19.07,
+     "high": 20.4,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Enchantment (Perfecto)",
+       "single": 17.75,
+       "box": 350.95,
+       "count": 22,
+       "pack": 84.25,
+       "packCount": 5,
+       "perStick": 17.75,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Enchantment",
+       "single": 20.4,
+       "box": 351.5,
+       "count": 22,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.4,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Tres Mystique",
+     "size": "4.75 x 44",
+     "low": 17.25,
+     "median": 17.25,
+     "high": 17.25,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Tres Mystique",
+       "single": 17.25,
+       "box": 323.95,
+       "count": null,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Pegasus",
+     "size": "5 x 54",
+     "low": 16.8,
+     "median": 18.05,
+     "high": 19.3,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Pegasus",
+       "single": 16.8,
+       "box": 301.95,
+       "count": 20,
+       "pack": 79.75,
+       "packCount": 5,
+       "perStick": 16.8,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Pegasus",
+       "single": 19.3,
+       "box": 302.5,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Belicoso No. 1",
+     "size": "5.25 x 52",
+     "low": 16.25,
+     "median": 17.48,
+     "high": 18.7,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Belicoso #1",
+       "single": 16.25,
+       "box": 350.95,
+       "count": 24,
+       "pack": 77.0,
+       "packCount": 5,
+       "perStick": 16.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Belicoso #1",
+       "single": 18.7,
+       "box": 350.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.7,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5.5 x 50",
+     "low": 16.0,
+     "median": 17.2,
+     "high": 18.4,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 16.0,
+       "box": 344.95,
+       "count": 24,
+       "pack": 76.0,
+       "packCount": 5,
+       "perStick": 16.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": 18.4,
+       "box": 345.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.4,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Gorda",
+     "size": "5.75 x 46",
+     "low": 15.75,
+     "median": 16.93,
+     "high": 18.1,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Corona Gorda",
+       "single": 15.75,
+       "box": 339.95,
+       "count": 24,
+       "pack": 74.75,
+       "packCount": 5,
+       "perStick": 15.75,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Gorda",
+       "single": 18.1,
+       "box": 340.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.1,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Eclipse Tube",
+     "size": "6 x 52",
+     "low": 20.0,
+     "median": 21.5,
+     "high": 23.0,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Eclipse (Tube)",
+       "single": 20.0,
+       "box": 431.95,
+       "count": 24,
+       "pack": 95.0,
+       "packCount": 5,
+       "perStick": 20.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Eclipse Tube",
+       "single": 23.0,
+       "box": 431.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 23.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Wizard",
+     "size": "6 x 56",
+     "low": 19.0,
+     "median": 20.43,
+     "high": 21.85,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Wizard",
+       "single": 19.0,
+       "box": 631.95,
+       "count": 37,
+       "pack": 90.25,
+       "packCount": 5,
+       "perStick": 19.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Wizard",
+       "single": 21.85,
+       "box": 632.95,
+       "count": 37,
+       "pack": null,
+       "packCount": null,
+       "perStick": 21.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Illusion",
+     "size": "6.5 x 44",
+     "low": 15.85,
+     "median": 17.05,
+     "high": 18.25,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Illusion",
+       "single": 15.85,
+       "box": 341.95,
+       "count": 24,
+       "pack": 75.25,
+       "packCount": 5,
+       "perStick": 15.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Illusion",
+       "single": 18.25,
+       "box": 342.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Torpedo",
+     "size": "6.5 x 55",
+     "low": 18.75,
+     "median": 20.15,
+     "high": 21.55,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Torpedo",
+       "single": 18.75,
+       "box": 404.95,
+       "count": 24,
+       "pack": 89.0,
+       "packCount": 5,
+       "perStick": 18.75,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Torpedo",
+       "single": 21.55,
+       "box": 404.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 21.55,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Sorcerer",
+     "size": "7 x 49",
+     "low": 17.25,
+     "median": 18.55,
+     "high": 19.85,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Sorcerer",
+       "single": 17.25,
+       "box": 371.95,
+       "count": 24,
+       "pack": 81.75,
+       "packCount": 5,
+       "perStick": 17.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Sorcerer",
+       "single": 19.85,
+       "box": 372.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Spellbound",
+     "size": "7.5 x 54",
+     "low": 19.85,
+     "median": 21.35,
+     "high": 22.85,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Spellbound",
+       "single": 19.85,
+       "box": 427.95,
+       "count": 24,
+       "pack": 94.25,
+       "packCount": 5,
+       "perStick": 19.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Spellbound",
+       "single": 22.85,
+       "box": 428.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Crux|Limitada",
+   "display": "Crux Limitada",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "neptune"
+   ],
+   "storesWithPrices": [],
+   "vitolas": []
+  },
+  {
+   "id": "Davidoff|Winston Churchill The Late Hour",
+   "display": "Davidoff Winston Churchill The Late Hour",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Petit Panetela",
+     "size": "4 x 38",
+     "low": null,
+     "median": null,
+     "high": null,
+     "stores": 0,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Petit Panetela",
+       "single": null,
+       "box": 254.5,
+       "count": null,
+       "pack": null,
+       "packCount": null,
+       "perStick": null,
+       "basis": null,
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Belicoso",
+     "size": "4.5 x 46",
+     "low": null,
+     "median": null,
+     "high": null,
+     "stores": 0,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Belicoso",
+       "single": null,
+       "box": 235.95,
+       "count": null,
+       "pack": null,
+       "packCount": null,
+       "perStick": null,
+       "basis": null,
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5 x 52",
+     "low": 27.2,
+     "median": 27.2,
+     "high": 31.3,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Robusto",
+       "single": null,
+       "box": null,
+       "count": 20,
+       "pack": 108.8,
+       "packCount": 4,
+       "perStick": 27.2,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 27.2,
+       "box": 544.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 27.2,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": 31.3,
+       "box": 516.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 31.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 54",
+     "low": 29.6,
+     "median": 29.6,
+     "high": 34.05,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Toro",
+       "single": null,
+       "box": null,
+       "count": 20,
+       "pack": 118.4,
+       "packCount": 4,
+       "perStick": 29.6,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 29.6,
+       "box": 592.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 29.6,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": 34.05,
+       "box": 562.5,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 34.05,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Churchill",
+     "size": "7 x 48",
+     "low": 31.2,
+     "median": 31.2,
+     "high": 35.9,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Churchill",
+       "single": null,
+       "box": null,
+       "count": 20,
+       "pack": 124.8,
+       "packCount": 4,
+       "perStick": 31.2,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Churchill",
+       "single": 31.2,
+       "box": 624.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 31.2,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Churchill",
+       "single": 35.9,
+       "box": 592.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 35.9,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Drew Estate|Liga Privada No. 9",
+   "display": "Drew Estate Liga Privada No. 9",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Flying Pig",
+     "size": "3.94 x 60",
+     "low": 17.91,
+     "median": 18.38,
+     "high": 19.95,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Flying Pig",
+       "single": null,
+       "box": 214.95,
+       "count": 12,
+       "pack": 76.0,
+       "packCount": 4,
+       "perStick": 17.91,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Flying Pig",
+       "single": 19.95,
+       "box": 227.43,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.95,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Flying Pig",
+       "single": null,
+       "box": 220.5,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.38,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Coronets",
+     "size": "4 x 32",
+     "low": 2.19,
+     "median": 2.19,
+     "high": 2.19,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Coronets",
+       "single": null,
+       "box": 109.3,
+       "count": 50,
+       "pack": null,
+       "packCount": null,
+       "perStick": 2.19,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Flying Pig",
+     "size": "4.12 x 60",
+     "low": 19.3,
+     "median": 19.3,
+     "high": 19.3,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Flying Pig",
+       "single": 19.3,
+       "box": 231.6,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.3,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5 x 54",
+     "low": 16.08,
+     "median": 17.11,
+     "high": 17.85,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Robusto Oscuro",
+       "single": null,
+       "box": 385.95,
+       "count": 24,
+       "pack": 85.0,
+       "packCount": 5,
+       "perStick": 16.08,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Robusto",
+       "single": 17.25,
+       "box": 393.6,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 17.85,
+       "box": 407.0,
+       "count": 24,
+       "pack": 89.25,
+       "packCount": 5,
+       "perStick": 17.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": null,
+       "box": 406.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.96,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Parejo Oscuro",
+     "size": "6 x 46",
+     "low": 15.16,
+     "median": 16.02,
+     "high": 16.25,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 363.95,
+       "count": 24,
+       "pack": 80.0,
+       "packCount": 5,
+       "perStick": 15.16,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Corona Viva",
+       "single": 16.25,
+       "box": 370.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 384.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.02,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Viva",
+     "size": "6 x 48",
+     "low": 16.85,
+     "median": 16.85,
+     "high": 16.85,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Corona Viva",
+       "single": 16.85,
+       "box": 384.2,
+       "count": 24,
+       "pack": 84.25,
+       "packCount": 5,
+       "perStick": 16.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 52",
+     "low": 16.98,
+     "median": 18.55,
+     "high": 19.85,
+     "stores": 8,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Toro",
+       "single": null,
+       "box": 407.5,
+       "count": 24,
+       "pack": 89.5,
+       "packCount": 5,
+       "perStick": 16.98,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "smokeinn",
+       "name": "Belicoso Oscuro",
+       "single": null,
+       "box": 428.95,
+       "count": 24,
+       "pack": 94.5,
+       "packCount": 5,
+       "perStick": 17.87,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Belicoso",
+       "single": 19.25,
+       "box": 439.2,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Toro",
+       "single": 18.25,
+       "box": 416.4,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Belicoso",
+       "single": 19.85,
+       "box": 452.6,
+       "count": 24,
+       "pack": 99.25,
+       "packCount": 5,
+       "perStick": 19.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 18.85,
+       "box": 429.8,
+       "count": 24,
+       "pack": 94.25,
+       "packCount": 5,
+       "perStick": 18.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": null,
+       "box": 429.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.91,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Belicoso",
+       "single": null,
+       "box": 452.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.87,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Doble",
+     "size": "7 x 54",
+     "low": 18.77,
+     "median": 20.03,
+     "high": 20.85,
+     "stores": 4,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Corona Doble Oscuro",
+       "single": null,
+       "box": 450.5,
+       "count": 24,
+       "pack": 99.0,
+       "packCount": 5,
+       "perStick": 18.77,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "Corona Doble",
+       "single": 20.25,
+       "box": 462.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Corona Doble",
+       "single": 20.85,
+       "box": 475.4,
+       "count": 24,
+       "pack": 104.25,
+       "packCount": 5,
+       "perStick": 20.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Doble",
+       "single": null,
+       "box": 475.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.81,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Drew Estate|Liga Privada T52",
+   "display": "Drew Estate Liga Privada T52",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Flying Pig",
+     "size": "3.94 x 60",
+     "low": 17.91,
+     "median": 18.14,
+     "high": 18.38,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Flying Pig",
+       "single": null,
+       "box": 214.95,
+       "count": 12,
+       "pack": 76.0,
+       "packCount": 4,
+       "perStick": 17.91,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Flying Pig",
+       "single": null,
+       "box": 220.5,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.38,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Coronets",
+     "size": "4 x 32",
+     "low": 2.19,
+     "median": 2.19,
+     "high": 2.19,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Coronets",
+       "single": null,
+       "box": 109.3,
+       "count": 50,
+       "pack": null,
+       "packCount": null,
+       "perStick": 2.19,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Flying Pig",
+     "size": "4.12 x 60",
+     "low": null,
+     "median": null,
+     "high": null,
+     "stores": 0,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Flying Pig",
+       "single": null,
+       "box": null,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": null,
+       "basis": null,
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5 x 54",
+     "low": 15.16,
+     "median": 16.96,
+     "high": 17.85,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Robusto",
+       "single": null,
+       "box": 363.95,
+       "count": 24,
+       "pack": 85.0,
+       "packCount": 5,
+       "perStick": 15.16,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 17.85,
+       "box": 407.0,
+       "count": 24,
+       "pack": 89.25,
+       "packCount": 5,
+       "perStick": 17.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": null,
+       "box": 406.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.96,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Viva",
+     "size": "6 x 46",
+     "low": 10.12,
+     "median": 13.07,
+     "high": 16.02,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 242.95,
+       "count": 24,
+       "pack": 53.5,
+       "packCount": 5,
+       "perStick": 10.12,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 384.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.02,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Viva",
+     "size": "6 x 48",
+     "low": 16.85,
+     "median": 16.85,
+     "high": 16.85,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Corona Viva",
+       "single": 16.85,
+       "box": 384.2,
+       "count": 24,
+       "pack": 84.25,
+       "packCount": 5,
+       "perStick": 16.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 52",
+     "low": 16.98,
+     "median": 18.38,
+     "high": 19.85,
+     "stores": 6,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Toro",
+       "single": null,
+       "box": 407.5,
+       "count": 24,
+       "pack": 89.5,
+       "packCount": 5,
+       "perStick": 16.98,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "smokeinn",
+       "name": "Belicoso",
+       "single": null,
+       "box": 428.95,
+       "count": 24,
+       "pack": 94.5,
+       "packCount": 5,
+       "perStick": 17.87,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Belicoso",
+       "single": 19.85,
+       "box": 452.6,
+       "count": 24,
+       "pack": 99.25,
+       "packCount": 5,
+       "perStick": 19.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 18.85,
+       "box": 429.8,
+       "count": 24,
+       "pack": 94.25,
+       "packCount": 5,
+       "perStick": 18.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Belicoso",
+       "single": null,
+       "box": 452.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.87,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": null,
+       "box": 429.95,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.91,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Doble",
+     "size": "7 x 54",
+     "low": 19.8,
+     "median": 19.81,
+     "high": 20.85,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Corona Doble",
+       "single": null,
+       "box": null,
+       "count": 24,
+       "pack": 99.0,
+       "packCount": 5,
+       "perStick": 19.8,
+       "basis": "pack",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Corona Doble",
+       "single": 20.85,
+       "box": 475.4,
+       "count": 24,
+       "pack": 104.25,
+       "packCount": 5,
+       "perStick": 20.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Doble",
+       "single": null,
+       "box": 475.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.81,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/liga-privada-t52",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Dunbarton Tobacco & Trust|Mi Querida",
+   "display": "Dunbarton Tobacco & Trust Mi Querida",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Pequeño",
+     "size": "4 x 44",
+     "low": 6.65,
+     "median": 6.65,
+     "high": 6.65,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Pequeño",
+       "single": null,
+       "box": 132.95,
+       "count": 20,
+       "pack": 39.25,
+       "packCount": 5,
+       "perStick": 6.65,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Gordita",
+     "size": "4 x 48",
+     "low": 9.05,
+     "median": 9.05,
+     "high": 9.05,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Gordita",
+       "single": null,
+       "box": 180.95,
+       "count": 20,
+       "pack": 50.5,
+       "packCount": 5,
+       "perStick": 9.05,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Ancho Corto",
+     "size": "5 x 52",
+     "low": 11.6,
+     "median": 11.6,
+     "high": 11.6,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Ancho Corto",
+       "single": null,
+       "box": 231.95,
+       "count": 20,
+       "pack": 65.0,
+       "packCount": 5,
+       "perStick": 11.6,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Ancho Largo",
+     "size": "6 x 48",
+     "low": 12.45,
+     "median": 12.45,
+     "high": 12.45,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Ancho Largo",
+       "single": null,
+       "box": 248.95,
+       "count": 20,
+       "pack": 69.5,
+       "packCount": 5,
+       "perStick": 12.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Ancho Largo",
+     "size": "6 x 52",
+     "low": 12.45,
+     "median": 12.45,
+     "high": 12.45,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Muy Gordo Grande",
+       "single": null,
+       "box": 248.95,
+       "count": 20,
+       "pack": 69.5,
+       "packCount": 5,
+       "perStick": 12.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Gran Corto",
+     "size": "6 x 56",
+     "low": 11.43,
+     "median": 11.43,
+     "high": 11.43,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Gran Corto",
+       "single": null,
+       "box": 228.5,
+       "count": 20,
+       "pack": 67.0,
+       "packCount": 5,
+       "perStick": 11.43,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Muy Gordo Grande",
+     "size": "6 x 60",
+     "low": 13.35,
+     "median": 13.35,
+     "high": 13.35,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Gran Largo",
+       "single": null,
+       "box": 266.95,
+       "count": 20,
+       "pack": 74.5,
+       "packCount": 5,
+       "perStick": 13.35,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Fino Largo",
+     "size": "7 x 64",
+     "low": 14.19,
+     "median": 14.19,
+     "high": 14.19,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Fino Largo",
+       "single": null,
+       "box": 141.95,
+       "count": 10,
+       "pack": 79.5,
+       "packCount": 5,
+       "perStick": 14.19,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "E.P. Carrillo|Encore",
+   "display": "E.P. Carrillo Encore",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "El Futuro",
+     "size": "5 x 50",
+     "low": 13.8,
+     "median": 13.8,
+     "high": 13.8,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "El Futuro",
+       "single": 13.8,
+       "box": 215.95,
+       "count": null,
+       "pack": null,
+       "packCount": null,
+       "perStick": 13.8,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Majestic",
+     "size": "5.38 x 52",
+     "low": 12.3,
+     "median": 12.75,
+     "high": 14.15,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Majestic Robusto",
+       "single": null,
+       "box": 245.95,
+       "count": 20,
+       "pack": 64.75,
+       "packCount": 5,
+       "perStick": 12.3,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Majestic",
+       "single": 14.15,
+       "box": 253.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.15,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Majestic",
+       "single": null,
+       "box": 254.95,
+       "count": 20,
+       "pack": 67.5,
+       "packCount": 5,
+       "perStick": 12.75,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Celestial",
+     "size": "6.12 x 50",
+     "low": 12.55,
+     "median": 12.97,
+     "high": 14.4,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Celestial Toro",
+       "single": null,
+       "box": 250.95,
+       "count": 20,
+       "pack": 66.0,
+       "packCount": 5,
+       "perStick": 12.55,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Celestial",
+       "single": 14.4,
+       "box": 258.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.4,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Celestial",
+       "single": null,
+       "box": 259.5,
+       "count": 20,
+       "pack": 68.5,
+       "packCount": 5,
+       "perStick": 12.97,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Valientes (Torpedo)",
+     "size": "6.12 x 52",
+     "low": 13.0,
+     "median": 13.43,
+     "high": 14.9,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Valientes Torpedo",
+       "single": null,
+       "box": 259.95,
+       "count": 20,
+       "pack": 68.5,
+       "packCount": 5,
+       "perStick": 13.0,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Valientes (Torpedo)",
+       "single": 14.9,
+       "box": 267.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.9,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Valientes",
+       "single": null,
+       "box": 268.5,
+       "count": 20,
+       "pack": 70.95,
+       "packCount": 5,
+       "perStick": 13.43,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "El Primero",
+     "size": "6.88 x 54",
+     "low": 12.82,
+     "median": 13.05,
+     "high": 13.28,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "El Primero Churchill",
+       "single": null,
+       "box": 256.5,
+       "count": 20,
+       "pack": 67.5,
+       "packCount": 5,
+       "perStick": 12.82,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "El Primero",
+       "single": null,
+       "box": 265.5,
+       "count": 20,
+       "pack": 70.5,
+       "packCount": 5,
+       "perStick": 13.28,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Foundation|Olmec",
+   "display": "Foundation Olmec",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Robusto",
+     "size": "5 x 50",
+     "low": 12.91,
+     "median": 14.16,
+     "high": 15.42,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Robusto",
+       "single": null,
+       "box": 154.95,
+       "count": 12,
+       "pack": 69.5,
+       "packCount": 5,
+       "perStick": 12.91,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 15.42,
+       "box": 166.54,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.42,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Gorda",
+     "size": "5.5 x 48",
+     "low": 12.0,
+     "median": 12.0,
+     "high": 12.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Corona Gorda",
+       "single": null,
+       "box": 143.99,
+       "count": 12,
+       "pack": 64.5,
+       "packCount": 5,
+       "perStick": 12.0,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 52",
+     "low": 13.83,
+     "median": 15.14,
+     "high": 16.44,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Toro",
+       "single": null,
+       "box": 165.95,
+       "count": 12,
+       "pack": 74.5,
+       "packCount": 5,
+       "perStick": 13.83,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 16.44,
+       "box": 177.55,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.44,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Grande",
+     "size": "6 x 60",
+     "low": 17.66,
+     "median": 17.66,
+     "high": 17.66,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Grande",
+       "single": 17.66,
+       "box": 190.73,
+       "count": 12,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.66,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Foundation|The Tabernacle",
+   "display": "Foundation The Tabernacle",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes"
+   ],
+   "vitolas": [
+    {
+     "name": "Robusto",
+     "size": "5 x 50",
+     "low": 11.44,
+     "median": 12.94,
+     "high": 14.44,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 14.44,
+       "box": 311.9,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.44,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": null,
+       "box": 274.5,
+       "count": 24,
+       "pack": 60.5,
+       "packCount": 5,
+       "perStick": 11.44,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 52",
+     "low": 15.58,
+     "median": 15.71,
+     "high": 15.85,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 15.58,
+       "box": 336.53,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.58,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": 15.85,
+       "box": 297.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.85,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Doble Corona",
+     "size": "7 x 54",
+     "low": 12.73,
+     "median": 14.43,
+     "high": 16.12,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Doble Corona",
+       "single": 16.12,
+       "box": 348.19,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.12,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Double Corona",
+       "single": null,
+       "box": 305.5,
+       "count": 24,
+       "pack": 67.95,
+       "packCount": 5,
+       "perStick": 12.73,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "My Father|Le Bijou 1922",
+   "display": "My Father Le Bijou 1922",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "Petit Robusto",
+     "size": "4.5 x 50",
+     "low": 7.2,
+     "median": 8.3,
+     "high": 9.55,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Petite Robusto",
+       "single": null,
+       "box": 143.95,
+       "count": 20,
+       "pack": 39.0,
+       "packCount": 5,
+       "perStick": 7.2,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Petit Robusto",
+       "single": 8.3,
+       "box": 148.95,
+       "count": 20,
+       "pack": 39.25,
+       "packCount": 5,
+       "perStick": 8.3,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Petit Robusto",
+       "single": 9.55,
+       "box": 132.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 9.55,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Grand Robusto",
+     "size": "5 x 58",
+     "low": 10.72,
+     "median": 10.72,
+     "high": 10.72,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Grand Robusto",
+       "single": null,
+       "box": 214.5,
+       "count": 20,
+       "pack": 57.5,
+       "packCount": 5,
+       "perStick": 10.72,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Grand Robusto",
+     "size": "5.62 x 55",
+     "low": 9.78,
+     "median": 10.99,
+     "high": 12.2,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Grand Robusto",
+       "single": 12.2,
+       "box": 218.95,
+       "count": 20,
+       "pack": 57.75,
+       "packCount": 5,
+       "perStick": 12.2,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Grand Robusto",
+       "single": null,
+       "box": 195.5,
+       "count": 20,
+       "pack": 54.95,
+       "packCount": 5,
+       "perStick": 9.78,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 52",
+     "low": 11.07,
+     "median": 12.6,
+     "high": 14.5,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Toro",
+       "single": null,
+       "box": 221.5,
+       "count": 20,
+       "pack": 59.5,
+       "packCount": 5,
+       "perStick": 11.07,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 12.6,
+       "box": 225.95,
+       "count": 20,
+       "pack": 59.75,
+       "packCount": 5,
+       "perStick": 12.6,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": 14.5,
+       "box": 201.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Torpedo Box Press",
+     "size": "6.12 x 52",
+     "low": 11.47,
+     "median": 13.0,
+     "high": 14.95,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Torpedo Box Press",
+       "single": null,
+       "box": 229.5,
+       "count": 20,
+       "pack": 61.5,
+       "packCount": 5,
+       "perStick": 11.47,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Torpedo Box Press",
+       "single": 13.0,
+       "box": 233.95,
+       "count": 20,
+       "pack": 61.75,
+       "packCount": 5,
+       "perStick": 13.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Torpedo Box Press",
+       "single": 14.95,
+       "box": 215.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 14.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Churchill",
+     "size": "7 x 50",
+     "low": 11.88,
+     "median": 13.5,
+     "high": 15.5,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Churchill",
+       "single": null,
+       "box": 237.5,
+       "count": 20,
+       "pack": 64.0,
+       "packCount": 5,
+       "perStick": 11.88,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "Churchill",
+       "single": 13.5,
+       "box": 278.95,
+       "count": 23,
+       "pack": 64.0,
+       "packCount": 5,
+       "perStick": 13.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Churchill",
+       "single": 15.5,
+       "box": 215.95,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 15.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "My Father|The Judge",
+   "display": "My Father The Judge",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes"
+   ],
+   "vitolas": [
+    {
+     "name": "Grand Robusto",
+     "size": "5 x 60",
+     "low": 12.25,
+     "median": 12.93,
+     "high": 13.6,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Grand Robusto",
+       "single": 13.6,
+       "box": 243.95,
+       "count": 20,
+       "pack": 64.5,
+       "packCount": 5,
+       "perStick": 13.6,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Grand Robusto",
+       "single": null,
+       "box": 244.95,
+       "count": 20,
+       "pack": 64.95,
+       "packCount": 5,
+       "perStick": 12.25,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Corona Gorda",
+     "size": "5.62 x 46",
+     "low": 10.72,
+     "median": 11.31,
+     "high": 11.9,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Corona Gorda",
+       "single": 11.9,
+       "box": 213.95,
+       "count": 20,
+       "pack": 56.5,
+       "packCount": 5,
+       "perStick": 11.9,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Gorda",
+       "single": null,
+       "box": 214.5,
+       "count": 20,
+       "pack": 56.95,
+       "packCount": 5,
+       "perStick": 10.72,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro Fino",
+     "size": "6 x 52",
+     "low": 11.62,
+     "median": 12.26,
+     "high": 12.9,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Toro Fino",
+       "single": 12.9,
+       "box": 231.95,
+       "count": 20,
+       "pack": 61.25,
+       "packCount": 5,
+       "perStick": 12.9,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro Fino",
+       "single": null,
+       "box": 232.5,
+       "count": 20,
+       "pack": 61.5,
+       "packCount": 5,
+       "perStick": 11.62,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro Gordo",
+     "size": "6 x 56",
+     "low": 11.97,
+     "median": 12.64,
+     "high": 13.3,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 13.3,
+       "box": 238.95,
+       "count": 20,
+       "pack": 63.0,
+       "packCount": 5,
+       "perStick": 13.3,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": null,
+       "box": 239.5,
+       "count": 20,
+       "pack": 63.5,
+       "packCount": 5,
+       "perStick": 11.97,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Padrón|1926 Serie",
+   "display": "Padrón 1926 Serie",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "vitolas": [
+    {
+     "name": "No. 35",
+     "size": "4 x 48",
+     "low": 15.79,
+     "median": 16.35,
+     "high": 16.35,
+     "stores": 5,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 35",
+       "single": null,
+       "box": 378.95,
+       "count": 24,
+       "pack": 79.0,
+       "packCount": 5,
+       "perStick": 15.79,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 35",
+       "single": 16.35,
+       "box": 392.4,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 35 Natural",
+       "single": 16.35,
+       "box": 392.4,
+       "count": 24,
+       "pack": 81.75,
+       "packCount": 5,
+       "perStick": 16.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 35 Maduro",
+       "single": 16.35,
+       "box": 392.4,
+       "count": 24,
+       "pack": 81.75,
+       "packCount": 5,
+       "perStick": 16.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 35 Maduro",
+       "single": null,
+       "box": 392.4,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.35,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 6",
+     "size": "4.75 x 50",
+     "low": 17.9,
+     "median": 18.45,
+     "high": 18.45,
+     "stores": 6,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 6",
+       "single": null,
+       "box": 429.5,
+       "count": 24,
+       "pack": 89.5,
+       "packCount": 5,
+       "perStick": 17.9,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 6",
+       "single": 18.45,
+       "box": 442.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 6 Natural",
+       "single": 18.45,
+       "box": 442.8,
+       "count": 24,
+       "pack": 92.25,
+       "packCount": 5,
+       "perStick": 18.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 6 Maduro",
+       "single": 18.45,
+       "box": 442.8,
+       "count": 24,
+       "pack": 92.25,
+       "packCount": 5,
+       "perStick": 18.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 6 Natural",
+       "single": null,
+       "box": 442.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 6 Maduro",
+       "single": null,
+       "box": 442.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 9",
+     "size": "5.25 x 56",
+     "low": 23.94,
+     "median": 24.5,
+     "high": 24.5,
+     "stores": 6,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 9",
+       "single": null,
+       "box": 574.5,
+       "count": 24,
+       "pack": 120.0,
+       "packCount": 5,
+       "perStick": 23.94,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 9",
+       "single": 24.5,
+       "box": 588.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 9 Natural",
+       "single": 24.5,
+       "box": 588.0,
+       "count": 24,
+       "pack": 122.5,
+       "packCount": 5,
+       "perStick": 24.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 9 Maduro",
+       "single": 24.5,
+       "box": 588.0,
+       "count": 24,
+       "pack": 122.5,
+       "packCount": 5,
+       "perStick": 24.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 9 Natural",
+       "single": null,
+       "box": 588.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 9 Maduro",
+       "single": null,
+       "box": 588.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 47",
+     "size": "5.5 x 50",
+     "low": 20.45,
+     "median": 20.45,
+     "high": 20.45,
+     "stores": 5,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "No. 47",
+       "single": 20.45,
+       "box": 490.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 47 Natural",
+       "single": 20.45,
+       "box": 490.8,
+       "count": 24,
+       "pack": 102.25,
+       "packCount": 5,
+       "perStick": 20.45,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 47 Maduro",
+       "single": 20.45,
+       "box": 490.8,
+       "count": 24,
+       "pack": 102.25,
+       "packCount": 5,
+       "perStick": 20.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 47 Natural",
+       "single": null,
+       "box": 490.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 47 Maduro",
+       "single": null,
+       "box": 490.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 2",
+     "size": "5.5 x 52",
+     "low": 21.9,
+     "median": 22.45,
+     "high": 25.5,
+     "stores": 8,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 90 Tubo",
+       "single": null,
+       "box": 247.95,
+       "count": 10,
+       "pack": 124.0,
+       "packCount": 5,
+       "perStick": 24.79,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "smokeinn",
+       "name": "No. 2",
+       "single": null,
+       "box": 525.5,
+       "count": 24,
+       "pack": 109.5,
+       "packCount": 5,
+       "perStick": 21.9,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 2 Belicoso",
+       "single": 22.45,
+       "box": 538.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 90 Tubo",
+       "single": 25.5,
+       "box": 255.0,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 25.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 2 Natural",
+       "single": 22.45,
+       "box": 538.8,
+       "count": 24,
+       "pack": 112.25,
+       "packCount": 5,
+       "perStick": 22.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 2 Maduro",
+       "single": 22.45,
+       "box": 538.8,
+       "count": 24,
+       "pack": 112.25,
+       "packCount": 5,
+       "perStick": 22.45,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 2 Natural",
+       "single": null,
+       "box": 538.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 2 Maduro",
+       "single": null,
+       "box": 538.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 48 Natural",
+     "size": "5.5 x 60",
+     "low": 26.95,
+     "median": 26.95,
+     "high": 26.95,
+     "stores": 3,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "No. 48",
+       "single": 26.95,
+       "box": 269.5,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 48 Natural",
+       "single": 26.95,
+       "box": 269.5,
+       "count": 10,
+       "pack": 134.75,
+       "packCount": 5,
+       "perStick": 26.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 48 Maduro",
+       "single": 26.95,
+       "box": 269.5,
+       "count": 10,
+       "pack": 134.75,
+       "packCount": 5,
+       "perStick": 26.95,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "40th Anniversary",
+     "size": "6.5 x 54",
+     "low": 31.4,
+     "median": 31.7,
+     "high": 32.0,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "No. 40",
+       "single": null,
+       "box": 627.95,
+       "count": 20,
+       "pack": 157.0,
+       "packCount": 5,
+       "perStick": 31.4,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 40",
+       "single": 32.0,
+       "box": 640.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 32.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "No. 1",
+     "size": "6.75 x 54",
+     "low": 25.94,
+     "median": 26.5,
+     "high": 37.3,
+     "stores": 8,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "80 Years",
+       "single": null,
+       "box": 293.5,
+       "count": 8,
+       "pack": 183.5,
+       "packCount": 5,
+       "perStick": 36.69,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "smokeinn",
+       "name": "No. 1",
+       "single": null,
+       "box": 622.5,
+       "count": 24,
+       "pack": 129.5,
+       "packCount": 5,
+       "perStick": 25.94,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "80 Years",
+       "single": 37.3,
+       "box": 298.4,
+       "count": 8,
+       "pack": null,
+       "packCount": null,
+       "perStick": 37.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "neptune",
+       "name": "No. 1",
+       "single": 26.5,
+       "box": 636.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 1 Natural",
+       "single": 26.5,
+       "box": 636.0,
+       "count": 24,
+       "pack": 132.5,
+       "packCount": 5,
+       "perStick": 26.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "holts",
+       "name": "No. 1 Maduro",
+       "single": 26.5,
+       "box": 636.0,
+       "count": 24,
+       "pack": 132.5,
+       "packCount": 5,
+       "perStick": 26.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 1 Natural",
+       "single": null,
+       "box": 636.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "No. 1 Maduro",
+       "single": null,
+       "box": 636.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Plasencia|Reserva Original",
+   "display": "Plasencia Reserva Original",
+   "fetched": "2026-09-23",
+   "storesTried": [
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
+   ],
+   "storesWithPrices": [
+    "holts",
+    "mikes"
+   ],
+   "vitolas": [
+    {
+     "name": "Robusto",
+     "size": "4.75 x 52",
+     "low": 10.99,
+     "median": 11.25,
+     "high": 11.5,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Robusto",
+       "single": 10.99,
+       "box": 98.95,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 10.99,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": null,
+       "box": 114.95,
+       "count": 10,
+       "pack": 60.95,
+       "packCount": 5,
+       "perStick": 11.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Cortez",
+     "size": "5.75 x 56",
+     "low": 14.5,
+     "median": 14.5,
+     "high": 14.5,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Cortez",
+       "single": null,
+       "box": 136.95,
+       "count": null,
+       "pack": 72.5,
+       "packCount": 5,
+       "perStick": 14.5,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
+       "fetched": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "name": "Toro",
+     "size": "6 x 50",
+     "low": 12.99,
+     "median": 13.09,
+     "high": 13.19,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "holts",
+       "name": "Toro",
+       "single": 12.99,
+       "box": 116.95,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 12.99,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
+       "fetched": "2026-09-23"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": null,
+       "box": 131.95,
+       "count": 10,
+       "pack": 69.5,
+       "packCount": 5,
+       "perStick": 13.19,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
+       "fetched": "2026-09-23"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
