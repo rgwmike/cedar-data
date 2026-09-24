@@ -179,11 +179,16 @@
    {
     "name": "Titan",
     "size": "8 x 80"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
    }
   ],
   "aliases": [
    "JFR",
-   "Lunatic"
+   "Lunatic",
+   "JFR Lunatic Maduro"
   ]
  },
  {
@@ -209,6 +214,9 @@
     "name": "Gran Toro",
     "size": "6 x 58"
    }
+  ],
+  "aliases": [
+   "Rare Leaf Reserve"
   ]
  },
  {
@@ -242,6 +250,9 @@
     "name": "Lancero",
     "size": "7 x 38"
    }
+  ],
+  "aliases": [
+   "Aganorsa Signature Selection"
   ]
  },
  {
@@ -271,6 +282,9 @@
     "name": "Perfecto",
     "size": "5.5 x 52"
    }
+  ],
+  "aliases": [
+   "Aganorsa Supreme Leaf"
   ]
  },
  {
@@ -512,12 +526,16 @@
     "size": "6 x 54"
    },
    {
-    "name": "Gordo",
-    "size": "6 x 60"
+    "name": "Gordito",
+    "size": "5.5 x 60"
    },
    {
-    "name": "Belicoso",
-    "size": "6.1 x 52"
+    "name": "Figurado",
+    "size": "6 x 56"
+   },
+   {
+    "name": "Corona",
+    "size": "5 x 46"
    }
   ]
  },
@@ -949,7 +967,7 @@
    },
    {
     "name": "No. 4",
-    "size": "5.1 x 43"
+    "size": "5.125 x 43"
    },
    {
     "name": "Double Robusto",
@@ -958,6 +976,22 @@
    {
     "name": "Presidente",
     "size": "6.5 x 50"
+   },
+   {
+    "name": "Eye of the Bull",
+    "size": "3.5 x 55"
+   },
+   {
+    "name": "Eye of the Shark",
+    "size": "5.25 x 52"
+   },
+   {
+    "name": "Belicoso",
+    "size": "5.5 x 52"
+   },
+   {
+    "name": "Petite Lancero",
+    "size": "6.25 x 40"
    }
   ],
   "aliases": [
@@ -986,27 +1020,59 @@
    },
    {
     "name": "Perfecxion No. 2",
-    "size": "6.4 x 52"
+    "size": "6.375 x 52"
    },
    {
     "name": "Perfecxion No. 4",
-    "size": "5.2 x 43"
+    "size": "5.125 x 43"
    },
    {
     "name": "Perfecxion No. 5",
-    "size": "4.9 x 40"
+    "size": "4.875 x 40"
    },
    {
     "name": "Double Corona",
-    "size": "7.6 x 49"
+    "size": "7.625 x 49"
    },
    {
     "name": "Petit Lancero",
-    "size": "6.3 x 39"
+    "size": "6.25 x 39"
    },
    {
     "name": "Fuente Fuente",
-    "size": "5.6 x 46"
+    "size": "5.625 x 46"
+   },
+   {
+    "name": "Belicoso XXX",
+    "size": "4.625 x 49"
+   },
+   {
+    "name": "Double Robusto",
+    "size": "5.75 x 52"
+   },
+   {
+    "name": "Super Belicoso",
+    "size": "5.5 x 52"
+   },
+   {
+    "name": "Reserva d'Chateau",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Perfecxion 888",
+    "size": "6.875 x 44"
+   },
+   {
+    "name": "Perfecxion A",
+    "size": "9.25 x 47"
+   },
+   {
+    "name": "Magnum O",
+    "size": "4.75 x 56"
+   },
+   {
+    "name": "Perfecxion No. 77 Shark",
+    "size": "5.625 x 54"
    }
   ],
   "aliases": [
@@ -1082,6 +1148,14 @@
    {
     "name": "Masterpiece",
     "size": "9 x 52"
+   },
+   {
+    "name": "Work of Art",
+    "size": "4.875 x 60"
+   },
+   {
+    "name": "Between the Lines",
+    "size": "4.5 x 54"
    }
   ],
   "aliases": [
@@ -1105,16 +1179,40 @@
   "priceHigh": 50,
   "vitolas": [
    {
-    "name": "Petit Corona",
-    "size": "5 x 42"
-   },
-   {
     "name": "Robusto",
     "size": "5.25 x 50"
    },
    {
     "name": "Perfecxion X",
-    "size": "6.25 x 48"
+    "size": "6.25 x 49"
+   },
+   {
+    "name": "Perfecxion No. 4",
+    "size": "5.125 x 43"
+   },
+   {
+    "name": "Fuente Fuente",
+    "size": "5.625 x 46"
+   },
+   {
+    "name": "Belicoso XXX",
+    "size": "4.625 x 49"
+   },
+   {
+    "name": "Double Robusto",
+    "size": "5.75 x 52"
+   },
+   {
+    "name": "Super Belicoso",
+    "size": "5.5 x 52"
+   },
+   {
+    "name": "Reserva d'Chateau",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Petit Corona",
+    "size": "5 x 42"
    }
   ]
  },
@@ -1402,7 +1500,7 @@
    },
    {
     "name": "Torpedo",
-    "size": "6.5 x 54"
+    "size": "6.5 x 55"
    },
    {
     "name": "Wizard",
@@ -1410,15 +1508,35 @@
    },
    {
     "name": "Enchantment",
-    "size": "4.9 x 52"
+    "size": "4.375 x 60"
    },
    {
     "name": "Illusion",
-    "size": "6.7 x 44"
+    "size": "6.5 x 44"
    },
    {
     "name": "Spellbound",
     "size": "7.5 x 54"
+   },
+   {
+    "name": "Tres Mystique",
+    "size": "4.375 x 44"
+   },
+   {
+    "name": "Pegasus",
+    "size": "5 x 54"
+   },
+   {
+    "name": "Corona Gorda",
+    "size": "5.75 x 46"
+   },
+   {
+    "name": "Eclipse Tube",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Sorcerer",
+    "size": "7 x 49"
    }
   ],
   "aliases": [
@@ -2657,19 +2775,27 @@
   "vitolas": [
    {
     "name": "Robusto",
-    "size": "5.2 x 52"
+    "size": "5.25 x 50"
    },
    {
     "name": "Piramide",
-    "size": "6.1 x 52"
+    "size": "6.125 x 52"
+   },
+   {
+    "name": "Short Robusto",
+    "size": "4.25 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Petit Corona",
+    "size": "4.5 x 41"
    },
    {
     "name": "Churchill",
     "size": "6.9 x 48"
-   },
-   {
-    "name": "Short Robusto",
-    "size": "4.3 x 52"
    },
    {
     "name": "Lonsdale",
@@ -2748,7 +2874,7 @@
    },
    {
     "name": "1000",
-    "size": "4.6 x 34"
+    "size": "4.625 x 34"
    },
    {
     "name": "No. 2",
@@ -2760,11 +2886,15 @@
    },
    {
     "name": "6000",
-    "size": "5.9 x 47"
+    "size": "5 x 48"
    },
    {
-    "name": "Tubos",
-    "size": "5 x 43"
+    "name": "Toro",
+    "size": "6 x 54"
+   },
+   {
+    "name": "Petit Corona",
+    "size": "4.5 x 41"
    }
   ]
  },
@@ -3256,6 +3386,10 @@
    {
     "name": "Flying Pig",
     "size": "4.1 x 60"
+   },
+   {
+    "name": "Coronets",
+    "size": "4 x 32"
    }
   ],
   "aliases": [
@@ -3295,6 +3429,14 @@
    {
     "name": "Flying Pig",
     "size": "4.1 x 60"
+   },
+   {
+    "name": "Coronets",
+    "size": "4 x 32"
+   },
+   {
+    "name": "Corona Viva",
+    "size": "6 x 46"
    }
   ],
   "aliases": [
@@ -3602,7 +3744,7 @@
    },
    {
     "name": "Gordita",
-    "size": "5 x 56"
+    "size": "4 x 48"
    },
    {
     "name": "Gran Toro",
@@ -3615,6 +3757,14 @@
    {
     "name": "SakaKhan",
     "size": "7.25 x 54"
+   },
+   {
+    "name": "Pequeño",
+    "size": "4 x 44"
+   },
+   {
+    "name": "Gran Corto",
+    "size": "6 x 56"
    }
   ],
   "aliases": [
@@ -3669,7 +3819,7 @@
     "size": "6 x 52"
    },
    {
-    "name": "Nacatamale",
+    "name": "Nacatamal",
     "size": "5.5 x 54"
    },
    {
@@ -3679,6 +3829,10 @@
    {
     "name": "The Bewitched",
     "size": "6 x 60"
+   },
+   {
+    "name": "Smoloko",
+    "size": "5 x 50"
    }
   ],
   "aliases": [
@@ -3912,19 +4066,23 @@
   "vitolas": [
    {
     "name": "Majestic",
-    "size": "5.4 x 52"
-   },
-   {
-    "name": "Valientes",
-    "size": "6.1 x 54"
-   },
-   {
-    "name": "El Primero",
-    "size": "5.75 x 48"
+    "size": "5.375 x 52"
    },
    {
     "name": "Celestial",
-    "size": "5.9 x 52"
+    "size": "6.125 x 50"
+   },
+   {
+    "name": "El Primero",
+    "size": "6.875 x 54"
+   },
+   {
+    "name": "Valientes",
+    "size": "6.125 x 52"
+   },
+   {
+    "name": "El Futuro",
+    "size": "5 x 50"
    }
   ],
   "aliases": [
@@ -4291,7 +4449,7 @@
    },
    {
     "name": "Corona Gorda",
-    "size": "5.5 x 46"
+    "size": "5.5 x 48"
    },
    {
     "name": "Toro",
@@ -4300,6 +4458,10 @@
    {
     "name": "Double Corona",
     "size": "7 x 54"
+   },
+   {
+    "name": "Grande",
+    "size": "6 x 60"
    }
   ],
   "aliases": [
@@ -4335,11 +4497,11 @@
    },
    {
     "name": "Double Corona",
-    "size": "7 x 50"
+    "size": "7 x 54"
    },
    {
     "name": "Goliath",
-    "size": "6 x 60"
+    "size": "5 x 58"
    }
   ],
   "aliases": [
@@ -4632,7 +4794,7 @@
    },
    {
     "name": "Toro",
-    "size": "6 x 52"
+    "size": "6 x 54"
    },
    {
     "name": "Gordo",
@@ -5979,7 +6141,7 @@
    },
    {
     "name": "Churchill",
-    "size": "7 x 48"
+    "size": "7 x 50"
    },
    {
     "name": "Grand Robusto",
@@ -6058,7 +6220,11 @@
    },
    {
     "name": "Corona Gorda",
-    "size": "5.25 x 52"
+    "size": "5.625 x 46"
+   },
+   {
+    "name": "Toro Fino",
+    "size": "6 x 52"
    }
   ]
  },
@@ -6462,7 +6628,7 @@
    },
    {
     "name": "No. 48",
-    "size": "5.5 x 50"
+    "size": "5.5 x 60"
    },
    {
     "name": "No. 90 Tubo",
@@ -6547,6 +6713,22 @@
    {
     "name": "Pyramide No. 1",
     "size": "7 x 52"
+   },
+   {
+    "name": "No. 4",
+    "size": "6.5 x 60"
+   },
+   {
+    "name": "Presidente",
+    "size": "6 x 50"
+   },
+   {
+    "name": "TAA Toro",
+    "size": "5 x 56"
+   },
+   {
+    "name": "A",
+    "size": "8.25 x 50"
    }
   ],
   "aliases": [
@@ -9133,7 +9315,7 @@
   "source": "vitolapedia"
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Arsenio",
   "origin": "Nicaragua",
   "wrapper": "Nicaragua",
@@ -9148,10 +9330,13 @@
     "size": "6 x 44"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Arsenio"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Casa Fernandez",
   "origin": "Nicaragua",
   "wrapper": "Corojo 99",
@@ -9166,10 +9351,13 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Casa Fernandez"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Casa Fernandez Aniversario",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Habano (Jalapa)",
@@ -9184,10 +9372,13 @@
     "size": "5 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Casa Fernandez Aniversario"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Connecticut",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Connecticut",
@@ -9202,10 +9393,13 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Connecticut"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Guardian of the Farm",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Habano (Jalapa)",
@@ -9224,28 +9418,13 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Guardian of the Farm"
+  ]
  },
  {
-  "brand": "Aganorsa",
-  "line": "Guardians of the Galaxy",
-  "origin": "Nicaragua",
-  "wrapper": "Corojo 99",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Full",
-  "priceLow": 14.0,
-  "priceHigh": 14.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5.5 x 54"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "JFR",
   "origin": "Nicaragua",
   "wrapper": "Corojo 99",
@@ -9264,28 +9443,13 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa JFR"
+  ]
  },
  {
-  "brand": "Aganorsa",
-  "line": "JFR Lunatic Maduro",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan (Jalapa, Estelí)",
-  "strength": "Medium-Full",
-  "priceLow": 9.5,
-  "priceHigh": 9.5,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 54"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "JFR Lunatic Torch",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Corojo 99",
@@ -9300,10 +9464,13 @@
     "size": "6.5 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa JFR Lunatic Torch"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "JFR Maduro",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Maduro",
@@ -9322,10 +9489,13 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa JFR Maduro"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Madrugada",
   "origin": "Nicaragua",
   "wrapper": "Corojo 99",
@@ -9340,10 +9510,13 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Madrugada"
+  ]
  },
  {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Pinolera",
   "origin": "Nicaragua",
   "wrapper": "Corojo 99",
@@ -9358,46 +9531,13 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Pinolera"
+  ]
  },
  {
-  "brand": "Aganorsa",
-  "line": "Rare Leaf Reserve",
-  "origin": "Nicaragua",
-  "wrapper": "Nicaraguan Corojo 99 (aged 5 years)",
-  "binder": "Nicaraguan Jalapa",
-  "filler": "Nicaraguan Jalapa aged reserve",
-  "strength": "Medium",
-  "priceLow": 18.0,
-  "priceHigh": 18.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Aganorsa",
-  "line": "Signature Selection",
-  "origin": "Nicaragua",
-  "wrapper": "Nicaraguan Corojo 99",
-  "binder": "Nicaraguan Corojo 99",
-  "filler": "Nicaraguan (Criollo 98, Corojo 99)",
-  "strength": "Medium-Full",
-  "priceLow": 11.0,
-  "priceHigh": 11.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Solidez",
   "origin": "Nicaragua",
   "wrapper": "Corojo 99",
@@ -9412,32 +9552,13 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Solidez"
+  ]
  },
  {
-  "brand": "Aganorsa",
-  "line": "Supreme Leaf",
-  "origin": "Nicaragua",
-  "wrapper": "Nicaraguan Corojo 99",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan Estelí, Jalapa, Pueblo Nuevo",
-  "strength": "Medium-Full",
-  "priceLow": 13.0,
-  "priceHigh": 14.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   },
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Aganorsa",
+  "brand": "Aganorsa Leaf",
   "line": "Swamp Thang",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Corojo",
@@ -9452,7 +9573,10 @@
     "size": "5 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Aganorsa Swamp Thang"
+  ]
  },
  {
   "brand": "Aging Room",
@@ -12966,7 +13090,7 @@
  },
  {
   "brand": "Cohiba",
-  "line": "Cohiba Black",
+  "line": "Black",
   "origin": "Dominican Republic",
   "wrapper": "Dominican Rosado Oscuro",
   "binder": "Dominican",
@@ -12980,11 +13104,14 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Cohiba Black"
+  ]
  },
  {
   "brand": "Cohiba",
-  "line": "Cohiba Macassar",
+  "line": "Macassar",
   "origin": "Dominican Republic",
   "wrapper": "Indonesian Sumatra",
   "binder": "Dominican",
@@ -12998,7 +13125,10 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Cohiba Macassar"
+  ]
  },
  {
   "brand": "Cohiba",
@@ -14685,8 +14815,8 @@
   "source": "vitolapedia"
  },
  {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Mi Querida Seriocomica",
+  "brand": "Dunbarton Tobacco & Trust",
+  "line": "Mi Querida Seriocomica",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Habano",
   "binder": "Nicaraguan",
@@ -14700,83 +14830,14 @@
     "size": "5 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Dunbarton Mi Querida Seriocomica"
+  ]
  },
  {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Muestra de Saka Exclusivo",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano Claro",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium",
-  "priceLow": 20.0,
-  "priceHigh": 20.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 54"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Sin Compromiso Selección No. 5",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés Negro Cultivo Tonto",
-  "binder": "Ecuadorian Habano",
-  "filler": "Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 17.0,
-  "priceHigh": 17.0,
-  "vitolas": [
-   {
-    "name": "Parejo",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Sobremesa",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium",
-  "priceLow": 15.0,
-  "priceHigh": 15.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Sobremesa Cervantes Fino",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium",
-  "priceLow": 14.0,
-  "priceHigh": 14.0,
-  "vitolas": [
-   {
-    "name": "Lonsdale",
-    "size": "6.5 x 44"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Sobremesa Madurito",
+  "brand": "Dunbarton Tobacco & Trust",
+  "line": "Sobremesa Madurito",
   "origin": "Nicaragua",
   "wrapper": "Pennsylvania Broadleaf Maduro",
   "binder": "Nicaraguan",
@@ -14790,51 +14851,14 @@
     "size": "4.5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Dunbarton Sobremesa Madurito"
+  ]
  },
  {
-  "brand": "Dunbarton",
-  "line": "Dunbarton Todos Las Dias",
-  "origin": "Nicaragua",
-  "wrapper": "Nicaraguan Habano",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium",
-  "priceLow": 9.0,
-  "priceHigh": 9.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Mi Querida",
-  "origin": "Nicaragua",
-  "wrapper": "Connecticut Broadleaf (dark)",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 12.0,
-  "priceHigh": 12.5,
-  "vitolas": [
-   {
-    "name": "Ancho Largo",
-    "size": "6 x 52"
-   },
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Mi Querida Black SakaKhan",
+  "brand": "Dunbarton Tobacco & Trust",
+  "line": "Mi Querida Black",
   "origin": "Nicaragua",
   "wrapper": "Connecticut Broadleaf (dark)",
   "binder": "Mexican San Andrés Negro",
@@ -14848,10 +14872,14 @@
     "size": "7.25 x 54"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Mi Querida Black SakaKhan",
+   "Dunbarton Mi Querida Black"
+  ]
  },
  {
-  "brand": "Dunbarton",
+  "brand": "Dunbarton Tobacco & Trust",
   "line": "Mi Querida Tripa Trunk",
   "origin": "Nicaragua",
   "wrapper": "Mexican San Andrés",
@@ -14866,83 +14894,14 @@
     "size": "5.5 x 54"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Dunbarton Mi Querida Tripa Trunk"
+  ]
  },
  {
-  "brand": "Dunbarton",
-  "line": "Mi Querida Triqui Traca",
-  "origin": "Nicaragua",
-  "wrapper": "Connecticut Broadleaf No. 1 Dark",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan, Dominican Republic",
-  "strength": "Medium-Full",
-  "priceLow": 11.95,
-  "priceHigh": 11.95,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Muestra de Saka Exclusivo",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan (Condega, Estelí, Jalapa, Ometepe)",
-  "strength": "Medium",
-  "priceLow": 14.95,
-  "priceHigh": 14.95,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Muestra de Saka Nacatamal",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Full",
-  "priceLow": 15.0,
-  "priceHigh": 15.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5.5 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Muestra de Saka Smoloko",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Full",
-  "priceLow": 13.0,
-  "priceHigh": 13.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Red Meat Lovers Club Ribeye",
+  "brand": "Dunbarton Tobacco & Trust",
+  "line": "Red Meat Lovers Club",
   "origin": "Nicaragua",
   "wrapper": "Connecticut Broadleaf (USA)",
   "binder": "Mexican San Andrés Negro",
@@ -14956,10 +14915,14 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Red Meat Lovers Club Ribeye",
+   "Dunbarton Red Meat Lovers Club"
+  ]
  },
  {
-  "brand": "Dunbarton",
+  "brand": "Dunbarton Tobacco & Trust",
   "line": "Sin Compromiso",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Habano",
@@ -14970,90 +14933,21 @@
   "priceHigh": 12.0,
   "vitolas": [
    {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Sin Compromiso Selección No. 2",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés Negro Cultivo Tonto",
-  "binder": "Hybridized Ecuadorian Habano Thin Ligero",
-  "filler": "Independent Plantation-Grown Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 17.95,
-  "priceHigh": 17.95,
-  "vitolas": [
-   {
-    "name": "Torpedo",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Sobremesa",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 13.0,
-  "priceHigh": 13.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5 x 50"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Sobremesa Brûlée",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Connecticut Shade G2BW",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan (Condega, Pueblo Nuevo Criollo, Estelí C-98, Estelí Hybrid Ligero)",
-  "strength": "Mild-Medium",
-  "priceLow": 11.0,
-  "priceHigh": 14.0,
-  "vitolas": [
-   {
-    "name": "Toro",
+    "name": "Selección No. 2 (Torpedo)",
     "size": "6 x 52"
    },
    {
-    "name": "Robusto",
-    "size": "5 x 50"
+    "name": "Selección No. 5 (Paladín)",
+    "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Dunbarton Sin Compromiso"
+  ]
  },
  {
-  "brand": "Dunbarton",
-  "line": "Sobremesa Gran",
-  "origin": "Nicaragua",
-  "wrapper": "Mexican San Andrés",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 15.0,
-  "priceHigh": 15.0,
-  "vitolas": [
-   {
-    "name": "Robusto",
-    "size": "5.5 x 54"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
+  "brand": "Dunbarton Tobacco & Trust",
   "line": "Sobremesa Solita",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Habano Grade 1 Dark Rosado",
@@ -15068,79 +14962,10 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "StillWell Star Aromatic No. 1",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano Oscuro (Grade A high-priming)",
-  "binder": "Mexican San Andrés Negro",
-  "filler": "Nicaraguan long-filler + Black Cavendish / Golden Virginia / Burley pipe tobaccos",
-  "strength": "Medium",
-  "priceLow": 20.0,
-  "priceHigh": 20.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "StillWell Star English No. 27",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano Oscuro (Grade A high-priming)",
-  "binder": "Mexican San Andrés Negro",
-  "filler": "Nicaraguan long-filler + Burley / Turkish leaf + pressed Cypriot Latakia",
-  "strength": "Medium",
-  "priceLow": 20.0,
-  "priceHigh": 20.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Umbagog",
-  "origin": "Nicaragua",
-  "wrapper": "Connecticut Broadleaf (medium/No. 1 dark)",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium-Full",
-  "priceLow": 9.5,
-  "priceHigh": 9.5,
-  "vitolas": [
-   {
-    "name": "Toro Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Dunbarton",
-  "line": "Umbagog by Dunbarton Tobacco & Trust",
-  "origin": "Nicaragua",
-  "wrapper": "Pennsylvania Broadleaf Maduro",
-  "binder": "Nicaraguan Habano",
-  "filler": "Nicaragua, Pennsylvania",
-  "strength": "Medium-Full",
-  "priceLow": 19.5,
-  "priceHigh": 19.5,
-  "vitolas": [
-   {
-    "name": "Gordo",
-    "size": "6 x 60"
-   }
-  ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Dunbarton Sobremesa Solita"
+  ]
  },
  {
   "brand": "Dutch Masters",
@@ -15636,9 +15461,16 @@
    {
     "name": "Gordo",
     "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Espinosa Alpha Dawg"
+  ]
  },
  {
   "brand": "Espinosa",
@@ -15720,7 +15552,7 @@
  },
  {
   "brand": "Espinosa",
-  "line": "Espinosa 601 La Bomba Warhead",
+  "line": "601 La Bomba Warhead",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Habano Rosado",
   "binder": "Nicaraguan",
@@ -15734,29 +15566,14 @@
     "size": "6 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Espinosa 601 La Bomba Warhead"
+  ]
  },
  {
   "brand": "Espinosa",
-  "line": "Espinosa Alpha Dawg",
-  "origin": "Nicaragua",
-  "wrapper": "Ecuadorian Habano",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Medium",
-  "priceLow": 8.0,
-  "priceHigh": 8.0,
-  "vitolas": [
-   {
-    "name": "Toro",
-    "size": "6 x 52"
-   }
-  ],
-  "source": "vitolapedia"
- },
- {
-  "brand": "Espinosa",
-  "line": "Espinosa Knuckle Sandwich Maduro",
+  "line": "Knuckle Sandwich Maduro",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Sumatra",
   "binder": "Nicaraguan",
@@ -15770,11 +15587,14 @@
     "size": "5 x 52"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Espinosa Knuckle Sandwich Maduro"
+  ]
  },
  {
   "brand": "Espinosa",
-  "line": "Espinosa Las 6 Provincias CMW",
+  "line": "Las 6 Provincias CMW",
   "origin": "Nicaragua",
   "wrapper": "Ecuadorian Habano",
   "binder": "Nicaraguan",
@@ -15788,11 +15608,14 @@
     "size": "6 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Espinosa Las 6 Provincias CMW"
+  ]
  },
  {
   "brand": "Espinosa",
-  "line": "Espinosa Las 6 Provincias ZDT",
+  "line": "Las 6 Provincias ZDT",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan Corojo",
   "binder": "Nicaraguan",
@@ -15806,7 +15629,10 @@
     "size": "6.5 x 48"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Espinosa Las 6 Provincias ZDT"
+  ]
  },
  {
   "brand": "Espinosa",
@@ -24374,7 +24200,7 @@
  },
  {
   "brand": "RoMa Craft",
-  "line": "RoMa Craft Weaselsnout",
+  "line": "Weaselsnout",
   "origin": "Nicaragua",
   "wrapper": "Connecticut Broadleaf Maduro",
   "binder": "Nicaraguan",
@@ -24388,7 +24214,10 @@
     "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "RoMa Craft Weaselsnout"
+  ]
  },
  {
   "brand": "Romeo y Julieta",

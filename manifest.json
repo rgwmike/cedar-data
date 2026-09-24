@@ -3,9 +3,9 @@
  "generated": "2026-09-24",
  "files": {
   "catalog.json": {
-   "version": 2,
-   "sha256": "6917d84098293726bc5c6dbe8effe84d3d83232675ea260232bf478aa9dcc162",
-   "bytes": 491304,
+   "version": 3,
+   "sha256": "b416707d5100469c3c053f34f9aadbf1f09c273bd88f0c86fb74c16f61202c6c",
+   "bytes": 486604,
    "generated": "2026-09-24"
   },
   "sources.json": {
@@ -28,7 +28,7 @@
   }
  },
  "catalog": {
-  "lines": 1229
+  "lines": 1205
  },
  "prices": {
   "lines": 22,
