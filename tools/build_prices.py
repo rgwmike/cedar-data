@@ -59,7 +59,7 @@ for line_id, qs in sorted(by_line.items()):
     for k, rows in sorted(groups.items()):
         known_count = next((v["count"] for _, v in rows if v.get("count")), None)
         names = [v["vitola"] for _, v in rows]
-        name = catalog_name(entry, k) or max(set(names), key=names.count)
+        name = catalog_name(entry, k) or max(sorted(set(names)), key=names.count)  # sorted: same name every run on ties
         qlist, per_stick = [], []
         for q, v in rows:
             count = v.get("count") or known_count

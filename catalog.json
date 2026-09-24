@@ -7162,32 +7162,36 @@
   "binder": "Nicaraguan",
   "filler": "Nicaraguan",
   "strength": "Medium-Full",
-  "priceLow": 8,
+  "priceLow": 10,
   "priceHigh": 14,
   "vitolas": [
    {
-    "name": "Corona Corta",
-    "size": "5 x 44"
-   },
-   {
     "name": "Robusto",
-    "size": "5 x 50"
+    "size": "4.75 x 52"
    },
    {
     "name": "Toro",
-    "size": "6 x 52"
+    "size": "6 x 50"
+   },
+   {
+    "name": "Cortez",
+    "size": "5.75 x 56"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Corona Corta",
+    "size": "5 x 44"
    },
    {
     "name": "Piramide",
     "size": "6.5 x 52"
    },
    {
-    "name": "Churchill",
-    "size": "7 x 50"
-   },
-   {
     "name": "Nesticos",
-    "size": "6 x 54"
+    "size": "4 x 38"
    }
   ],
   "aliases": [

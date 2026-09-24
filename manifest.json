@@ -3,15 +3,15 @@
  "generated": "2026-09-24",
  "files": {
   "catalog.json": {
-   "version": 1,
-   "sha256": "d182b7ccb1ec7c7e4121d5aa9bec0a53848844b05e974de099f82e23661dd690",
-   "bytes": 491243,
-   "generated": "2026-09-23"
+   "version": 2,
+   "sha256": "6917d84098293726bc5c6dbe8effe84d3d83232675ea260232bf478aa9dcc162",
+   "bytes": 491304,
+   "generated": "2026-09-24"
   },
   "sources.json": {
-   "version": 2,
-   "sha256": "c61e55706c3f832aff8170b62c61b5b37f52d57c095d912dbcd10796e3f1792c",
-   "bytes": 10855,
+   "version": 3,
+   "sha256": "afb4f8e0b5ea8a9c366937c825162ca70e3e5f29444a4023825ac3545d221656",
+   "bytes": 10886,
    "generated": "2026-09-24"
   },
   "wanted.json": {
