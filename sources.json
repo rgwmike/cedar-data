@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-09-23",
+ "updated": "2026-09-24",
  "stores": {
   "neptune": {
    "name": "Neptune Cigar",
@@ -47,12 +47,12 @@
   {
    "id": "Arturo Fuente|OpusX Oro Oscuro",
    "pages": {
-    "neptune": "https://www.neptunecigar.com/cigars/arturo-fuente-opus-x-oxo-oro-oscuro-robusto",
+    "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
     "holts": null,
     "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
     "mikes": null
    },
-   "notes": "Rare. Neptune per-vitola page (Robusto); Smoke Inn lists only Perfecxion #4; Mike's has gift tins only."
+   "notes": "Neptune prices the OXO vitolas in a sub-section of the OpusX line page (all backordered). Nobody lists a Petit Corona 5 x 42. Smoke Inn lists only Perfecxion #4; Mike's has gift tins only."
   },
   {
    "id": "Davidoff|Winston Churchill The Late Hour",
@@ -122,7 +122,7 @@
     "smokeinn": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
     "mikes": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original"
    },
-   "notes": ""
+   "notes": "Stores sell Robusto 4.75x52, Toro 6x50, Cortez 5.75x56, Churchill 7x48 — the catalog sizes differ. No store has a \"Corona Toro\" (inbox issue #5)."
   },
   {
    "id": "Dunbarton Tobacco & Trust|Mi Querida",
@@ -172,7 +172,77 @@
     "smokeinn": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
     "mikes": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle"
    },
-   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name."
+   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name. Smoke Inn line page hides prices; per-vitola pages (/The-Tabernacle-Robusto.html etc.) work but rate-limit after ~20 fetches."
+  },
+  {
+   "id": "Davidoff|Millennium",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/davidoff-millennium-blend-series",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
+    "smokeinn": "https://www.smokeinn.com/davidoff-millennium-series/",
+    "mikes": "https://mikescigars.com/brands/davidoff-millennium"
+   },
+   "notes": "Neptune page too long for the fetcher (navigation only) and its per-vitola pages show no price. Davidoff packs are 4-packs. No store lists Churchill or Lonsdale."
+  },
+  {
+   "id": "AJ Fernandez|New World Dorado",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/new-world-dorado",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
+    "smokeinn": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
+    "mikes": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado"
+   },
+   "notes": "Stores sell Robusto, Toro, Gordito 5.5x60 and Figurado 6x56 (catalog says Gordo/Belicoso). Boxes of 10. Neptune page too long for the fetcher."
+  },
+  {
+   "id": "Padrón|1964 Anniversary Series",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
+    "mikes": "https://mikescigars.com/brands/padron-1964-anniversary"
+   },
+   "notes": "Maduro pages; Natural priced the same at Holt's (one page covers both). Mike's listing is paginated and page 2 is robots-blocked."
+  },
+  {
+   "id": "Arturo Fuente|Hemingway",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+    "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
+    "mikes": "https://mikescigars.com/brands/arturo-fuente-hemingway"
+   },
+   "notes": "Natural (Cameroon) only; Maduro is at holts .../arturo-fuente-hemingway-maduro.html and is left out of the index. Smoke Inn page shows sizes without titles."
+  },
+  {
+   "id": "Gurkha|Prize Fighter",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/gurkha-prize-fighter",
+    "holts": null,
+    "smokeinn": null,
+    "mikes": "https://mikescigars.com/brands/gurkha-prize-fighter"
+   },
+   "notes": "Bundles of 20 at Mike's (Robusto, Toro 6x54, XO 6x60; Natural and Maduro). Neptune page too long for the fetcher. Holt's and Smoke Inn don't carry it."
+  },
+  {
+   "id": "Arturo Fuente|Fuente Fuente OpusX",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+    "holts": null,
+    "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X/",
+    "mikes": "https://mikescigars.com/brands/arturo-fuente-opusx"
+   },
+   "notes": "Neptune line page lists every vitola with single prices (all backordered) and the OXO Oro Oscuro sub-section. Smoke Inn shows limited releases only; Mike's doesn't sell it online; Holt's has Lost City only."
+  },
+  {
+   "id": "Davidoff|Signature",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/davidoff-signature-series",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
+    "smokeinn": "https://www.smokeinn.com/davidoff-signature-series/",
+    "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature"
+   },
+   "notes": "Neptune page too long for the fetcher. Tubos/6000/Toro come in 4-packs. Stores list 6000 as 5 x 48 (catalog 5.9 x 47)."
   }
  ]
 }

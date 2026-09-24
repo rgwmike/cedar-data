@@ -1,0 +1,604 @@
+[
+ {
+  "id": "Davidoff|Millennium",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/davidoff-millennium-series/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 30.7,
+    "fivePack": 122.8,
+    "packCount": 4,
+    "box": 767.5,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Robusto Tubo",
+    "size": "5.25 x 50",
+    "single": 31.5,
+    "fivePack": 94.5,
+    "packCount": 3,
+    "box": 630.0,
+    "count": 20,
+    "inStock": null
+   },
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": 26.4,
+    "fivePack": 105.6,
+    "packCount": 4,
+    "box": 528.0,
+    "count": 20,
+    "inStock": null
+   },
+   {
+    "vitola": "Piramides",
+    "size": "6.125 x 52",
+    "single": 36.3,
+    "fivePack": 145.2,
+    "packCount": 4,
+    "box": 363.0,
+    "count": 10,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 34.9,
+    "fivePack": 139.6,
+    "packCount": 4,
+    "box": 349.0,
+    "count": 10,
+    "inStock": null
+   },
+   {
+    "vitola": "Petite Corona",
+    "size": "4.5 x 41",
+    "single": 19.7,
+    "fivePack": 98.5,
+    "packCount": 5,
+    "box": 492.5,
+    "count": 25,
+    "inStock": null
+   }
+  ],
+  "notes": "Line page worked. Store packs are mostly 4-packs (Robusto Tubo is a 3-pack); pack price stored in fivePack with packCount. Churchill and Lonsdale not listed. Stock status not shown in listing (null). Store lists Toro as 5 x 50 as printed. Toro size corrected to 6 x 50 (store typo)"
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": 55.5,
+    "box": 102.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 61.0,
+    "box": 113.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": null,
+    "fivePack": 64.0,
+    "box": 118.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 65.0,
+    "box": 120.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page worked; 5-pack and box of 10 prices, all shown available. No single price listed (single left null)."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Principe",
+    "size": "4.5 x 46",
+    "single": 14.05,
+    "fivePack": 70.5,
+    "box": 351.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona",
+    "size": "6 x 42",
+    "single": 14.9,
+    "fivePack": 74.5,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Monarca",
+    "size": "6.5 x 46",
+    "single": 16.35,
+    "fivePack": 82.0,
+    "box": 408.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Exclusivo",
+    "size": "5.5 x 50",
+    "single": 16.4,
+    "fivePack": 82.5,
+    "box": 410.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6 x 52",
+    "single": 21.2,
+    "fivePack": 106.0,
+    "box": 423.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Hermoso",
+    "size": "4 x 56",
+    "single": 16.9,
+    "fivePack": 84.5,
+    "box": 439.4,
+    "count": 26,
+    "inStock": true
+   },
+   {
+    "vitola": "Diplomatico",
+    "size": "7 x 50",
+    "single": 18.7,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5 x 52",
+    "single": 19.0,
+    "fivePack": 95.0,
+    "box": 475.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Imperial",
+    "size": "6 x 54",
+    "single": 20.15,
+    "fivePack": 100.5,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "6.5 x 60",
+    "single": 25.6,
+    "fivePack": 128.0,
+    "box": 512.0,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Maduro line page worked (all Maduro, so wrapper omitted from names). Single, 5-pack, box and stock all listed. Superior, Piramide, Soberano not listed on Maduro page; No. 4 (6x60) is extra."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": null,
+    "fivePack": 38.0,
+    "box": 169.5,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": null,
+    "fivePack": 44.0,
+    "box": 198.5,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": null,
+    "fivePack": 56.0,
+    "box": 250.95,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": null,
+    "fivePack": 59.5,
+    "box": 266.5,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": 61.0,
+    "box": 273.95,
+    "count": 25,
+    "inStock": null
+   }
+  ],
+  "notes": "Line page worked but the fetch only surfaced sizes, not product titles; vitola names assigned from the store's sizes (Short Story 4.5x48, Best Seller 4.5x54, Signature 6x47, Work of Art 4.875x46/60, Classic 7x48). 5-pack and box-of-25 only; no singles or stock shown. Masterpiece not listed. Sizes normalised to the catalog (fetch showed pack/box order only)"
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "smokeinn",
+  "url": null,
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Not carried: site:smokeinn.com searches for Prize Fighter/Prizefighter returned only other Gurkha lines (Royal Challenge, Real, Heritage); guessed URL https://www.smokeinn.com/Gurkha-Prize-Fighter/ returned 404."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Fuente OpusX",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X/",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Opus X line page fetched but only lists the limited 'Shark Taste of Love' release (box of 20 $1,399, 5-pack $349.75, out of stock); none of the core vitolas (Robusto, Perfecxion X/No.2/No.4/No.5, Double Corona, Petit Lancero, Fuente Fuente) are listed online. Other OpusX pages found are limited editions (Lost City, Oscuro Oro, 25th Anniversary, Heaven and Earth) and were skipped. Only the limited 'Shark Taste of Love' release is listed; left out of the index"
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/davidoff-signature-series/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "1000",
+    "size": "4.625 x 34",
+    "single": null,
+    "fivePack": 77.0,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000",
+    "size": "5 x 43",
+    "single": null,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000 Tubo",
+    "size": "5 x 43",
+    "single": null,
+    "fivePack": 77.6,
+    "packCount": 4,
+    "box": 388.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 38",
+    "single": null,
+    "fivePack": 124.0,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2 Tubo",
+    "size": "6 x 38",
+    "single": null,
+    "fivePack": 102.8,
+    "packCount": 4,
+    "box": 514.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "6000",
+    "size": "5 x 48",
+    "single": null,
+    "fivePack": 99.2,
+    "packCount": 4,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 114.8,
+    "packCount": 4,
+    "box": 717.5,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page worked; box and pack tiles merged per vitola. 1000, 2000 and No. 2 are 5-packs; Tubos, 6000 and Toro are 4-packs (packCount). No singles listed. No out-of-stock markers on the page so inStock=true. Ambassadrice not listed; Toro (6x54) is extra."
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.625 x 46",
+    "single": 10.45,
+    "fivePack": 56.5,
+    "box": 208.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Toro Fino",
+    "size": "6 x 52",
+    "single": 12.2,
+    "fivePack": 61.0,
+    "box": 226.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 56",
+    "single": 13.45,
+    "fivePack": 63.0,
+    "box": 268.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5 x 60",
+    "single": 12.9,
+    "fivePack": 64.5,
+    "box": 239.5,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Retry of original URL succeeded this time; single, 5-pack, box of 20 and stock listed."
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Pegasus",
+    "size": "5 x 54",
+    "single": 15.13,
+    "fivePack": 79.95,
+    "box": 302.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Tres Mystique",
+    "size": "4.375 x 44",
+    "single": 13.52,
+    "fivePack": 71.95,
+    "box": 324.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Illusion",
+    "size": "6.5 x 44",
+    "single": 14.27,
+    "fivePack": 75.95,
+    "box": 342.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.75 x 46",
+    "single": 14.19,
+    "fivePack": 74.95,
+    "box": 340.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 50",
+    "single": 14.4,
+    "fivePack": 76.95,
+    "box": 345.6,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso #1",
+    "size": "5.25 x 52",
+    "single": 14.65,
+    "fivePack": 77.95,
+    "box": 351.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Enchantment",
+    "size": "4.375 x 60",
+    "single": 15.99,
+    "fivePack": 84.95,
+    "box": 351.95,
+    "count": 22,
+    "inStock": true
+   },
+   {
+    "vitola": "Sorcerer",
+    "size": "7 x 49",
+    "single": 15.54,
+    "fivePack": 81.95,
+    "box": 372.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 55",
+    "single": 16.9,
+    "fivePack": 89.95,
+    "box": 405.5,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "Spellbound",
+    "size": "7.5 x 54",
+    "single": 17.87,
+    "fivePack": 94.95,
+    "box": 428.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Wizard",
+    "size": "6 x 56",
+    "single": 17.1,
+    "fivePack": 91.95,
+    "box": 632.95,
+    "count": 37,
+    "inStock": true
+   }
+  ],
+  "notes": "Retry of original URL succeeded this time; single, 5-pack, box and stock listed for 11 vitolas."
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "4.75 x 52",
+    "single": null,
+    "fivePack": 53.0,
+    "box": 97.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 60.5,
+    "box": 112.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Cortez",
+    "size": "5.75 x 56",
+    "single": null,
+    "fivePack": 63.0,
+    "box": 116.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": 55.5,
+    "box": 204.95,
+    "count": 20,
+    "inStock": false
+   }
+  ],
+  "notes": "Retry of original URL succeeded this time; 5-pack and box prices with stock. No single price listed (fetch derived one from the 5-pack; left null)."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/The-Tabernacle-Robusto.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 282.95,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 69.0,
+    "box": null,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona",
+    "size": "5.25 x 46",
+    "single": null,
+    "fivePack": 55.5,
+    "box": null,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "Goliath",
+    "size": "5 x 58",
+    "single": null,
+    "fivePack": 77.5,
+    "box": null,
+    "count": null,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/ fetched twice but exposes no product tiles/prices (only description and reviews). Prices taken from individual product pages found via WebSearch: The-Tabernacle-Robusto.html (box of 24, out of stock), The-Tabernacle-Toro-SKU237571.html (5-pack), The-Tabernacle-Corona-SKU237541.html (5-pack), The-Tabernacle-Goliath-SKU2375811.html (5-pack, out of stock). Toro/Corona in-stock inferred from an active add-to-cart button. Double Corona, David and Lancero pages were rate-limited (HTTP 429) and not read; no singles or box prices for Toro/Corona/Goliath."
+ }
+]

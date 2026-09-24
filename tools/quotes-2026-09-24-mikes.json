@@ -1,0 +1,456 @@
+[
+ {
+  "id": "Davidoff|Millennium",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/davidoff-millennium",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 35.3,
+    "fivePack": 122.8,
+    "packCount": 4,
+    "box": 767.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto Tubos",
+    "size": "5.25 x 50",
+    "single": 36.2,
+    "fivePack": 94.5,
+    "packCount": 4,
+    "box": 630.0,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "Piramides",
+    "size": "6.125 x 52",
+    "single": 41.75,
+    "fivePack": 145.2,
+    "packCount": 4,
+    "box": 363.0,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": 30.35,
+    "fivePack": 105.6,
+    "packCount": 4,
+    "box": 528.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 40.15,
+    "fivePack": 139.6,
+    "packCount": 4,
+    "box": 349.0,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 22.65,
+    "fivePack": 98.5,
+    "packCount": 4,
+    "box": 492.5,
+    "count": null,
+    "inStock": true
+   }
+  ],
+  "notes": "Listing page (12 cards, 1 page) gave box prices; box counts confirmed on product pages for Robusto (25), Piramides (10), Short Robusto (20), Toro (10). 'Pack' cards show a range single..4-pack (Davidoff 4-packs; high/4 is consistent with a pack discount) - low end recorded as single, high end as the 4-pack in fivePack with packCount 4. Churchill product URL redirects to the brand listing (not carried); Lonsdale not listed. Petit Corona and Robusto Tubos counts not verified."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": 54.95,
+    "box": 103.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 59.95,
+    "box": 113.5,
+    "count": 10,
+    "inStock": null
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": null,
+    "fivePack": 62.95,
+    "box": 118.95,
+    "count": 10,
+    "inStock": null
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 63.95,
+    "box": 120.95,
+    "count": 10,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona",
+    "size": "5 x 46",
+    "single": null,
+    "fivePack": null,
+    "box": 94.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing page (5 cards) shows ranges 5-pack..box of 10; structure confirmed on the Robusto product page (Pack of 5 $54.95, Box of 10 $103.50, in stock). Toro/Gordito/Figurado counts assumed 10 by the same pattern. Corona shows a single $94.50 price (likely a box of 10, count not verified). No singles sold."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/padron-1964-anniversary",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Exclusivo Maduro",
+    "size": "5.5 x 50",
+    "single": 18.85,
+    "fivePack": null,
+    "box": 410.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Maduro",
+    "size": "6 x 42",
+    "single": null,
+    "fivePack": null,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Monarca Maduro",
+    "size": "6.5 x 46",
+    "single": 18.8,
+    "fivePack": null,
+    "box": 408.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo Maduro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 423.0,
+    "count": 20,
+    "inStock": null
+   },
+   {
+    "vitola": "Belicoso Maduro",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 475.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Superior Maduro",
+    "size": "6.5 x 42",
+    "single": null,
+    "fivePack": null,
+    "box": 385.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Pyramide Maduro",
+    "size": "6.875 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 495.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Hermoso Maduro",
+    "size": "4 x 56",
+    "single": null,
+    "fivePack": null,
+    "box": 439.4,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Soberano Tubos Maduro",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 306.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "#4 Gordo Maduro",
+    "size": "6.5 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 512.0,
+    "count": 20,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing page 1 of 2 (16 of 30 cards); ?p=2 is robots-blocked so Principe, Imperial and Diplomatico were not reached. Exclusivo, Corona and Monarca prices came from their Maduro product pages (box of 25 confirmed). Other counts of 25 assumed from the line's standard box; Hermoso (usually 26) and Soberano Tubos left null. Natural wrapper cards carry identical prices to Maduro on the listing. Torpedo and No. 4 box counts set to 20 as the other stores print them"
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 8.95,
+    "fivePack": 37.5,
+    "box": 175.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 10.5,
+    "fivePack": 43.5,
+    "box": 205.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 13.3,
+    "fivePack": 54.95,
+    "box": 259.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 14.5,
+    "fivePack": 59.95,
+    "box": 283.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 24.2,
+    "fivePack": 100.5,
+    "box": 189.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": 14.1,
+    "fivePack": 58.5,
+    "box": 275.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Listing page (16 cards, 1 page) plus product pages for all six Natural (Cameroon) vitolas, which give single / pack of 5 / box with count. Maduro and Sungrown variants taken from listing cards only (box price, count unverified; Sungrown Signature shows a $14.10 single). Ring gauges on the site are ranges for the perfectos (e.g. 4 x 42-49); largest ring recorded. Maduro/Sungrown rows dropped (different lines, same sizes)"
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/gurkha-prize-fighter",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto Natural",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 43.5,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Robusto Maduro",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 43.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Natural",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 44.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Maduro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 44.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "XO Natural",
+    "size": "6 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 51.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "XO Magnum Maduro",
+    "size": "6 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 51.5,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Listing page (6 cards, 1 page). Sold only as bundles of 20 (confirmed on the Robusto Natural product page, which showed out of stock while the listing card said in stock - product page taken). Toro is 6x54 here, not 6x52; Gordo 6x60 is sold as 'XO'; no Churchill listed."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Fuente OpusX",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/arturo-fuente-opusx",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Listing page 1 of 3 (37 items) is mostly accessories, Forbidden X, Society releases and Oro Oscuro tins (ignored); pages 2-3 are ?p= and robots-blocked. Core vitola cards show no price. Product pages for Perfecxion X, Fuente Fuente, Robusto and No. 2 show a single/metadata price but all are out of stock with 'Notify me', and the site states OpusX cannot be sold online (store or phone only). Perfecxion X also lists a box of 32 at $1,500. No. 5, Double Corona, Petit Lancero not fetched (budget). Rows left out of the index: Mike's says OpusX is not sold online and everything is out of stock"
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "2000",
+    "size": "5 x 43",
+    "single": 21.5,
+    "fivePack": 93.5,
+    "packCount": 4,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000 Tubos",
+    "size": "5 x 43",
+    "single": 22.3,
+    "fivePack": 77.6,
+    "packCount": 4,
+    "box": 388.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "1000",
+    "size": "4.625 x 34",
+    "single": 17.7,
+    "fivePack": 77.0,
+    "packCount": 4,
+    "box": 385.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "No 2",
+    "size": "6 x 38",
+    "single": 28.5,
+    "fivePack": 124.0,
+    "packCount": 4,
+    "box": 620.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "No 2 Tubos",
+    "size": "6 x 38",
+    "single": 29.55,
+    "fivePack": 102.8,
+    "packCount": 4,
+    "box": 514.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Ambassadrice",
+    "size": "4.5 x 26",
+    "single": 14.05,
+    "fivePack": 115.95,
+    "packCount": null,
+    "box": 289.95,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "6000",
+    "size": "5 x 48",
+    "single": 28.5,
+    "fivePack": 99.2,
+    "packCount": 4,
+    "box": 620.0,
+    "count": 25,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 33.0,
+    "fivePack": 114.8,
+    "packCount": 4,
+    "box": 717.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 18.3,
+    "fivePack": null,
+    "box": 397.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing page 1 of 2 (16 of 19 cards; ?p=2 robots-blocked). Cards show a single..box range on the box product and a 4-pack price on the 'Pack' product. Box of 25 confirmed on the 2000 and Ambassadrice product pages (Ambassadrice not on page 1; found via search, out of stock, pack range $14.05-$115.95 recorded as single and pack with count unknown); 25 assumed for 1000, No 2 and 6000 (box/25 sits just under the single price). Tubos counts unknown. 6000 listed at 5 x 48 (catalog says 5.9 x 47)."
+ }
+]

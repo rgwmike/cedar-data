@@ -1,0 +1,405 @@
+[
+ {
+  "id": "Davidoff|Millennium",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 19.7,
+    "fivePack": null,
+    "box": 492.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Piramides",
+    "size": "6.125 x 52",
+    "single": 36.3,
+    "fivePack": null,
+    "box": 363.0,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 30.7,
+    "fivePack": null,
+    "box": 767.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto Tubos",
+    "size": "5.25 x 50",
+    "single": 31.5,
+    "fivePack": null,
+    "box": 630.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": 26.4,
+    "fivePack": null,
+    "box": 528.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 34.9,
+    "fivePack": null,
+    "box": 349.0,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Holt's slug is 'davidoff-millennium-blend' (the guessed 'davidoff-millennium' 404s). No MSRP or 5-pack column shown; single + box only. Every row had an 'Add ... To Cart' button, though the page carries a generic 'This product is presently out of stock' banner that also appears on clearly in-stock pages. Holt's does not list Churchill or Lonsdale; Holt's sizes differ from catalog (Robusto 5.25x50, Short Robusto 4.25x52)."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": 11.5,
+    "fivePack": null,
+    "box": 102.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 12.6,
+    "fivePack": null,
+    "box": 112.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 111.99,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": 13.4,
+    "fivePack": null,
+    "box": 119.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Holt's slug is 'new-world-dorado' (no brand prefix). Box MSRPs shown (Robusto 115, Toro 126, Gordito 132, Figurado 134); Holt's box price recorded. Single price equals MSRP/10 and is Holt's listed single price. No 5-pack option. All rows had Add to Cart buttons; generic out-of-stock banner present on page."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Exclusivo Maduro",
+    "size": "5.5 x 50",
+    "single": 16.4,
+    "fivePack": 82.0,
+    "box": 410.0,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Principe Maduro",
+    "size": "4.5 x 46",
+    "single": 14.05,
+    "fivePack": 70.25,
+    "box": 351.25,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Corona Maduro",
+    "size": "6 x 42",
+    "single": 14.9,
+    "fivePack": 74.5,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo Maduro",
+    "size": "6 x 52",
+    "single": 21.15,
+    "fivePack": 105.75,
+    "box": 423.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Imperial Maduro",
+    "size": "6 x 54",
+    "single": 20.15,
+    "fivePack": 100.75,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Diplomatico Maduro",
+    "size": "7 x 50",
+    "single": 18.7,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Monarca Maduro",
+    "size": "6.5 x 46",
+    "single": 16.35,
+    "fivePack": 81.75,
+    "box": 408.75,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Hermoso Maduro",
+    "size": "4 x 56",
+    "single": 16.9,
+    "fivePack": 84.5,
+    "box": 439.4,
+    "count": 26,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso Maduro",
+    "size": "5 x 52",
+    "single": 19.0,
+    "fivePack": 95.0,
+    "box": 475.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Pyramide Maduro",
+    "size": "6.875 x 52",
+    "single": 19.8,
+    "fivePack": 99.0,
+    "box": 495.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Soberano Maduro (Tube)",
+    "size": "5 x 52",
+    "single": 20.4,
+    "fivePack": 102.0,
+    "box": 306.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "Presidente Maduro (Tube)",
+    "size": "6 x 50",
+    "single": 21.4,
+    "fivePack": 107.0,
+    "box": 321.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "#4 Maduro",
+    "size": "6.5 x 60",
+    "single": 25.6,
+    "fivePack": 128.0,
+    "box": 512.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "'A' Maduro",
+    "size": "8.25 x 50",
+    "single": 38.95,
+    "fivePack": 194.75,
+    "box": 389.5,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Holt's slug is 'padron-1964-anniversary' (the guessed '...-series' 404s). One page covers Natural and Maduro; wrapper kept in vitola name. No MSRP column. inStock false = row showed 'Notify' instead of Add to Cart. Superior not listed by Holt's; extra vitolas (#4, 'A', Presidente tube) recorded. Natural rows dropped from the quote file (same prices as Maduro; other stores quote Maduro)"
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 7.79,
+    "fivePack": 37.0,
+    "box": 174.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 9.12,
+    "fivePack": 43.25,
+    "box": 204.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 11.55,
+    "fivePack": 54.75,
+    "box": 258.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 12.6,
+    "fivePack": 59.75,
+    "box": 282.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 21.07,
+    "fivePack": 100.0,
+    "box": 188.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": 12.27,
+    "fivePack": 58.25,
+    "box": 275.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Between the Lines",
+    "size": "4.5 x 54",
+    "single": 20.45,
+    "fivePack": 102.25,
+    "box": 511.25,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Natural page worked at the guessed slug; box MSRPs shown on it (Short Story 194.75, Best Seller 228, Signature 288.75, Classic 315, Masterpiece 210.70, Work of Art 306.75) and Holt's box prices are discounted below MSRP. Maduro rows come from the separate page https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway-maduro.html (Holt's price = MSRP there). inStock false = 'Notify' button. Generic out-of-stock banner present on page despite Add to Cart rows. Maduro rows dropped (Hemingway Maduro is priced differently and would merge into the Natural sizes)"
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "holts",
+  "url": null,
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Not carried. Guessed slug 'gurkha-prize-fighter' 404s, site:holts.com search returns no Prize Fighter page, Gurkha brand page 404s, and the Gurkha liquidation page (Cellar Reserve, Classic Havana, Royal Challenge) has no Prize Fighter."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Fuente OpusX",
+  "store": "holts",
+  "url": null,
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Core OpusX line not carried. Guessed slug 'fuente-fuente-opus-x' 404s; the Arturo Fuente brand page lists only 'Fuente Fuente Opus X Lost City' (https://www.holts.com/cigars/all-cigar-brands/fuente-fuente-opus-x-lost-city.html), not the core Robusto/Perfecxion line. Search hits are clubhouse articles and humidors only."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "#2000",
+    "size": "5 x 43",
+    "single": 18.7,
+    "fivePack": null,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "#1000",
+    "size": "4.625 x 34",
+    "single": 15.4,
+    "fivePack": null,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "#2",
+    "size": "6 x 38",
+    "single": 24.8,
+    "fivePack": null,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "#6000",
+    "size": "5 x 48",
+    "single": 24.8,
+    "fivePack": null,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "#2 Tubos",
+    "size": "6 x 38",
+    "single": 25.7,
+    "fivePack": null,
+    "box": 514.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "#2000 Tubos",
+    "size": "5 x 43",
+    "single": 19.4,
+    "fivePack": null,
+    "box": 388.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 28.7,
+    "fivePack": null,
+    "box": 717.5,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Guessed slug worked. No MSRP or 5-pack column. Ambassadrice not listed. #6000 size shown on Holt's as '5 x 48' (catalog says 5.9x47). All rows had Add ... Single/Box To Cart buttons; generic 'presently out of stock' banner present on page as on other Davidoff pages, so stock flags are per-row button presence."
+ }
+]

@@ -1,0 +1,511 @@
+[
+ {
+  "id": "Davidoff|Millennium",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-millennium-blend-series",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Line page /cigar/davidoff-millennium (404); actual slug is /cigar/davidoff-millennium-blend-series but WebFetch returned only the navigation menu (tried twice). Per-vitola pages /cigars/davidoff-millennium-piramide, /cigars/davidoff-millennium-short-robusto, /cigars/davidoff-millennium-blend-robusto (Robusto is 5.25x50 on Neptune) returned name/size/description but no prices or stock (per-vitola pages truncated to nav today). Other known per-vitola slugs: davidoff-millennium-toro, davidoff-millennium-robusto-tubos, davidoff-millenium-petite-corona."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/new-world-dorado",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Line page /cigar/new-world-dorado exists but WebFetch got only ~156k chars of navigation menu, no product table (tried 3 URL variants). Per-vitola pages /cigars/new-world-dorado-robusto (5.5x52), -toro (6x54), -gordito (5.5x60) fetched but returned no prices/stock. Also exists: /cigars/new-world-dorado-figurado (6x56). Neptune has no Gordo 6x60 or Belicoso; Gordito 5.5x60 instead."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Exclusivo Maduro",
+    "size": "5.5 x 50",
+    "single": 16.4,
+    "fivePack": null,
+    "box": 410.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Principe Maduro",
+    "size": "4.5 x 46",
+    "single": 14.05,
+    "fivePack": null,
+    "box": 351.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Maduro",
+    "size": "6 x 42",
+    "single": 14.9,
+    "fivePack": null,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Superior Maduro",
+    "size": "6.5 x 42",
+    "single": 15.4,
+    "fivePack": null,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo Maduro",
+    "size": "6 x 52",
+    "single": 21.15,
+    "fivePack": null,
+    "box": 423.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Imperial Maduro",
+    "size": "6 x 54",
+    "single": 20.15,
+    "fivePack": null,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Diplomatico Maduro",
+    "size": "7 x 50",
+    "single": 18.7,
+    "fivePack": null,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Monarca Maduro",
+    "size": "6.5 x 46",
+    "single": null,
+    "fivePack": null,
+    "box": 408.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Hermoso Maduro",
+    "size": "4 x 56",
+    "single": 16.9,
+    "fivePack": null,
+    "box": 439.4,
+    "count": 26,
+    "inStock": true
+   },
+   {
+    "vitola": "Pyramide Maduro",
+    "size": "6.875 x 52",
+    "single": 19.8,
+    "fivePack": null,
+    "box": 495.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Soberano Maduro",
+    "size": "5 x 52",
+    "single": 20.4,
+    "fivePack": null,
+    "box": 306.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "Presidente Maduro",
+    "size": "6 x 50",
+    "single": 21.4,
+    "fivePack": null,
+    "box": 321.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4 Maduro",
+    "size": "6.5 x 60",
+    "single": 25.6,
+    "fivePack": null,
+    "box": 512.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "TAA Toro Maduro",
+    "size": "5 x 56",
+    "single": 17.8,
+    "fivePack": null,
+    "box": 445.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "\"A\" Maduro",
+    "size": "8.25 x 50",
+    "single": 38.95,
+    "fivePack": null,
+    "box": 389.5,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Maduro line page returned the full table with single + box prices and stock. Monarca Maduro had no single price listed on the page. No Belicoso 5x52 on Neptune's Maduro page. Natural line page /cigar/padron-1964-anniversary returned only navigation (no prices) so no Natural rows."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 7.79,
+    "fivePack": null,
+    "box": 169.45,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 9.12,
+    "fivePack": null,
+    "box": 198.27,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 11.55,
+    "fivePack": null,
+    "box": 251.21,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 12.6,
+    "fivePack": null,
+    "box": 273.94,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 21.07,
+    "fivePack": null,
+    "box": 183.27,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": 12.27,
+    "fivePack": null,
+    "box": 266.76,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page returned the full Natural table with single + box prices and stock (Short Story and Masterpiece backordered). Sizes are as Neptune lists them (Signature 6x46, Classic 7x46). No Maduro rows on this page; Hemingway Maduro is a separate line page on Neptune, not fetched. Signature/Classic ring normalised to the catalog (47/48)"
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/gurkha-prize-fighter",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Line page /cigar/gurkha-prize-fighter (and /cigar/gurkha-prize-fighter-maduro) exist but WebFetch returned only ~45k chars of navigation, no product table (3 attempts). WebSearch found no per-vitola /cigars/ slugs for Prize Fighter (only Royal Challenge, Tyson 2.0, Heritage etc.), so no per-vitola fallback was possible."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Fuente OpusX",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 34.05,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion X",
+    "size": "6.25 x 48",
+    "single": 36.66,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion #2",
+    "size": "6.375 x 52",
+    "single": 40.47,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion #4",
+    "size": "5.125 x 43",
+    "single": 28.41,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion #5",
+    "size": "4.875 x 40",
+    "single": 26.16,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Double Corona",
+    "size": "7.625 x 49",
+    "single": 44.46,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Petit Lancero",
+    "size": "6.25 x 39",
+    "single": 31.29,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Fuente Fuente",
+    "size": "5.625 x 46",
+    "single": 30.36,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Reserva d'Chateau",
+    "size": "7 x 48",
+    "single": 39.06,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 38.52,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Super Belicoso",
+    "size": "5.5 x 52",
+    "single": 36.48,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso XXX",
+    "size": "4.625 x 49",
+    "single": 28.68,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion 888",
+    "size": "6.875 x 44",
+    "single": 34.53,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion A",
+    "size": "9.25 x 47",
+    "single": 66.15,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion No. 77 Shark",
+    "size": "5.5 x 52",
+    "single": 40.47,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Magnum \"O\" 36",
+    "size": "4.75 x 56",
+    "single": 37.32,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Pussy Cats",
+    "size": "4.25 x 42",
+    "single": 26.37,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Love Affair",
+    "size": "4.5 x 52",
+    "single": 29.97,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "Shark",
+    "size": "5.625 x 54",
+    "single": 50.0,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page returned the full table (47 rows incl. Angels Share, Forbidden X, Destino, Dubai, OXO Oro Oscuro sub-lines which were left out here except that OXO rows went to the Oro Oscuro entry). Every OpusX item on Neptune is on backorder; the page shows single prices only, box prices not listed for the core vitolas."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-signature-series",
+  "fetched": "2026-09-24",
+  "vitolas": [],
+  "notes": "Line page /cigar/davidoff-signature-series exists but WebFetch returned only navigation (2 attempts). Per-vitola page /cigars/davidoff-signature-2000 returned name/size but no dollar amounts. Known per-vitola slugs: davidoff-signature-2000, davidoff-signature-2000-tubos, davidoff-signature-1000."
+ },
+ {
+  "id": "Arturo Fuente|OpusX Oro Oscuro",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+  "fetched": "2026-09-24",
+  "vitolas": [
+   {
+    "vitola": "OXO Oro Oscuro Perfecxion #4",
+    "size": "5.125 x 43",
+    "single": 31.29,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro",
+    "size": "5.25 x 52",
+    "single": 37.77,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Robusto",
+    "size": "5.25 x 50",
+    "single": 36.84,
+    "fivePack": null,
+    "box": 1068.54,
+    "count": 29,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Fuente Fuente",
+    "size": "5.625 x 46",
+    "single": 32.94,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Belicoso XXX",
+    "size": "4.625 x 49",
+    "single": 31.65,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Double Robusto",
+    "size": "5.75 x 52",
+    "single": 42.42,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Perfecxion X",
+    "size": "6.25 x 49",
+    "single": 40.2,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Reserva d'Chateau",
+    "size": "7 x 48",
+    "single": 43.17,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   },
+   {
+    "vitola": "OXO Oro Oscuro Super Belicoso",
+    "size": "5.5 x 52",
+    "single": 40.2,
+    "fivePack": null,
+    "box": null,
+    "count": null,
+    "inStock": false
+   }
+  ],
+  "notes": "Neptune has no 'Petit Corona 5x42' OXO SKU (/cigars/arturo-fuente-opus-x-oxo-oro-oscuro-petit-corona is 404). Rows taken from the OXO Oro Oscuro sub-section of the main OpusX line page /cigar/arturo-fuente-opus-x; closest match to Petit Corona is Perfecxion #4 5.125x43. All backordered; single prices only except Robusto box."
+ }
+]

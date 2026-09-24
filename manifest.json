@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-09-23",
+ "generated": "2026-09-24",
  "files": {
   "catalog.json": {
    "version": 1,
@@ -9,29 +9,29 @@
    "generated": "2026-09-23"
   },
   "sources.json": {
-   "version": 1,
-   "sha256": "0ce39061f22bc60452814fdd416391b129c5e6dae87afd95b4411e588ad5c52e",
-   "bytes": 6894,
-   "generated": "2026-09-23"
+   "version": 2,
+   "sha256": "c61e55706c3f832aff8170b62c61b5b37f52d57c095d912dbcd10796e3f1792c",
+   "bytes": 10855,
+   "generated": "2026-09-24"
   },
   "wanted.json": {
-   "version": 1,
-   "sha256": "ab181c29d6218aca239f6fbf7dd7ead90e8f3c7f189a45f4d7854022af5b3d81",
-   "bytes": 609,
-   "generated": "2026-09-23"
+   "version": 2,
+   "sha256": "497a95bf0e40ee675dde59b04998d0ffd22c11a14b62fc36e0b0bf8ce80caef9",
+   "bytes": 855,
+   "generated": "2026-09-24"
   },
   "prices.json": {
-   "version": 1,
-   "sha256": "3d1c09a2fda61329e77fa8be7004411536454fa35a908cbac24a0f4fdf4b6bd8",
-   "bytes": 99950,
-   "generated": "2026-09-23"
+   "version": 2,
+   "sha256": "1e75da2779ef52192e57ba7a8317656180bfea5a530114da1387dfef157516bf",
+   "bytes": 181451,
+   "generated": "2026-09-24"
   }
  },
  "catalog": {
   "lines": 1229
  },
  "prices": {
-  "lines": 15,
+  "lines": 22,
   "stores": [
    "neptune",
    "holts",
