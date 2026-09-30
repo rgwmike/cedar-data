@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "updated": "2026-09-24",
+ "updated": "2026-09-29",
  "stores": {
   "neptune": {
    "name": "Neptune Cigar",
    "home": "https://www.neptunecigar.com",
-   "pageShape": "line page: every vitola, single + box, plain HTML"
+   "pageShape": "line page: every vitola, single + box, plain HTML (often too long for the fetcher — per-vitola pages /cigars/<slug> showed single/5-pack/box on 2026-09-29)"
   },
   "holts": {
    "name": "Holt's",
@@ -20,7 +20,7 @@
   "mikes": {
    "name": "Mike's Cigars",
    "home": "https://mikescigars.com",
-   "pageShape": "brand-line listing or per-vitola page; single price in page metadata"
+   "pageShape": "brand-line listing (page 1 only; ?p=2 robots-blocked) or per-vitola page; listing card range high = box price (verified 6/6 on 2026-09-29, except Plasencia)"
   }
  },
  "lines": [
@@ -62,7 +62,7 @@
     "smokeinn": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
     "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour"
    },
-   "notes": ""
+   "notes": "Mike's page also lists the regular Winston Churchill line (Petit Panetela, Belicoso at ~$12/stick) — keep only Late Hour Robusto/Toro/Churchill."
   },
   {
    "id": "My Father|Le Bijou 1922",
@@ -132,7 +132,7 @@
     "smokeinn": "https://www.smokeinn.com/Mi-Querida-Cigars/",
     "mikes": null
    },
-   "notes": "Holt's page is clearance/sold out; weight Smoke Inn and Neptune. Mike's doesn't carry Dunbarton."
+   "notes": "Holt's page is clearance/sold out; weight Smoke Inn and Neptune. Mike's doesn't carry Dunbarton. Smoke Inn's fetch garbles the 6 x 56 / 6 x 60 names — map by size. Gran Bufalo 7 x 64 is sold but not in the catalog."
   },
   {
    "id": "Padrón|1926 Serie",
@@ -152,7 +152,7 @@
     "smokeinn": null,
     "mikes": null
    },
-   "notes": "Only Neptune carries it."
+   "notes": "Only Neptune carries it. Line page is navigation-only for the fetcher; per-vitola page /cigars/crux-limitada-pb5 gave prices on 2026-09-29 (Gunner page rendered without prices; Lancero slug 404)."
   },
   {
    "id": "Arturo Fuente|Don Carlos",
@@ -162,7 +162,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
     "mikes": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos"
    },
-   "notes": ""
+   "notes": "Mike's listing prices for Eye of the Bull / Eye of the Shark ($800-$900 'box') don't match a box of 20 — drop them. Neptune lists 'The Man' Robusto (limited) on the line page — exclude. Personal Reserve 5 x 50 is kept though not in the catalog."
   },
   {
    "id": "Foundation|The Tabernacle",
@@ -232,7 +232,7 @@
     "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X/",
     "mikes": "https://mikescigars.com/brands/arturo-fuente-opusx"
    },
-   "notes": "Neptune line page lists every vitola with single prices (all backordered) and the OXO Oro Oscuro sub-section. Smoke Inn shows limited releases only; Mike's doesn't sell it online; Holt's has Lost City only."
+   "notes": "Neptune line page lists every vitola with single prices (all backordered) and the OXO Oro Oscuro sub-section. Smoke Inn shows limited releases only; Mike's doesn't sell it online; Holt's has Lost City only. Smoke Inn's page lists only limited releases (Shark 'Taste of Love') — excluded from the index."
   },
   {
    "id": "Davidoff|Signature",

@@ -1,0 +1,1062 @@
+[
+ {
+  "id": "E.P. Carrillo|Encore",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/ep-carrillo-encore",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Majestic",
+    "size": "5.375 x 52",
+    "single": null,
+    "fivePack": 67.5,
+    "box": 198.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Celestial",
+    "size": "6.125 x 50",
+    "single": null,
+    "fivePack": 68.5,
+    "box": 201.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "El Primero",
+    "size": "6.875 x 54",
+    "single": null,
+    "fivePack": 70.5,
+    "box": 206.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Valientes",
+    "size": "6.125 x 52",
+    "single": null,
+    "fivePack": 70.95,
+    "box": 208.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "El Futuro",
+    "size": "5 x 50",
+    "single": 13.8,
+    "fivePack": null,
+    "box": 167.95,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing cards show 'From pack/single To box' ranges; Majestic product page confirmed Pack of 5 $67.50 / Box of 20 $198.50 (marked down from $254.95) so box = range high. Box prices are ~20% below last month (sale). Encore Black cards filtered out. Counts unseen except Majestic."
+ },
+ {
+  "id": "Davidoff|Winston Churchill The Late Hour",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": 31.3,
+    "fivePack": 103.5,
+    "packCount": 4,
+    "box": 516.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 34.05,
+    "fivePack": 112.5,
+    "packCount": 4,
+    "box": 562.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": 35.9,
+    "fivePack": 118.95,
+    "packCount": 4,
+    "box": 592.95,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Separate '(Box)' cards give box prices (count not shown); single-to-pack range cards give single and pack. Pack count 4 assumed from Davidoff packaging (listing shows no count). Petit Panetela/Belicoso ranges are pack-to-box. No stock shown. Petit Panetela and Belicoso cards (4-pack ~$50, box ~$250) are the regular Winston Churchill line priced at half the Late Hour Robusto — dropped by the index builder."
+ },
+ {
+  "id": "My Father|Le Bijou 1922",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Petit Robusto",
+    "size": "4.5 x 50",
+    "single": 9.55,
+    "fivePack": null,
+    "box": 132.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Torpedo Box Pressed",
+    "size": "6.1 x 52",
+    "single": 14.95,
+    "fivePack": null,
+    "box": 215.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5.6 x 55",
+    "single": null,
+    "fivePack": 54.95,
+    "box": 195.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 14.5,
+    "fivePack": null,
+    "box": 201.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 50",
+    "single": 15.5,
+    "fivePack": null,
+    "box": 215.95,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing ranges single-to-box (Grand Robusto is pack-to-box; its product page confirmed Pack of 5 $54.95 / Box of 20 $195.50). Box = range high; counts unseen for the others."
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Toro Fino",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 61.5,
+    "box": 232.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5 x 60",
+    "single": null,
+    "fivePack": 64.95,
+    "box": 244.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro Gordo",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 63.5,
+    "box": 239.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.625 x 46",
+    "single": null,
+    "fivePack": 56.95,
+    "box": 214.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing ranges pack-to-box (ratio ~3.8, boxes of 20 last month); box = range high, counts not shown. Store calls Toro Gordo 'Toro'. No stock shown."
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 50",
+    "single": 18.4,
+    "fivePack": 60.95,
+    "packCount": 4,
+    "box": 345.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Tres Mystique",
+    "size": "4.375 x 44",
+    "single": 17.25,
+    "fivePack": null,
+    "box": 323.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Pegasus",
+    "size": "5 x 54",
+    "single": 19.3,
+    "fivePack": null,
+    "box": 302.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Enchantment",
+    "size": "4.375 x 60",
+    "single": 20.4,
+    "fivePack": null,
+    "box": 351.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Illusion",
+    "size": "6.5 x 44",
+    "single": 18.25,
+    "fivePack": null,
+    "box": 342.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Belicoso No. 1",
+    "size": "5.25 x 52",
+    "single": 18.7,
+    "fivePack": null,
+    "box": 350.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Wizard",
+    "size": "6 x 56",
+    "single": 21.85,
+    "fivePack": null,
+    "box": 632.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 55",
+    "single": 21.55,
+    "fivePack": null,
+    "box": 404.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Sorcerer",
+    "size": "7 x 49",
+    "single": 19.85,
+    "fivePack": null,
+    "box": 372.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Spellbound",
+    "size": "7.5 x 54",
+    "single": 22.85,
+    "fivePack": null,
+    "box": 428.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.75 x 46",
+    "single": 18.1,
+    "fivePack": null,
+    "box": 340.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Eclipse Tube",
+    "size": "6 x 52",
+    "single": 23.0,
+    "fivePack": null,
+    "box": 431.95,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "All 12 vitolas on page 1 as single-to-box ranges; Robusto product page confirmed Single $18.40 / Pack of 4 $60.95 / Box of 24 $345.95 so box = range high. Store lists Tres Mystique as 4 3/4 x 44 (catalog size used). Counts unseen except Robusto."
+ },
+ {
+  "id": "Drew Estate|Liga Privada No. 9",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 406.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 429.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 452.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 475.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": null,
+    "fivePack": null,
+    "box": 384.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.1 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 220.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Box-only cards with single prices; Toro product page confirmed Box of 24 $429.95 in stock. Store sizes Robusto 5x52 / Corona Doble 7x52 mapped to catalog. Petaca (5-pack case) cards and Coronets tins skipped."
+ },
+ {
+  "id": "Drew Estate|Liga Privada T52",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/liga-privada-t52",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 406.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 429.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 452.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 475.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": null,
+    "fivePack": null,
+    "box": 384.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.1 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 220.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Box-only cards with single prices, counts not shown (24 last month). Petaca cards and Coronets tins skipped. No stock shown."
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "4.75 x 52",
+    "single": null,
+    "fivePack": 60.95,
+    "box": 114.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 69.5,
+    "box": 131.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Cortez",
+    "size": "5.75 x 56",
+    "single": null,
+    "fivePack": 72.5,
+    "box": null,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Listing range highs ($89.50/$102.50/$106.50) did NOT match the product pages, which show Box of 10 $114.95 (Robusto) and $131.95 (Toro); product-page prices recorded. Cortez box left null (listing high $106.50 unverified); pack from listing."
+ },
+ {
+  "id": "Padrón|1926 Serie",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "No. 1",
+    "size": "6.75 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 636.0,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 538.8,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 6",
+    "size": "4.75 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 442.8,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 9",
+    "size": "5.25 x 56",
+    "single": null,
+    "fivePack": null,
+    "box": 588.0,
+    "count": null,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 47",
+    "size": "5.5 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 490.8,
+    "count": null,
+    "inStock": true
+   }
+  ],
+  "notes": "Maduro rows kept (Natural identical price). Page 1 of 2 only (page 2 robots-blocked): No. 35, No. 48, No. 90, 40th, 80 Years unreachable. Box-of-10 variants ('#1 10' $265, '#2 10' $224.50, '#6 10' $184.50) also listed; full-box counts not shown (24 last month). Product-page slug guess was robots-blocked."
+ },
+ {
+  "id": "Arturo Fuente|Don Carlos",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 15.95,
+    "fivePack": 65.95,
+    "box": 311.95,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 3",
+    "size": "5.5 x 44",
+    "single": 14.5,
+    "fivePack": null,
+    "box": 282.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "No. 4",
+    "size": "5.125 x 43",
+    "single": 13.3,
+    "fivePack": null,
+    "box": 259.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5.5 x 52",
+    "single": 17.65,
+    "fivePack": null,
+    "box": 345.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "No. 2 Torpedo",
+    "size": "6 x 55",
+    "single": 21.0,
+    "fivePack": null,
+    "box": 410.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6.5 x 50",
+    "single": 18.45,
+    "fivePack": null,
+    "box": 361.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 17.15,
+    "fivePack": null,
+    "box": 335.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Single-to-box ranges; Robusto product page confirmed Single $15.95 / Pack of 5 $65.95 / Box of 25 $311.95 but all OUT OF STOCK. Eye of the Bull 'Box of 20' $800 and Eye of the Shark $899.95 are limited releases. Page 1 of 2 (17 items, 1 unreachable). Ashtrays/gift sets ignored. Eye of the Bull / Eye of the Shark listing prices ($800/$899.95) did not match a box of 20 (about twice the other stores per stick) — dropped by the index builder."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": null,
+    "fivePack": 60.5,
+    "box": 274.5,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 15.85,
+    "fivePack": null,
+    "box": 297.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Double Corona",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": 67.95,
+    "box": 305.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Goliath",
+    "size": "5 x 58",
+    "single": null,
+    "fivePack": 73.5,
+    "box": 348.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "David",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": 65.95,
+    "box": 310.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Broadleaf (Maduro) cards only; Havana Seed CT #142 filtered out. Robusto product page confirmed Pack of 5 $60.50 / Box of 24 $274.50, OUT OF STOCK. Others are pack-to-box ranges (Toro single-to-box); counts unseen. No Corona or Lancero listed."
+ },
+ {
+  "id": "Davidoff|Millennium",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/davidoff-millennium",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 35.3,
+    "fivePack": 122.8,
+    "packCount": 4,
+    "box": 767.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Robusto Tubos",
+    "size": "5.25 x 50",
+    "single": 36.2,
+    "fivePack": 94.5,
+    "packCount": 4,
+    "box": 630.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": 30.35,
+    "fivePack": 105.6,
+    "packCount": 4,
+    "box": 528.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 22.65,
+    "fivePack": 98.5,
+    "packCount": 4,
+    "box": 492.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 40.15,
+    "fivePack": 139.6,
+    "packCount": 4,
+    "box": 349.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Piramide",
+    "size": "6.125 x 52",
+    "single": 41.75,
+    "fivePack": 145.2,
+    "packCount": 4,
+    "box": 363.0,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Two cards per vitola: box card (price only, count not shown) and 'Pack' card with single-to-pack range; pack count 4 per Davidoff packaging (not shown). No stock shown. Churchill/Lonsdale not listed."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": 54.95,
+    "box": 103.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 59.95,
+    "box": 113.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": null,
+    "fivePack": 62.95,
+    "box": 118.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 63.95,
+    "box": 120.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Corona",
+    "size": "5 x 46",
+    "single": null,
+    "fivePack": null,
+    "box": 94.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Pack-to-box ranges (boxes of 10 last month; counts not shown today); Corona is a single-price box card. No stock shown."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/padron-1964-anniversary",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Torpedo",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 423.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 475.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Soberano",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 306.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 321.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Hermoso",
+    "size": "4 x 56",
+    "single": null,
+    "fivePack": null,
+    "box": 439.4,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "No. 4",
+    "size": "6.5 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 512.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Superior",
+    "size": "6.5 x 42",
+    "single": null,
+    "fivePack": null,
+    "box": 385.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Piramide",
+    "size": "6.9 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 495.0,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Maduro rows kept (Natural same price). Box-only cards, counts not shown. Soberano and Presidente are Tubos cards. Page 1 of 2 only (page 2 robots-blocked): Exclusivo, Corona, Monarca, Imperial, Diplomatico, Principe, Pyramide No. 1, TAA, A unreachable; Exclusivo product-page slug guess was robots-blocked. No stock shown."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 8.95,
+    "fivePack": 37.5,
+    "box": 175.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 10.5,
+    "fivePack": null,
+    "box": 205.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 13.3,
+    "fivePack": null,
+    "box": 259.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 14.5,
+    "fivePack": null,
+    "box": 283.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": 14.1,
+    "fivePack": null,
+    "box": 275.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 24.2,
+    "fivePack": null,
+    "box": 189.95,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Between the Lines",
+    "size": "4.5 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 645.95,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Natural (Cameroon) rows only; Maduro/Sungrown cards dropped. Short Story product page confirmed Single $8.95 / Pack of 5 $37.50 / Box of 25 $175.50 in stock; other rows are single-to-box listing ranges with counts unseen. Between the Lines is a box-only card at $645.95 (store lists it 4 1/4 x 46; catalog size used)."
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/gurkha-prize-fighter",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 43.5,
+    "count": 20,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 44.5,
+    "count": 20,
+    "inStock": null
+   },
+   {
+    "vitola": "Gordo",
+    "size": "6 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 51.5,
+    "count": 20,
+    "inStock": null
+   }
+  ],
+  "notes": "Bundles of 20 (count per store notes; listing shows price only). Natural and Maduro priced the same; Natural rows kept. Store calls the Gordo 'XO'. No Churchill. No stock shown."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Fuente OpusX",
+  "store": "mikes",
+  "url": "https://mikescigars.com/brands/arturo-fuente-opusx",
+  "fetched": "2026-09-29",
+  "vitolas": [],
+  "notes": "Page 1 of 3 shows accessories, Forbidden X / Society limited editions ($1,380-$2,750) and Oro Oscuro tins; the regular OpusX vitolas (Fuente Fuente, Perfecxion No. 2, No. 4) show no price — not sold online. Nothing recorded."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "mikes",
+  "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "2000",
+    "size": "5 x 43",
+    "single": 21.5,
+    "fivePack": 93.5,
+    "packCount": 4,
+    "box": 467.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "2000 Tubos",
+    "size": "5 x 43",
+    "single": 22.3,
+    "fivePack": 77.6,
+    "packCount": 4,
+    "box": 388.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "1000",
+    "size": "4.625 x 34",
+    "single": 17.7,
+    "fivePack": 77.0,
+    "packCount": 4,
+    "box": 385.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 38",
+    "single": 28.5,
+    "fivePack": 124.0,
+    "packCount": 4,
+    "box": 620.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "No. 2 Tubos",
+    "size": "6 x 38",
+    "single": 29.55,
+    "fivePack": 102.8,
+    "packCount": 4,
+    "box": 514.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "6000",
+    "size": "5 x 48",
+    "single": 28.5,
+    "fivePack": 99.2,
+    "packCount": 4,
+    "box": 620.0,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 33.0,
+    "fivePack": 114.8,
+    "packCount": 4,
+    "box": 717.5,
+    "count": null,
+    "inStock": null
+   },
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 18.3,
+    "fivePack": null,
+    "box": 397.5,
+    "count": null,
+    "inStock": null
+   }
+  ],
+  "notes": "Box cards (single-to-box range or box price) plus 'Pack' cards; pack count 4 per Davidoff packaging (not shown); box counts not shown. Page 1 of 2 (19 items): Ambassadrice unreachable on page 2. Exquisitos skipped. No stock shown."
+ }
+]

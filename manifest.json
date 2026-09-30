@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-09-24",
+ "generated": "2026-09-29",
  "files": {
   "catalog.json": {
    "version": 3,
@@ -9,10 +9,10 @@
    "generated": "2026-09-24"
   },
   "sources.json": {
-   "version": 3,
-   "sha256": "afb4f8e0b5ea8a9c366937c825162ca70e3e5f29444a4023825ac3545d221656",
-   "bytes": 10886,
-   "generated": "2026-09-24"
+   "version": 4,
+   "sha256": "1df27caf7b6635df327d84cc03434ca285d9bfe4916f7c59a50ac921dd0f953a",
+   "bytes": 11865,
+   "generated": "2026-09-29"
   },
   "wanted.json": {
    "version": 2,
@@ -21,10 +21,10 @@
    "generated": "2026-09-24"
   },
   "prices.json": {
-   "version": 2,
-   "sha256": "1e75da2779ef52192e57ba7a8317656180bfea5a530114da1387dfef157516bf",
-   "bytes": 181451,
-   "generated": "2026-09-24"
+   "version": 3,
+   "sha256": "9cc193394340326e7be4980b5380594dd9485a3623a56a839807485bf11761aa",
+   "bytes": 172183,
+   "generated": "2026-09-29"
   }
  },
  "catalog": {

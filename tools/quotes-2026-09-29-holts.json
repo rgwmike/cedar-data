@@ -1,0 +1,1136 @@
+[
+ {
+  "id": "E.P. Carrillo|Encore",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Majestic",
+    "size": "5.375 x 52",
+    "single": 14.15,
+    "fivePack": null,
+    "box": 253.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Celestial",
+    "size": "6.125 x 50",
+    "single": 14.4,
+    "fivePack": null,
+    "box": 258.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Valientes",
+    "size": "6.125 x 52",
+    "single": 14.9,
+    "fivePack": null,
+    "box": 267.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page table, 3 rows, Single + Box only (no 5-pack column); all rows have Add buttons. Generic out-of-stock banner ignored. Triumph Trilogy sampler excluded."
+ },
+ {
+  "id": "Foundation|Olmec",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": 15.42,
+    "fivePack": null,
+    "box": 166.54,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 16.44,
+    "fivePack": null,
+    "box": 177.55,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Grande",
+    "size": "6 x 60",
+    "single": 17.66,
+    "fivePack": null,
+    "box": 190.73,
+    "count": 12,
+    "inStock": false
+   }
+  ],
+  "notes": "Maduro page, 3 rows, Single + Box of 12; store labels the 6 x 60 'Toro (Grande)', mapped to catalog Grande; its buttons are Notify only (out of stock)."
+ },
+ {
+  "id": "Davidoff|Winston Churchill The Late Hour",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": 27.2,
+    "fivePack": null,
+    "box": 544.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 29.6,
+    "fivePack": null,
+    "box": 592.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": 31.2,
+    "fivePack": null,
+    "box": 624.0,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 3 rows, Single + Box of 20, no pack column; all Add buttons. Generic out-of-stock banner ignored."
+ },
+ {
+  "id": "My Father|Le Bijou 1922",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Petit Robusto",
+    "size": "4.5 x 50",
+    "single": 8.3,
+    "fivePack": 39.25,
+    "box": 148.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5.6 x 55",
+    "single": 12.2,
+    "fivePack": 57.75,
+    "box": 218.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 12.6,
+    "fivePack": 59.75,
+    "box": 225.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo Box Pressed",
+    "size": "6.1 x 52",
+    "single": 13.0,
+    "fivePack": 61.75,
+    "box": 233.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 50",
+    "single": 13.5,
+    "fivePack": 64.0,
+    "box": 278.95,
+    "count": 23,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 5 rows with Single/5-pack/Box; all Add buttons (Petit Robusto back in stock vs last month). Churchill box of 23."
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Grand Robusto",
+    "size": "5 x 60",
+    "single": 13.6,
+    "fivePack": 64.5,
+    "box": 243.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.625 x 46",
+    "single": 11.9,
+    "fivePack": 56.5,
+    "box": 213.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Gordo",
+    "size": "6 x 56",
+    "single": 13.3,
+    "fivePack": 63.0,
+    "box": 238.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Fino",
+    "size": "6 x 52",
+    "single": 12.9,
+    "fivePack": 61.25,
+    "box": 231.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 4 rows with Single/5-pack/Box of 20; all Add buttons. Store calls the 6 x 56 'Toro', mapped to catalog Toro Gordo."
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Tres Mystique",
+    "size": "4.375 x 44",
+    "single": 15.0,
+    "fivePack": 71.25,
+    "box": 323.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Enchantment",
+    "size": "4.375 x 60",
+    "single": 17.75,
+    "fivePack": 84.25,
+    "box": 350.95,
+    "count": 22,
+    "inStock": true
+   },
+   {
+    "vitola": "Pegasus",
+    "size": "5 x 54",
+    "single": 16.8,
+    "fivePack": 79.75,
+    "box": 301.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso No. 1",
+    "size": "5.25 x 52",
+    "single": 16.25,
+    "fivePack": 77.0,
+    "box": 350.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 50",
+    "single": 16.0,
+    "fivePack": 76.0,
+    "box": 344.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.75 x 46",
+    "single": 15.75,
+    "fivePack": 74.75,
+    "box": 339.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Eclipse Tube",
+    "size": "6 x 52",
+    "single": 20.0,
+    "fivePack": 95.0,
+    "box": 431.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Wizard",
+    "size": "6 x 56",
+    "single": 19.0,
+    "fivePack": 90.25,
+    "box": 631.95,
+    "count": 37,
+    "inStock": true
+   },
+   {
+    "vitola": "Illusion",
+    "size": "6.5 x 44",
+    "single": 15.85,
+    "fivePack": 75.25,
+    "box": 341.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 55",
+    "single": 18.75,
+    "fivePack": 89.0,
+    "box": 404.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Sorcerer",
+    "size": "7 x 49",
+    "single": 17.25,
+    "fivePack": 81.75,
+    "box": 371.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Spellbound",
+    "size": "7.5 x 54",
+    "single": 19.85,
+    "fivePack": 94.25,
+    "box": 427.95,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, all 12 catalog vitolas with Single/5-pack/Box; all Add buttons. Prices unchanged from last month."
+ },
+ {
+  "id": "Drew Estate|Liga Privada No. 9",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Coronets",
+    "size": "4 x 32",
+    "single": null,
+    "fivePack": null,
+    "box": 109.3,
+    "count": 50,
+    "inStock": true
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.1 x 60",
+    "single": 19.3,
+    "fivePack": null,
+    "box": 231.6,
+    "count": 12,
+    "inStock": false
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": 17.85,
+    "fivePack": 89.25,
+    "box": 407.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 48",
+    "single": 16.85,
+    "fivePack": 84.25,
+    "box": 384.2,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": 19.85,
+    "fivePack": 99.25,
+    "box": 452.6,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 18.85,
+    "fivePack": 94.25,
+    "box": 429.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": 20.85,
+    "fivePack": 104.25,
+    "box": 475.4,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 7 rows. Coronets sold as tin of 10 ($23.00, not recorded) and unit of 50; Flying Pig row shows Sold Out. Store lists Corona Viva as 6 x 48 (catalog 6 x 46)."
+ },
+ {
+  "id": "Drew Estate|Liga Privada T52",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Coronets",
+    "size": "4 x 32",
+    "single": null,
+    "fivePack": null,
+    "box": 109.3,
+    "count": 50,
+    "inStock": true
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.1 x 60",
+    "single": 19.3,
+    "fivePack": null,
+    "box": 231.6,
+    "count": 12,
+    "inStock": false
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": 17.85,
+    "fivePack": 89.25,
+    "box": 407.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": 16.85,
+    "fivePack": 84.25,
+    "box": 384.2,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": 19.85,
+    "fivePack": 99.25,
+    "box": 452.6,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 18.85,
+    "fivePack": 94.25,
+    "box": 429.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": 20.85,
+    "fivePack": 104.25,
+    "box": 475.4,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 7 rows, same price grid as No. 9. Coronets tin of 10 ($23.00) not recorded; Flying Pig Sold Out (prices now shown). Corona Viva listed as 6 x 48. Corona Viva listed 6 x 48, recorded at catalog 6 x 46."
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "4.75 x 52",
+    "single": 10.99,
+    "fivePack": null,
+    "box": 98.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 12.99,
+    "fivePack": null,
+    "box": 116.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, only Robusto and Toro (boxes of 10), Single + Box, no 5-pack column; both rows have Add buttons. Generic out-of-stock banner ignored."
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/mi-querida.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Ancho Corto",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 94.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Ancho Largo",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 104.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Fino Largo",
+    "size": "6 x 48",
+    "single": null,
+    "fivePack": null,
+    "box": 94.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Muy Gordo Grande",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": null,
+    "box": 109.95,
+    "count": 20,
+    "inStock": false
+   }
+  ],
+  "notes": "clearance: page is still a sold-out closeout listing, box-only prices, every row Sold Out, no single or 5-pack column. Store sizes for Fino Largo (6 x 48) and Muy Gordo Grande (6 x 56) differ from catalog."
+ },
+ {
+  "id": "Padrón|1926 Serie",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "No. 35",
+    "size": "4 x 48",
+    "single": 16.35,
+    "fivePack": 81.75,
+    "box": 392.4,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 6",
+    "size": "4.75 x 50",
+    "single": 18.45,
+    "fivePack": 92.25,
+    "box": 442.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 9",
+    "size": "5.25 x 56",
+    "single": 24.5,
+    "fivePack": 122.5,
+    "box": 588.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 47",
+    "size": "5.5 x 50",
+    "single": 20.45,
+    "fivePack": 102.25,
+    "box": 490.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2",
+    "size": "5.5 x 52",
+    "single": 22.45,
+    "fivePack": 112.25,
+    "box": 538.8,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 48",
+    "size": "5.5 x 60",
+    "single": 26.95,
+    "fivePack": 134.75,
+    "box": 269.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 1",
+    "size": "6.75 x 54",
+    "single": 26.5,
+    "fivePack": 132.5,
+    "box": 636.0,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Maduro rows kept (page covers Natural and Maduro at identical prices; Natural rows dropped). No. 2 Maduro is Notify-only; No. 9, No. 35 and No. 48 Maduro have box on Notify but single (and 5-pack for No. 35) purchasable, so marked in stock."
+ },
+ {
+  "id": "Arturo Fuente|Don Carlos",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Eye of the Bull",
+    "size": "3.5 x 55",
+    "single": 17.25,
+    "fivePack": null,
+    "box": 345.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Personal Reserve",
+    "size": "5 x 50",
+    "single": 25.0,
+    "fivePack": null,
+    "box": 500.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "5.125 x 43",
+    "single": 11.55,
+    "fivePack": 54.75,
+    "box": 244.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 13.86,
+    "fivePack": 65.75,
+    "box": 293.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Eye of the Shark",
+    "size": "5.25 x 52",
+    "single": 25.0,
+    "fivePack": null,
+    "box": 500.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5.5 x 52",
+    "single": 15.35,
+    "fivePack": 72.75,
+    "box": 325.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 3",
+    "size": "5.5 x 44",
+    "single": 12.54,
+    "fivePack": 59.5,
+    "box": 265.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 14.91,
+    "fivePack": 70.75,
+    "box": 315.95,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 2 Torpedo",
+    "size": "6 x 55",
+    "single": 18.26,
+    "fivePack": 86.5,
+    "box": 387.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6.5 x 50",
+    "single": 16.06,
+    "fivePack": 76.25,
+    "box": 340.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 10 rows; Double Robusto, Eye of the Bull and Eye of the Shark are Notify-only. Personal Reserve (5 x 50) is not a catalog vitola but is on the page. Belicoso listed as 5.375 x 52. Petite Lancero not listed. Belicoso listed 5.375 x 52, recorded at catalog 5.5 x 52."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": 14.44,
+    "fivePack": null,
+    "box": 311.9,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 15.58,
+    "fivePack": null,
+    "box": 336.53,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Corona",
+    "size": "7 x 54",
+    "single": 16.12,
+    "fivePack": null,
+    "box": 348.19,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Broadleaf line page, 3 rows, Single + Box of 24, no 5-pack column; second fetch confirmed Single and Box Add buttons on every row (banner is generic). Store spells it 'Doble Corona'."
+ },
+ {
+  "id": "Davidoff|Millennium",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": 26.4,
+    "fivePack": null,
+    "box": 528.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Petit Corona",
+    "size": "4.5 x 41",
+    "single": 19.7,
+    "fivePack": null,
+    "box": 492.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 30.7,
+    "fivePack": null,
+    "box": 767.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto Tubos",
+    "size": "5.25 x 50",
+    "single": 31.5,
+    "fivePack": null,
+    "box": 630.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 34.9,
+    "fivePack": null,
+    "box": 349.0,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Piramide",
+    "size": "6.125 x 52",
+    "single": 36.3,
+    "fivePack": null,
+    "box": 363.0,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 6 rows, Single + Box only (no 4-pack column at Holt's); all Add buttons. No Churchill or Lonsdale. Generic out-of-stock banner ignored."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": 11.5,
+    "fivePack": null,
+    "box": 102.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 12.6,
+    "fivePack": null,
+    "box": 107.99,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 117.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": 13.4,
+    "fivePack": null,
+    "box": 112.99,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 4 rows, Single + Box of 10; all Add buttons. Box prices moved vs last month (Toro 107.99, Gordito 117.95, Figurado 112.99); a second fetch confirmed these are the selling price column, not MSRP."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Hermoso",
+    "size": "4 x 56",
+    "single": 16.9,
+    "fivePack": 84.5,
+    "box": 439.4,
+    "count": 26,
+    "inStock": false
+   },
+   {
+    "vitola": "Principe",
+    "size": "4.5 x 46",
+    "single": 14.05,
+    "fivePack": 70.25,
+    "box": 351.25,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5 x 52",
+    "single": 19.0,
+    "fivePack": 95.0,
+    "box": 475.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Soberano",
+    "size": "5 x 52",
+    "single": 20.4,
+    "fivePack": 102.0,
+    "box": 306.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "Exclusivo",
+    "size": "5.5 x 50",
+    "single": 16.4,
+    "fivePack": 82.0,
+    "box": 410.0,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Corona",
+    "size": "6 x 42",
+    "single": 14.9,
+    "fivePack": 74.5,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6 x 50",
+    "single": 21.4,
+    "fivePack": 107.0,
+    "box": 321.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6 x 52",
+    "single": 21.15,
+    "fivePack": 105.75,
+    "box": 423.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Imperial",
+    "size": "6 x 54",
+    "single": 20.15,
+    "fivePack": 100.75,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Monarca",
+    "size": "6.5 x 46",
+    "single": 16.35,
+    "fivePack": 81.75,
+    "box": 408.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "6.5 x 60",
+    "single": 25.6,
+    "fivePack": 128.0,
+    "box": 512.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Piramide",
+    "size": "6.9 x 52",
+    "single": 19.8,
+    "fivePack": 99.0,
+    "box": 495.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Diplomatico",
+    "size": "7 x 50",
+    "single": 18.7,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "A",
+    "size": "8.25 x 50",
+    "single": 38.95,
+    "fivePack": 194.75,
+    "box": 389.5,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Maduro rows kept (page lists Natural and Maduro at identical prices; Natural rows dropped). 14 Maduro vitolas. Soberano and Presidente are tubes (boxes of 15). inStock=false where every button is Notify (Hermoso, Principe, Exclusivo, Torpedo, Diplomatico); several in-stock rows have the box on Notify with single/5-pack purchasable (No. 4, A, Belicoso, Imperial, Monarca, Soberano). Fetcher emitted a duplicate '#4' row that was collapsed."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 7.79,
+    "fivePack": 37.0,
+    "box": 174.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Between the Lines",
+    "size": "4.5 x 54",
+    "single": 20.45,
+    "fivePack": 102.25,
+    "box": 511.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 9.12,
+    "fivePack": 43.25,
+    "box": 204.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.875 x 60",
+    "single": 12.27,
+    "fivePack": 58.25,
+    "box": 275.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 11.55,
+    "fivePack": 54.75,
+    "box": 258.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 12.6,
+    "fivePack": 59.75,
+    "box": 282.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 21.07,
+    "fivePack": 100.0,
+    "box": 188.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Natural (Cameroon) page only, 7 rows with Single/5-pack/Box; all Add buttons. Maduro page not fetched. Prices unchanged from last month."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "holts",
+  "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
+  "fetched": "2026-09-29",
+  "vitolas": [
+   {
+    "vitola": "1000",
+    "size": "4.625 x 34",
+    "single": 15.4,
+    "fivePack": null,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000",
+    "size": "5 x 43",
+    "single": 18.7,
+    "fivePack": null,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000 Tubos",
+    "size": "5 x 43",
+    "single": 19.4,
+    "fivePack": null,
+    "box": 388.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "6000",
+    "size": "5 x 48",
+    "single": 24.8,
+    "fivePack": null,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 38",
+    "single": 24.8,
+    "fivePack": null,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 2 Tubos",
+    "size": "6 x 38",
+    "single": 25.7,
+    "fivePack": null,
+    "box": 514.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 28.7,
+    "fivePack": null,
+    "box": 717.5,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page, 7 rows, Single + Box only (no 4-pack column at Holt's); all Add buttons. Ambassadrice and Petit Corona not listed. Generic out-of-stock banner ignored."
+ }
+]
