@@ -802,7 +802,7 @@
    },
    {
     "name": "No. 77 Shark",
-    "size": "5.9 x 64"
+    "size": "5.875 x 52"
    }
   ],
   "aliases": [
@@ -4502,6 +4502,10 @@
    {
     "name": "Goliath",
     "size": "5 x 58"
+   },
+   {
+    "name": "David",
+    "size": "5 x 54"
    }
   ],
   "aliases": [
