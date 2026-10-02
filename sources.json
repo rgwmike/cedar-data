@@ -1,26 +1,26 @@
 {
  "schema": 1,
- "updated": "2026-09-29",
+ "updated": "2026-10-01",
  "stores": {
   "neptune": {
    "name": "Neptune Cigar",
    "home": "https://www.neptunecigar.com",
-   "pageShape": "line page: every vitola, single + box, plain HTML (often too long for the fetcher — per-vitola pages /cigars/<slug> showed single/5-pack/box on 2026-09-29)"
+   "pageShape": "line page: every vitola, single + box, plain HTML (often too long for the fetcher). 2026-10-01: only six line pages render (Padrón 1926/1964 Maduro, Liga No. 9, Don Carlos, Hemingway, OpusX); per-vitola pages /cigars/<slug> showed NO prices this time (cut off inside the navigation menu) except the Crux PB5 pre-order page — skip the fallback unless it starts working again"
   },
   "holts": {
    "name": "Holt's",
    "home": "https://www.holts.com",
-   "pageShape": "line page: table with MSRP, single, 5-pack, box, plain HTML"
+   "pageShape": "line page: table with MSRP, single, 5-pack, box, plain HTML. Ignore the generic out-of-stock banner: ask for the literal button text beside each price (Add To Cart / Notify / Sold Out); stock is per column"
   },
   "smokeinn": {
    "name": "Smoke Inn",
    "home": "https://www.smokeinn.com",
-   "pageShape": "line page: box and 5-pack per vitola, plain HTML"
+   "pageShape": "line page: box and 5-pack per vitola, plain HTML, no singles (any 'single' the fetcher reports is computed). Ask for each tile verbatim (pack, size, price, stock) and map by size; pace fetches (429 after ~8 quick ones — batches of 4-8 with a 45 s pause)"
   },
   "mikes": {
    "name": "Mike's Cigars",
    "home": "https://mikescigars.com",
-   "pageShape": "brand-line listing (page 1 only; ?p=2 robots-blocked) or per-vitola page; listing card range high = box price (verified 6/6 on 2026-09-29, except Plasencia)"
+   "pageShape": "brand-line listing (page 1 only; ?p=2 robots-blocked); listing card range high is usually the box price but can be a pre-sale price — product pages mikescigars.com/<slug> show Single / Pack of N / Box of N with stock and fetch reliably"
   }
  },
  "lines": [
@@ -32,7 +32,7 @@
     "smokeinn": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
     "mikes": "https://mikescigars.com/brands/ep-carrillo-encore"
    },
-   "notes": "Mike's page also lists Encore Black items; filter by name."
+   "notes": "Mike's page also lists Encore Black items; filter by name. Mike's box sale (~20% off) ended by 2026-10-01 except Majestic; its listing card can show the pre-sale price — trust the product page."
   },
   {
    "id": "Foundation|Olmec",
@@ -72,7 +72,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
     "mikes": "https://mikescigars.com/brands/my-father-le-bijou-1922"
    },
-   "notes": ""
+   "notes": "Smoke Inn sells boxes of 23 (since 2026-10-01); store Grand Robusto 5 x 58 is recorded at the catalog size 5.6 x 55."
   },
   {
    "id": "My Father|The Judge",
@@ -82,7 +82,7 @@
     "smokeinn": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
     "mikes": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge"
    },
-   "notes": ""
+   "notes": "2026-10-01: Smoke Inn line page showed no prices; per-vitola box pages worked (/My-Father-The-Judge-Toro-Fino-SKU223752.html, /My-Father-The-Judge-Toro.html = 6 x 56, /My-Father-The-Judge-Robusto.html)."
   },
   {
    "id": "Ashton|VSG",
@@ -102,7 +102,7 @@
     "smokeinn": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
     "mikes": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9"
    },
-   "notes": ""
+   "notes": "Holt's lists Corona Viva as 6 x 48; record at catalog 6 x 46 (the index names that size 'Parejo Oscuro' because the catalog lists both names at 6 x 46)."
   },
   {
    "id": "Drew Estate|Liga Privada T52",
@@ -162,7 +162,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
     "mikes": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos"
    },
-   "notes": "Mike's listing prices for Eye of the Bull / Eye of the Shark ($800-$900 'box') don't match a box of 20 — drop them. Neptune lists 'The Man' Robusto (limited) on the line page — exclude. Personal Reserve 5 x 50 is kept though not in the catalog."
+   "notes": "Mike's listing prices for Eye of the Bull / Eye of the Shark ($800-$900 'box') don't match a box of 20 — drop them. Neptune lists 'The Man' Robusto (limited) on the line page — exclude. Personal Reserve 5 x 50 is kept though not in the catalog. Neptune shows Eye of the Shark as 5.75 x 52 — record it at the catalog size 5.25 x 52 or it merges with the Double Robusto."
   },
   {
    "id": "Foundation|The Tabernacle",
@@ -172,7 +172,7 @@
     "smokeinn": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
     "mikes": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle"
    },
-   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name. Smoke Inn line page hides prices; per-vitola pages (/The-Tabernacle-Robusto.html etc.) work but rate-limit after ~20 fetches."
+   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name. Smoke Inn line page hides prices; per-vitola pages (/The-Tabernacle-Robusto.html etc.) work but rate-limit after ~20 fetches. 2026-10-01: Smoke Inn line page gave every price with the verbatim-tile prompt; per-vitola pages not needed."
   },
   {
    "id": "Davidoff|Millennium",
@@ -182,7 +182,7 @@
     "smokeinn": "https://www.smokeinn.com/davidoff-millennium-series/",
     "mikes": "https://mikescigars.com/brands/davidoff-millennium"
    },
-   "notes": "Neptune page too long for the fetcher (navigation only) and its per-vitola pages show no price. Davidoff packs are 4-packs. No store lists Churchill or Lonsdale."
+   "notes": "Neptune page too long for the fetcher (navigation only) and its per-vitola pages show no price. Davidoff packs are 4-packs. No store lists Churchill or Lonsdale. Mike's: Robusto Tubos is a pack of 3, Petit Corona a pack of 5, Toro a box of 10 — read pack/box counts per vitola."
   },
   {
    "id": "AJ Fernandez|New World Dorado",
@@ -212,7 +212,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
     "mikes": "https://mikescigars.com/brands/arturo-fuente-hemingway"
    },
-   "notes": "Natural (Cameroon) only; Maduro is at holts .../arturo-fuente-hemingway-maduro.html and is left out of the index. Smoke Inn page shows sizes without titles."
+   "notes": "Natural (Cameroon) only; Maduro is at holts .../arturo-fuente-hemingway-maduro.html and is left out of the index. Smoke Inn page shows sizes without titles. Mike's card shows Between the Lines as 4.25 x 46 — record at the catalog size."
   },
   {
    "id": "Gurkha|Prize Fighter",

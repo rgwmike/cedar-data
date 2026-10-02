@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-09-29",
+ "generated": "2026-10-01",
  "stores": {
   "neptune": {
    "name": "Neptune Cigar",
@@ -24,7 +24,7 @@
   {
    "id": "AJ Fernandez|New World Dorado",
    "display": "AJ Fernandez New World Dorado",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -57,7 +57,7 @@
        "basis": null,
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -81,7 +81,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -95,7 +95,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -107,9 +107,9 @@
        "packCount": 5,
        "perStick": 10.29,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -133,7 +133,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -147,7 +147,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -159,9 +159,9 @@
        "packCount": 5,
        "perStick": 11.89,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -185,7 +185,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -199,7 +199,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -211,9 +211,9 @@
        "packCount": 5,
        "perStick": 11.39,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -237,7 +237,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/new-world-dorado.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -251,7 +251,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -263,9 +263,9 @@
        "packCount": 5,
        "perStick": 12.1,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -274,7 +274,7 @@
   {
    "id": "Arturo Fuente|Don Carlos",
    "display": "Arturo Fuente Don Carlos",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -308,7 +308,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -322,7 +322,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -346,7 +346,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -360,7 +360,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -384,7 +384,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -398,7 +398,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -412,7 +412,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -426,7 +426,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -450,7 +450,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -458,13 +458,13 @@
        "single": 15.95,
        "box": 311.95,
        "count": 25,
-       "pack": 65.95,
-       "packCount": 5,
+       "pack": null,
+       "packCount": null,
        "perStick": 15.95,
        "basis": "single",
-       "inStock": false,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -478,7 +478,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -492,7 +492,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -516,7 +516,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -530,7 +530,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -554,7 +554,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -568,7 +568,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -582,7 +582,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -596,7 +596,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -620,7 +620,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -634,7 +634,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -648,7 +648,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -662,7 +662,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -686,7 +686,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -700,7 +700,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -714,7 +714,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -728,7 +728,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -752,7 +752,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -766,7 +766,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -778,9 +778,9 @@
        "packCount": null,
        "perStick": 18.26,
        "basis": "single",
-       "inStock": true,
+       "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -794,7 +794,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -818,7 +818,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -842,7 +842,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-don-carlos.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -856,7 +856,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -870,7 +870,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -884,7 +884,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -893,8 +893,9 @@
   {
    "id": "Arturo Fuente|Fuente Fuente OpusX",
    "display": "Arturo Fuente Fuente Fuente OpusX",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
+    "holts",
     "mikes",
     "neptune",
     "smokeinn"
@@ -923,7 +924,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -947,7 +948,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -971,7 +972,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -995,7 +996,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1019,7 +1020,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1043,7 +1044,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1067,7 +1068,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1091,7 +1092,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1105,7 +1106,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1129,7 +1130,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1153,7 +1154,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1177,7 +1178,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1201,7 +1202,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1225,7 +1226,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1249,7 +1250,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1273,7 +1274,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1297,7 +1298,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1321,7 +1322,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1345,7 +1346,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -1354,7 +1355,7 @@
   {
    "id": "Arturo Fuente|Hemingway",
    "display": "Arturo Fuente Hemingway",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -1388,7 +1389,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1396,13 +1397,13 @@
        "single": 8.95,
        "box": 175.5,
        "count": 25,
-       "pack": 37.5,
-       "packCount": 5,
+       "pack": null,
+       "packCount": null,
        "perStick": 8.95,
        "basis": "single",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1416,7 +1417,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1428,9 +1429,9 @@
        "packCount": 5,
        "perStick": 6.78,
        "basis": "box",
-       "inStock": false,
+       "inStock": null,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1454,7 +1455,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1468,7 +1469,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1492,7 +1493,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1506,7 +1507,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1520,7 +1521,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1532,9 +1533,9 @@
        "packCount": 5,
        "perStick": 7.94,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1558,7 +1559,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1572,7 +1573,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1586,7 +1587,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1598,9 +1599,9 @@
        "packCount": 5,
        "perStick": 10.66,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1624,7 +1625,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1638,7 +1639,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1652,7 +1653,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1664,9 +1665,9 @@
        "packCount": 5,
        "perStick": 10.04,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1690,7 +1691,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1704,7 +1705,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1718,7 +1719,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1730,9 +1731,9 @@
        "packCount": 5,
        "perStick": 10.96,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1756,7 +1757,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -1764,13 +1765,13 @@
        "single": 24.2,
        "box": 189.95,
        "count": 10,
-       "pack": null,
-       "packCount": null,
+       "pack": 100.5,
+       "packCount": 5,
        "perStick": 24.2,
        "basis": "single",
-       "inStock": null,
+       "inStock": false,
        "url": "https://mikescigars.com/brands/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -1784,7 +1785,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -1793,8 +1794,10 @@
   {
    "id": "Arturo Fuente|OpusX Oro Oscuro",
    "display": "Arturo Fuente OpusX Oro Oscuro",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
+    "holts",
+    "mikes",
     "neptune",
     "smokeinn"
    ],
@@ -1823,7 +1826,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1847,7 +1850,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -1861,7 +1864,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1885,7 +1888,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1909,7 +1912,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1933,7 +1936,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1957,7 +1960,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -1981,7 +1984,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2005,7 +2008,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -2014,7 +2017,7 @@
   {
    "id": "Ashton|VSG",
    "display": "Ashton VSG",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -2047,7 +2050,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2061,7 +2064,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2075,7 +2078,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2099,7 +2102,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2113,7 +2116,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2127,7 +2130,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2151,7 +2154,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2165,7 +2168,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2179,7 +2182,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2203,7 +2206,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2217,7 +2220,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2231,7 +2234,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2255,7 +2258,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2263,13 +2266,13 @@
        "single": 18.4,
        "box": 345.95,
        "count": 24,
-       "pack": 60.95,
-       "packCount": 4,
+       "pack": null,
+       "packCount": null,
        "perStick": 18.4,
        "basis": "single",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2283,7 +2286,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2307,7 +2310,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2321,7 +2324,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2335,7 +2338,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2359,7 +2362,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2373,7 +2376,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2397,7 +2400,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2405,13 +2408,13 @@
        "single": 21.85,
        "box": 632.95,
        "count": 37,
-       "pack": null,
-       "packCount": null,
+       "pack": 90.5,
+       "packCount": 5,
        "perStick": 21.85,
        "basis": "single",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2425,7 +2428,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2449,7 +2452,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2463,7 +2466,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2477,7 +2480,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2501,7 +2504,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2515,7 +2518,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2529,7 +2532,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2553,7 +2556,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2567,7 +2570,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2581,7 +2584,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2605,7 +2608,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/ashton-vsg.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2619,7 +2622,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ashton-vsg",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2633,7 +2636,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -2642,9 +2645,12 @@
   {
    "id": "Crux|Limitada",
    "display": "Crux Limitada",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
-    "neptune"
+    "holts",
+    "mikes",
+    "neptune",
+    "smokeinn"
    ],
    "storesWithPrices": [
     "neptune"
@@ -2670,7 +2676,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigars/crux-limitada-pb5",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -2679,7 +2685,7 @@
   {
    "id": "Davidoff|Millennium",
    "display": "Davidoff Millennium",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -2712,7 +2718,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2726,7 +2732,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2740,7 +2746,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2764,7 +2770,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2773,12 +2779,12 @@
        "box": 492.5,
        "count": 25,
        "pack": 98.5,
-       "packCount": 4,
+       "packCount": 5,
        "perStick": 22.65,
        "basis": "single",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2792,7 +2798,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2816,7 +2822,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -2830,7 +2836,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2844,7 +2850,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2853,12 +2859,12 @@
        "box": 630.0,
        "count": 25,
        "pack": 94.5,
-       "packCount": 4,
+       "packCount": 3,
        "perStick": 36.2,
        "basis": "single",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2872,7 +2878,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2886,7 +2892,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2910,7 +2916,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2922,9 +2928,9 @@
        "packCount": 4,
        "perStick": 40.15,
        "basis": "single",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2938,7 +2944,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -2962,7 +2968,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-millennium-blend.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -2976,7 +2982,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/davidoff-millennium",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -2990,7 +2996,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-millennium-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -2999,7 +3005,7 @@
   {
    "id": "Davidoff|Signature",
    "display": "Davidoff Signature",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -3032,7 +3038,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3056,7 +3062,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3065,12 +3071,12 @@
        "box": 385.0,
        "count": 25,
        "pack": 77.0,
-       "packCount": 4,
+       "packCount": 5,
        "perStick": 17.7,
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3084,7 +3090,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3108,7 +3114,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -3122,7 +3128,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3131,12 +3137,12 @@
        "box": 467.5,
        "count": 25,
        "pack": 93.5,
-       "packCount": 4,
+       "packCount": 5,
        "perStick": 21.5,
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3150,7 +3156,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3164,7 +3170,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3178,7 +3184,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3202,7 +3208,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3216,7 +3222,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3230,7 +3236,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3254,7 +3260,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -3268,7 +3274,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3277,12 +3283,12 @@
        "box": 620.0,
        "count": 25,
        "pack": 124.0,
-       "packCount": 4,
+       "packCount": 5,
        "perStick": 28.5,
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3296,7 +3302,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3304,13 +3310,13 @@
        "single": null,
        "box": 514.0,
        "count": 20,
-       "pack": 102.8,
-       "packCount": 4,
+       "pack": null,
+       "packCount": null,
        "perStick": 25.7,
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3324,7 +3330,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3348,7 +3354,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-signature.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3362,7 +3368,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3376,7 +3382,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://www.smokeinn.com/davidoff-signature-series/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -3385,7 +3391,7 @@
   {
    "id": "Davidoff|Winston Churchill The Late Hour",
    "display": "Davidoff Winston Churchill The Late Hour",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -3418,7 +3424,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3432,21 +3438,21 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Robusto",
        "single": null,
-       "box": 544.0,
+       "box": null,
        "count": 20,
        "pack": 108.8,
        "packCount": 4,
        "perStick": 27.2,
-       "basis": "box",
-       "inStock": true,
+       "basis": "pack",
+       "inStock": null,
        "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3470,7 +3476,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3484,21 +3490,21 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Toro",
        "single": null,
-       "box": 592.0,
+       "box": null,
        "count": 20,
        "pack": 118.4,
        "packCount": 4,
        "perStick": 29.6,
-       "basis": "box",
-       "inStock": true,
+       "basis": "pack",
+       "inStock": null,
        "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3522,7 +3528,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/davidoff-winston-churchill-late-hour.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3536,21 +3542,21 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Churchill",
        "single": null,
-       "box": 624.0,
+       "box": null,
        "count": 20,
        "pack": 124.8,
        "packCount": 4,
        "perStick": 31.2,
-       "basis": "box",
-       "inStock": true,
+       "basis": "pack",
+       "inStock": null,
        "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -3559,7 +3565,7 @@
   {
    "id": "Drew Estate|Liga Privada No. 9",
    "display": "Drew Estate Liga Privada No. 9",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -3593,7 +3599,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3607,7 +3613,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3631,7 +3637,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3645,7 +3651,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3659,7 +3665,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3673,7 +3679,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3697,7 +3703,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3711,7 +3717,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3725,7 +3731,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3739,7 +3745,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3747,61 +3753,9 @@
      "name": "Parejo Oscuro",
      "size": "6 x 46",
      "low": 15.16,
-     "median": 16.02,
-     "high": 16.25,
-     "stores": 3,
-     "quotes": [
-      {
-       "store": "mikes",
-       "name": "Corona Viva",
-       "single": null,
-       "box": 384.5,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 16.02,
-       "basis": "box",
-       "inStock": null,
-       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
-      },
-      {
-       "store": "neptune",
-       "name": "Corona Viva",
-       "single": 16.25,
-       "box": 370.8,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 16.25,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
-      },
-      {
-       "store": "smokeinn",
-       "name": "Corona Viva",
-       "single": null,
-       "box": 363.95,
-       "count": 24,
-       "pack": 80.0,
-       "packCount": 5,
-       "perStick": 15.16,
-       "basis": "box",
-       "inStock": false,
-       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
-      }
-     ]
-    },
-    {
-     "name": "Corona Viva",
-     "size": "6 x 48",
-     "low": 16.85,
-     "median": 16.85,
+     "median": 16.13,
      "high": 16.85,
-     "stores": 1,
+     "stores": 4,
      "quotes": [
       {
        "store": "holts",
@@ -3815,7 +3769,49 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
+      },
+      {
+       "store": "mikes",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 384.5,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.02,
+       "basis": "box",
+       "inStock": null,
+       "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
+       "fetched": "2026-10-01"
+      },
+      {
+       "store": "neptune",
+       "name": "Corona Viva",
+       "single": 16.25,
+       "box": 370.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.25,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+       "fetched": "2026-10-01"
+      },
+      {
+       "store": "smokeinn",
+       "name": "Corona Viva",
+       "single": null,
+       "box": 363.95,
+       "count": 24,
+       "pack": 80.0,
+       "packCount": 5,
+       "perStick": 15.16,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3839,7 +3835,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -3853,7 +3849,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3865,9 +3861,9 @@
        "packCount": null,
        "perStick": 17.91,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3881,7 +3877,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3895,7 +3891,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3909,7 +3905,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3923,7 +3919,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -3937,7 +3933,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -3961,7 +3957,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -3975,7 +3971,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -3989,7 +3985,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4001,9 +3997,9 @@
        "packCount": 5,
        "perStick": 18.77,
        "basis": "box",
-       "inStock": true,
+       "inStock": false,
        "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -4012,7 +4008,7 @@
   {
    "id": "Drew Estate|Liga Privada T52",
    "display": "Drew Estate Liga Privada T52",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -4045,7 +4041,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4069,7 +4065,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4083,7 +4079,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4097,7 +4093,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4121,7 +4117,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4135,7 +4131,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4149,7 +4145,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4173,7 +4169,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4187,7 +4183,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4201,7 +4197,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4225,7 +4221,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -4239,7 +4235,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4253,7 +4249,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4267,7 +4263,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4281,7 +4277,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4295,7 +4291,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4319,7 +4315,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-t52-by-drew-estate.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4333,7 +4329,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/liga-privada-t52",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4347,7 +4343,7 @@
        "basis": "pack",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -4356,8 +4352,9 @@
   {
    "id": "Dunbarton Tobacco & Trust|Mi Querida",
    "display": "Dunbarton Tobacco & Trust Mi Querida",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
+    "mikes",
     "neptune",
     "smokeinn"
    ],
@@ -4365,6 +4362,30 @@
     "smokeinn"
    ],
    "vitolas": [
+    {
+     "name": "Pequeño",
+     "size": "4 x 44",
+     "low": 6.65,
+     "median": 6.65,
+     "high": 6.65,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Pequeño",
+       "single": null,
+       "box": 132.95,
+       "count": 20,
+       "pack": 39.25,
+       "packCount": 5,
+       "perStick": 6.65,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+       "fetched": "2026-10-01"
+      }
+     ]
+    },
     {
      "name": "Gordita",
      "size": "4 x 48",
@@ -4385,7 +4406,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4409,7 +4430,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4433,7 +4454,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4457,7 +4478,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4475,13 +4496,13 @@
        "single": null,
        "box": 228.5,
        "count": 20,
-       "pack": 63.5,
+       "pack": 67.0,
        "packCount": 5,
        "perStick": 11.43,
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4505,7 +4526,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4529,7 +4550,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -4538,7 +4559,7 @@
   {
    "id": "E.P. Carrillo|Encore",
    "display": "E.P. Carrillo Encore",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -4563,15 +4584,15 @@
        "store": "mikes",
        "name": "El Futuro",
        "single": 13.8,
-       "box": 167.95,
-       "count": null,
-       "pack": null,
-       "packCount": null,
+       "box": 215.95,
+       "count": 20,
+       "pack": 56.95,
+       "packCount": 5,
        "perStick": 13.8,
        "basis": "single",
-       "inStock": null,
+       "inStock": false,
        "url": "https://mikescigars.com/brands/ep-carrillo-encore",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4595,7 +4616,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4609,7 +4630,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://mikescigars.com/brands/ep-carrillo-encore",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4623,15 +4644,15 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Celestial",
      "size": "6.12 x 50",
-     "low": 10.1,
-     "median": 12.55,
+     "low": 12.55,
+     "median": 12.97,
      "high": 14.4,
      "stores": 3,
      "quotes": [
@@ -4647,21 +4668,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
        "name": "Celestial",
        "single": null,
-       "box": 201.95,
+       "box": 259.5,
        "count": 20,
        "pack": 68.5,
        "packCount": 5,
-       "perStick": 10.1,
+       "perStick": 12.97,
        "basis": "box",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/ep-carrillo-encore",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4675,15 +4696,15 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Valientes",
      "size": "6.12 x 52",
-     "low": 10.45,
-     "median": 13.0,
+     "low": 13.0,
+     "median": 13.43,
      "high": 14.9,
      "stores": 3,
      "quotes": [
@@ -4699,21 +4720,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/e-p-carrillo-encore.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
        "name": "Valientes",
        "single": null,
-       "box": 208.95,
+       "box": 268.5,
        "count": 20,
        "pack": 70.95,
        "packCount": 5,
-       "perStick": 10.45,
+       "perStick": 13.43,
        "basis": "box",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/ep-carrillo-encore",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4727,31 +4748,31 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "El Primero",
      "size": "6.88 x 54",
-     "low": 10.32,
-     "median": 11.57,
-     "high": 12.82,
+     "low": 12.82,
+     "median": 13.05,
+     "high": 13.28,
      "stores": 2,
      "quotes": [
       {
        "store": "mikes",
        "name": "El Primero",
        "single": null,
-       "box": 206.5,
+       "box": 265.5,
        "count": 20,
        "pack": 70.5,
        "packCount": 5,
-       "perStick": 10.32,
+       "perStick": 13.28,
        "basis": "box",
-       "inStock": null,
+       "inStock": true,
        "url": "https://mikescigars.com/brands/ep-carrillo-encore",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4765,7 +4786,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -4774,9 +4795,10 @@
   {
    "id": "Foundation|Olmec",
    "display": "Foundation Olmec",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
+    "mikes",
     "neptune",
     "smokeinn"
    ],
@@ -4805,7 +4827,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4819,7 +4841,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4843,7 +4865,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4867,7 +4889,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4881,7 +4903,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -4905,7 +4927,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -4914,7 +4936,7 @@
   {
    "id": "Foundation|The Tabernacle",
    "display": "Foundation The Tabernacle",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -4947,7 +4969,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -4959,9 +4981,9 @@
        "packCount": 5,
        "perStick": 11.44,
        "basis": "box",
-       "inStock": false,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -4969,37 +4991,51 @@
        "single": null,
        "box": 282.95,
        "count": 24,
-       "pack": null,
-       "packCount": null,
+       "pack": 63.5,
+       "packCount": 5,
        "perStick": 11.79,
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "David",
      "size": "5 x 54",
-     "low": 13.19,
-     "median": 13.19,
-     "high": 13.19,
-     "stores": 1,
+     "low": 12.42,
+     "median": 12.53,
+     "high": 12.64,
+     "stores": 2,
      "quotes": [
       {
        "store": "mikes",
        "name": "David",
        "single": null,
        "box": 310.5,
-       "count": null,
+       "count": 25,
        "pack": 65.95,
        "packCount": 5,
-       "perStick": 13.19,
-       "basis": "pack",
+       "perStick": 12.42,
+       "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
+      },
+      {
+       "store": "smokeinn",
+       "name": "David",
+       "single": null,
+       "box": 315.95,
+       "count": 25,
+       "pack": 68.0,
+       "packCount": 5,
+       "perStick": 12.64,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5023,7 +5059,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5031,13 +5067,13 @@
        "single": null,
        "box": 361.95,
        "count": 25,
-       "pack": null,
-       "packCount": null,
+       "pack": 77.5,
+       "packCount": 5,
        "perStick": 14.48,
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5055,13 +5091,13 @@
        "single": null,
        "box": 246.95,
        "count": 24,
-       "pack": null,
-       "packCount": null,
+       "pack": 55.5,
+       "packCount": 5,
        "perStick": 10.29,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5085,7 +5121,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5099,7 +5135,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5107,13 +5143,37 @@
        "single": null,
        "box": 306.95,
        "count": 24,
-       "pack": null,
-       "packCount": null,
+       "pack": 69.0,
+       "packCount": 5,
        "perStick": 12.79,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "name": "Lancero",
+     "size": "7 x 40",
+     "low": 13.71,
+     "median": 13.71,
+     "high": 13.71,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "smokeinn",
+       "name": "Lancero",
+       "single": null,
+       "box": 328.95,
+       "count": 24,
+       "pack": 74.0,
+       "packCount": 5,
+       "perStick": 13.71,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5121,9 +5181,9 @@
      "name": "Double Corona",
      "size": "7 x 54",
      "low": 12.73,
-     "median": 14.43,
+     "median": 13.25,
      "high": 16.12,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
       {
        "store": "holts",
@@ -5137,7 +5197,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5151,7 +5211,21 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
+      },
+      {
+       "store": "smokeinn",
+       "name": "Double Corona",
+       "single": null,
+       "box": 317.95,
+       "count": 24,
+       "pack": 71.5,
+       "packCount": 5,
+       "perStick": 13.25,
+       "basis": "box",
+       "inStock": false,
+       "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -5160,10 +5234,12 @@
   {
    "id": "Gurkha|Prize Fighter",
    "display": "Gurkha Prize Fighter",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
+    "holts",
     "mikes",
-    "neptune"
+    "neptune",
+    "smokeinn"
    ],
    "storesWithPrices": [
     "mikes"
@@ -5189,7 +5265,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/gurkha-prize-fighter",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5213,7 +5289,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/gurkha-prize-fighter",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5237,7 +5313,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/gurkha-prize-fighter",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -5246,7 +5322,7 @@
   {
    "id": "My Father|Le Bijou 1922",
    "display": "My Father Le Bijou 1922",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -5279,7 +5355,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5293,7 +5369,7 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5307,7 +5383,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5315,7 +5391,7 @@
      "name": "Grand Robusto",
      "size": "5.6 x 55",
      "low": 9.78,
-     "median": 10.72,
+     "median": 10.67,
      "high": 12.2,
      "stores": 3,
      "quotes": [
@@ -5331,7 +5407,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5343,23 +5419,23 @@
        "packCount": 5,
        "perStick": 9.78,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Grand Robusto",
        "single": null,
-       "box": 214.5,
-       "count": 20,
+       "box": 245.5,
+       "count": 23,
        "pack": 57.5,
        "packCount": 5,
-       "perStick": 10.72,
+       "perStick": 10.67,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5383,7 +5459,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5397,28 +5473,28 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Toro",
        "single": null,
-       "box": 221.5,
-       "count": 20,
+       "box": 254.5,
+       "count": 23,
        "pack": 59.5,
        "packCount": 5,
        "perStick": 11.07,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Torpedo Box Pressed",
      "size": "6.1 x 52",
-     "low": 11.47,
+     "low": 11.46,
      "median": 13.0,
      "high": 14.95,
      "stores": 3,
@@ -5435,7 +5511,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5449,28 +5525,28 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Torpedo Box Pressed",
        "single": null,
-       "box": 229.5,
-       "count": 20,
+       "box": 263.5,
+       "count": 23,
        "pack": 61.5,
        "packCount": 5,
-       "perStick": 11.47,
+       "perStick": 11.46,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Churchill",
      "size": "7 x 50",
-     "low": 11.88,
+     "low": 11.85,
      "median": 13.5,
      "high": 15.5,
      "stores": 3,
@@ -5487,7 +5563,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-le-bijou-1922.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5501,21 +5577,21 @@
        "basis": "single",
        "inStock": null,
        "url": "https://mikescigars.com/brands/my-father-le-bijou-1922",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Churchill",
        "single": null,
-       "box": 237.5,
-       "count": 20,
+       "box": 272.5,
+       "count": 23,
        "pack": 64.0,
        "packCount": 5,
-       "perStick": 11.88,
+       "perStick": 11.85,
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -5524,7 +5600,7 @@
   {
    "id": "My Father|The Judge",
    "display": "My Father The Judge",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -5557,7 +5633,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5571,7 +5647,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5579,23 +5655,23 @@
        "single": null,
        "box": 239.5,
        "count": 20,
-       "pack": 64.5,
-       "packCount": 5,
+       "pack": null,
+       "packCount": null,
        "perStick": 11.97,
        "basis": "box",
        "inStock": true,
-       "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
-       "fetched": "2026-09-29"
+       "url": "https://www.smokeinn.com/My-Father-The-Judge-Toro-Fino-SKU223752.html",
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Corona Gorda",
      "size": "5.62 x 46",
-     "low": 10.45,
-     "median": 10.72,
+     "low": 10.72,
+     "median": 11.31,
      "high": 11.9,
-     "stores": 3,
+     "stores": 2,
      "quotes": [
       {
        "store": "holts",
@@ -5609,7 +5685,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5623,21 +5699,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
-       "fetched": "2026-09-29"
-      },
-      {
-       "store": "smokeinn",
-       "name": "Corona Gorda",
-       "single": null,
-       "box": 208.95,
-       "count": 20,
-       "pack": 56.5,
-       "packCount": 5,
-       "perStick": 10.45,
-       "basis": "box",
-       "inStock": false,
-       "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5661,7 +5723,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5675,7 +5737,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5683,13 +5745,13 @@
        "single": null,
        "box": 226.95,
        "count": 20,
-       "pack": 61.0,
-       "packCount": 5,
+       "pack": null,
+       "packCount": null,
        "perStick": 11.35,
        "basis": "box",
        "inStock": false,
-       "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
-       "fetched": "2026-09-29"
+       "url": "https://www.smokeinn.com/My-Father-The-Judge-Toro-Fino-SKU223752.html",
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5713,7 +5775,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-the-judge.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5727,7 +5789,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5735,13 +5797,13 @@
        "single": null,
        "box": 268.95,
        "count": 20,
-       "pack": 63.0,
-       "packCount": 5,
+       "pack": null,
+       "packCount": null,
        "perStick": 13.45,
        "basis": "box",
        "inStock": true,
-       "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
-       "fetched": "2026-09-29"
+       "url": "https://www.smokeinn.com/My-Father-The-Judge-Toro-Fino-SKU223752.html",
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -5750,7 +5812,7 @@
   {
    "id": "Padrón|1926 Serie",
    "display": "Padrón 1926 Serie",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -5784,7 +5846,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -5798,7 +5860,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5812,7 +5874,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5836,7 +5898,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5848,9 +5910,9 @@
        "packCount": null,
        "perStick": 18.45,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -5864,7 +5926,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5878,7 +5940,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5902,7 +5964,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5916,7 +5978,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -5938,9 +6000,9 @@
        "packCount": 5,
        "perStick": 24.5,
        "basis": "single",
-       "inStock": true,
+       "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -5952,9 +6014,9 @@
        "packCount": null,
        "perStick": 24.5,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -5968,7 +6030,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -5982,7 +6044,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6006,7 +6068,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6018,9 +6080,9 @@
        "packCount": null,
        "perStick": 20.45,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6034,7 +6096,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6058,7 +6120,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6070,9 +6132,9 @@
        "packCount": null,
        "perStick": 22.45,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6086,7 +6148,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -6100,7 +6162,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6124,7 +6186,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6138,7 +6200,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6162,7 +6224,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -6176,7 +6238,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6200,7 +6262,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6212,9 +6274,9 @@
        "packCount": null,
        "perStick": 26.5,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6228,7 +6290,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6242,7 +6304,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -6256,7 +6318,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -6270,7 +6332,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -6279,7 +6341,7 @@
   {
    "id": "Padrón|1964 Anniversary Series",
    "display": "Padrón 1964 Anniversary Series",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -6296,7 +6358,7 @@
     {
      "name": "Hermoso",
      "size": "4 x 56",
-     "low": 16.9,
+     "low": 16.38,
      "median": 16.9,
      "high": 16.9,
      "stores": 4,
@@ -6313,7 +6375,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6327,7 +6389,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6341,28 +6403,28 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Hermoso",
-       "single": 16.9,
-       "box": 439.4,
+       "single": null,
+       "box": 425.95,
        "count": 26,
-       "pack": 84.5,
+       "pack": 82.0,
        "packCount": 5,
-       "perStick": 16.9,
-       "basis": "single",
+       "perStick": 16.38,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Principe",
      "size": "4.5 x 46",
-     "low": 14.05,
+     "low": 13.6,
      "median": 14.05,
      "high": 14.05,
      "stores": 3,
@@ -6379,7 +6441,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6393,21 +6455,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Principe",
-       "single": 14.05,
-       "box": 351.25,
+       "single": null,
+       "box": 339.95,
        "count": 25,
-       "pack": 70.5,
+       "pack": 68.0,
        "packCount": 5,
-       "perStick": 14.05,
-       "basis": "single",
+       "perStick": 13.6,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6431,7 +6493,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "holts",
@@ -6445,7 +6507,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6459,7 +6521,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6473,7 +6535,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6487,21 +6549,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Belicoso",
-       "single": 19.0,
-       "box": 475.0,
+       "single": null,
+       "box": 462.5,
        "count": 25,
-       "pack": 95.0,
+       "pack": 92.5,
        "packCount": 5,
-       "perStick": 19.0,
-       "basis": "single",
+       "perStick": 18.5,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6525,14 +6587,14 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Exclusivo",
      "size": "5.5 x 50",
-     "low": 16.4,
+     "low": 15.9,
      "median": 16.4,
      "high": 16.4,
      "stores": 3,
@@ -6549,7 +6611,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6563,28 +6625,28 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Exclusivo",
-       "single": 16.4,
-       "box": 410.0,
+       "single": null,
+       "box": 397.5,
        "count": 25,
-       "pack": 82.5,
+       "pack": 79.5,
        "packCount": 5,
-       "perStick": 16.4,
-       "basis": "single",
+       "perStick": 15.9,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Corona",
      "size": "6 x 42",
-     "low": 14.9,
+     "low": 14.4,
      "median": 14.9,
      "high": 14.9,
      "stores": 3,
@@ -6601,7 +6663,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6615,21 +6677,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Corona",
-       "single": 14.9,
-       "box": 372.5,
+       "single": null,
+       "box": 359.95,
        "count": 25,
-       "pack": 74.5,
+       "pack": 72.0,
        "packCount": 5,
-       "perStick": 14.9,
-       "basis": "single",
+       "perStick": 14.4,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6653,7 +6715,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6667,7 +6729,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6681,14 +6743,14 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Torpedo",
      "size": "6 x 52",
-     "low": 21.15,
+     "low": 20.65,
      "median": 21.15,
      "high": 21.15,
      "stores": 4,
@@ -6705,7 +6767,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6719,7 +6781,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6733,28 +6795,28 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Torpedo",
-       "single": 21.15,
-       "box": 423.0,
+       "single": null,
+       "box": 412.95,
        "count": 20,
-       "pack": 106.0,
+       "pack": 103.0,
        "packCount": 5,
-       "perStick": 21.15,
-       "basis": "single",
+       "perStick": 20.65,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Imperial",
      "size": "6 x 54",
-     "low": 20.15,
+     "low": 19.61,
      "median": 20.15,
      "high": 20.15,
      "stores": 3,
@@ -6771,7 +6833,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6785,21 +6847,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Imperial",
-       "single": 20.15,
-       "box": 503.75,
+       "single": null,
+       "box": 490.25,
        "count": 25,
-       "pack": 100.5,
+       "pack": 98.0,
        "packCount": 5,
-       "perStick": 20.15,
-       "basis": "single",
+       "perStick": 19.61,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6823,7 +6885,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6837,14 +6899,14 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Monarca",
      "size": "6.5 x 46",
-     "low": 16.35,
+     "low": 15.84,
      "median": 16.35,
      "high": 16.35,
      "stores": 3,
@@ -6861,7 +6923,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6875,28 +6937,28 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Monarca",
-       "single": 16.35,
-       "box": 408.75,
+       "single": null,
+       "box": 395.95,
        "count": 25,
-       "pack": 82.0,
+       "pack": 79.0,
        "packCount": 5,
-       "perStick": 16.35,
-       "basis": "single",
+       "perStick": 15.84,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "No. 4",
      "size": "6.5 x 60",
-     "low": 25.6,
+     "low": 25.0,
      "median": 25.6,
      "high": 25.6,
      "stores": 4,
@@ -6913,7 +6975,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6927,7 +6989,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -6941,21 +7003,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "No. 4",
-       "single": 25.6,
-       "box": 512.0,
+       "single": null,
+       "box": 499.95,
        "count": 20,
-       "pack": 128.0,
+       "pack": 125.0,
        "packCount": 5,
-       "perStick": 25.6,
-       "basis": "single",
+       "perStick": 25.0,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -6979,7 +7041,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -6993,7 +7055,7 @@
        "basis": "box",
        "inStock": null,
        "url": "https://mikescigars.com/brands/padron-1964-anniversary",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -7007,14 +7069,14 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
     {
      "name": "Diplomatico",
      "size": "7 x 50",
-     "low": 18.7,
+     "low": 18.2,
      "median": 18.7,
      "high": 18.7,
      "stores": 3,
@@ -7031,7 +7093,7 @@
        "basis": "single",
        "inStock": false,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -7045,21 +7107,21 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
        "name": "Diplomatico",
-       "single": 18.7,
-       "box": 467.5,
+       "single": null,
+       "box": 454.95,
        "count": 25,
-       "pack": 93.5,
+       "pack": 91.0,
        "packCount": 5,
-       "perStick": 18.7,
-       "basis": "single",
+       "perStick": 18.2,
+       "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -7083,7 +7145,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1964-anniversary.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "neptune",
@@ -7097,7 +7159,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary-maduro",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
@@ -7106,7 +7168,7 @@
   {
    "id": "Plasencia|Reserva Original",
    "display": "Plasencia Reserva Original",
-   "fetched": "2026-09-29",
+   "fetched": "2026-10-01",
    "storesTried": [
     "holts",
     "mikes",
@@ -7139,7 +7201,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -7151,9 +7213,9 @@
        "packCount": 5,
        "perStick": 11.5,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -7167,7 +7229,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -7175,23 +7237,23 @@
      "name": "Cortez",
      "size": "5.75 x 56",
      "low": 11.7,
-     "median": 13.1,
-     "high": 14.5,
+     "median": 12.7,
+     "high": 13.69,
      "stores": 2,
      "quotes": [
       {
        "store": "mikes",
        "name": "Cortez",
        "single": null,
-       "box": null,
+       "box": 136.95,
        "count": 10,
        "pack": 72.5,
        "packCount": 5,
-       "perStick": 14.5,
-       "basis": "pack",
-       "inStock": null,
+       "perStick": 13.69,
+       "basis": "box",
+       "inStock": true,
        "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -7205,7 +7267,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -7229,7 +7291,7 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/plasencia-reserva-original.html",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "mikes",
@@ -7241,9 +7303,9 @@
        "packCount": 5,
        "perStick": 13.19,
        "basis": "box",
-       "inStock": true,
+       "inStock": null,
        "url": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       },
       {
        "store": "smokeinn",
@@ -7257,7 +7319,7 @@
        "basis": "box",
        "inStock": true,
        "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     },
@@ -7281,7 +7343,7 @@
        "basis": "box",
        "inStock": false,
        "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
-       "fetched": "2026-09-29"
+       "fetched": "2026-10-01"
       }
      ]
     }
