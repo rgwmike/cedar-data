@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-09-24",
+ "updated": "2026-10-02",
  "note": "Lines the monthly price task keeps fresh. Grows from the data inbox (open 'wanted:' issues on this repository) each month.",
  "lines": [
   "E.P. Carrillo|Encore",
@@ -24,6 +24,9 @@
   "Arturo Fuente|Hemingway",
   "Gurkha|Prize Fighter",
   "Arturo Fuente|Fuente Fuente OpusX",
-  "Davidoff|Signature"
+  "Davidoff|Signature",
+  "Davidoff|Aniversario",
+  "My Father|Connecticut",
+  "Oliva|Serie V"
  ]
 }

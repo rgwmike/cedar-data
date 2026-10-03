@@ -1,24 +1,24 @@
 {
  "schema": 1,
- "generated": "2026-10-01",
+ "generated": "2026-10-02",
  "files": {
   "catalog.json": {
-   "version": 4,
-   "sha256": "9067bc5df610df3b96d3c54ddadd1ed0fdacf4604eb98e694937c0f7f680f292",
-   "bytes": 486659,
-   "generated": "2026-10-01"
+   "version": 5,
+   "sha256": "e149a3b4580c62e63fa744e6f65b50b019fa26ee58c0dffca7beddf2c826bebe",
+   "bytes": 561740,
+   "generated": "2026-10-02"
   },
   "sources.json": {
-   "version": 5,
-   "sha256": "d38265591752eafa3b43033389edd02359227d058c06f50a51b7c85793baf808",
-   "bytes": 13559,
-   "generated": "2026-10-01"
+   "version": 6,
+   "sha256": "7a1ac6968703a7e6e241bd963ebfc9564d14f22c6347207d9c9d4959184e6a58",
+   "bytes": 13455,
+   "generated": "2026-10-02"
   },
   "wanted.json": {
-   "version": 2,
-   "sha256": "497a95bf0e40ee675dde59b04998d0ffd22c11a14b62fc36e0b0bf8ce80caef9",
-   "bytes": 855,
-   "generated": "2026-09-24"
+   "version": 3,
+   "sha256": "aa8095ac9f9a893e761e6dee59c82fb46c1847ea91dc90e8c00f1b377254b6dc",
+   "bytes": 928,
+   "generated": "2026-10-02"
   },
   "prices.json": {
    "version": 4,

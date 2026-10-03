@@ -837,6 +837,14 @@
    {
     "name": "Doble Seis",
     "size": "6 x 52"
+   },
+   {
+    "name": "Doble Tres",
+    "size": "5.5 x 44"
+   },
+   {
+    "name": "Doble Cuatro",
+    "size": "4.5 x 54"
    }
   ]
  },
@@ -1931,9 +1939,6 @@
     "name": "Churchill",
     "size": "7 x 48"
    }
-  ],
-  "aliases": [
-   "Camacho Connecticut"
   ]
  },
  {
@@ -1967,9 +1972,6 @@
     "name": "Figurado",
     "size": "6.1 x 54"
    }
-  ],
-  "aliases": [
-   "Camacho Corojo"
   ]
  },
  {
@@ -2068,6 +2070,9 @@
     "name": "V770 Big Block",
     "size": "7 x 70"
    }
+  ],
+  "aliases": [
+   "CAO Flathead V"
   ]
  },
  {
@@ -3130,10 +3135,6 @@
     "size": "5 x 54"
    },
    {
-    "name": "Kuba Maduro",
-    "size": "5 x 54"
-   },
-   {
     "name": "Kuba Grande",
     "size": "6 x 60"
    },
@@ -3142,12 +3143,12 @@
     "size": "5 x 50"
    },
    {
-    "name": "Blondie Belicoso",
-    "size": "5 x 54"
+    "name": "Robusto",
+    "size": "5 x 52"
    },
    {
-    "name": "Atom Maduro",
-    "size": "5 x 50"
+    "name": "Toro",
+    "size": "6 x 50"
    }
   ],
   "aliases": [
@@ -3155,7 +3156,7 @@
    "Acid Kuba Kuba",
    "Kuba Kuba",
    "Kuba Maduro",
-   "Kuba Grande",
+   "Kuba",
    "Blondie",
    "1400cc"
   ]
@@ -4869,6 +4870,10 @@
    {
     "name": "Belicoso",
     "size": "5.5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
    }
   ],
   "aliases": [
@@ -4909,7 +4914,9 @@
   ],
   "aliases": [
    "Excalibur",
-   "Hoyo Excalibur"
+   "Hoyo Excalibur",
+   "Hoyo de Monterrey Excalibur I",
+   "Hoyo de Monterrey Excalibur II"
   ]
  },
  {
@@ -6173,10 +6180,6 @@
     "size": "5.25 x 52"
    },
    {
-    "name": "No. 2 Belicoso",
-    "size": "5.25 x 52"
-   },
-   {
     "name": "No. 3 Cremas",
     "size": "4.5 x 44"
    },
@@ -6191,6 +6194,10 @@
    {
     "name": "Cedros Deluxe Eminentes",
     "size": "5.6 x 46"
+   },
+   {
+    "name": "5.5 x 54",
+    "size": "5.5 x 54"
    }
   ],
   "aliases": [
@@ -8273,6 +8280,10 @@
    {
     "name": "Magnum",
     "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
    }
   ]
  },
@@ -8304,8 +8315,8 @@
     "size": "6 x 60"
    },
    {
-    "name": "Titan",
-    "size": "6 x 60"
+    "name": "Churchill",
+    "size": "7 x 50"
    }
   ],
   "aliases": [
@@ -13082,12 +13093,16 @@
   "binder": "Cuban Habano",
   "filler": "Cuban Habano",
   "strength": "Medium",
-  "priceLow": 28.0,
-  "priceHigh": 28.0,
+  "priceLow": 28,
+  "priceHigh": 28,
   "vitolas": [
    {
     "name": "Robusto",
     "size": "4.9 x 50"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 49"
    }
   ],
   "source": "vitolapedia"
@@ -14622,9 +14637,24 @@
    {
     "name": "Toro",
     "size": "6 x 52"
+   },
+   {
+    "name": "Corona",
+    "size": "5 x 43"
+   },
+   {
+    "name": "Corona Doble",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "Drew Estate Blackened S84 Shade to Black"
+  ]
  },
  {
   "brand": "Drew Estate",
@@ -19492,9 +19522,24 @@
    {
     "name": "Robusto",
     "size": "5 x 52"
+   },
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "4.5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "5.5 x 54"
    }
   ],
-  "source": "vitolapedia"
+  "source": "vitolapedia",
+  "aliases": [
+   "La Gloria Cubana Esteli"
+  ]
  },
  {
   "brand": "La Gloria Cubana",
@@ -20200,12 +20245,16 @@
   "binder": "Nicaraguan",
   "filler": "Nicaraguan",
   "strength": "Mild-Medium",
-  "priceLow": 10.0,
-  "priceHigh": 10.0,
+  "priceLow": 10,
+  "priceHigh": 10,
   "vitolas": [
    {
     "name": "Robusto",
     "size": "5 x 52"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
    }
   ],
   "source": "vitolapedia"
@@ -21704,6 +21753,38 @@
    {
     "name": "Robusto",
     "size": "5 x 50"
+   },
+   {
+    "name": "Lonsdale",
+    "size": "6.5 x 44"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6.5 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "President",
+    "size": "8 x 52"
+   },
+   {
+    "name": "Giant",
+    "size": "5 x 60"
+   },
+   {
+    "name": "Giant",
+    "size": "8 x 60"
+   },
+   {
+    "name": "Giant",
+    "size": "10 x 66"
    }
   ],
   "source": "vitolapedia"
@@ -26716,5 +26797,4801 @@
    }
   ],
   "source": "vitolapedia"
+ },
+ {
+  "brand": "898 Collection",
+  "line": "898 Collection",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Belicoso",
+    "size": "6.25 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "7.5 x 49"
+   },
+   {
+    "name": "Corona",
+    "size": "5.5 x 42"
+   },
+   {
+    "name": "Lonsdale",
+    "size": "6.5 x 42"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 49"
+   },
+   {
+    "name": "Short Royale",
+    "size": "3.88 x 55"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 56"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aganorsa Leaf",
+  "line": "Casa Fernandez New Cuba",
+  "origin": "Nicaragua",
+  "wrapper": "Corojo",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Presidente",
+    "size": "7.5 x 50"
+   },
+   {
+    "name": "Titan",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Vivase",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Connecticut Rapido",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rapido - Robusto",
+    "size": "5 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Habano",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rondo - Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Core Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rondo - Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Concerto – Churchill",
+    "size": "7 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Nicaragua Vibrato",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Aging Room",
+  "line": "Quattro Original",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Vibrato - Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Bellas Artes Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gordo",
+    "size": "6.5 x 58"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 52"
+   },
+   {
+    "name": "Short Churchill",
+    "size": "6 x 48"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Enclave Broadleaf",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6.5 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Enclave Habano",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 52"
+   },
+   {
+    "name": "Figurado",
+    "size": "6.5 x 52"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "H Upmann",
+  "origin": "Nicaragua",
+  "wrapper": "Ecuador Sumatra",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 54"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "H Upmann Nicaragua Heritage",
+  "origin": "",
+  "wrapper": "Brazilian Mata Fina",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Belicoso - Box Pressed",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AJ Fernandez",
+  "line": "Romeo y Julieta Crafted by AJ Fernandez",
+  "origin": "Nicaragua",
+  "wrapper": "Habana 2000",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "#1",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8 x 52",
+    "size": "8 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "#2",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7 x 50",
+    "size": "7 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "#3",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 50",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "#4",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 52",
+    "size": "5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "#5",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.5 x 52",
+    "size": "6.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alcazar",
+  "line": "Alcazar",
+  "origin": "Nicaragua",
+  "wrapper": "Maduro",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "#1",
+    "size": "8 x 52"
+   },
+   {
+    "name": "#2",
+    "size": "7 x 50"
+   },
+   {
+    "name": "#3",
+    "size": "6 x 50"
+   },
+   {
+    "name": "#4",
+    "size": "5 x 52"
+   },
+   {
+    "name": "#5 Torpedo",
+    "size": "6.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Black Market Esteli",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Black Market Filthy Ghooligan",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Maxx",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "The Culture",
+    "size": "6 x 54"
+   },
+   {
+    "name": "The Fix",
+    "size": "5 x 58"
+   },
+   {
+    "name": "Nano",
+    "size": "4 x 46"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Post Embargo Blend Code B15",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Alec Bradley",
+  "line": "Project 40 Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "07.70 – Double Gordo",
+    "size": "7 x 70"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Amar by AJ Fernandez",
+  "line": "Amar by AJ Fernandez",
+  "origin": "Nicaragua",
+  "wrapper": "Habano",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 54"
+   },
+   {
+    "name": "Torito - Toro",
+    "size": "6.5 x 50"
+   },
+   {
+    "name": "Toro - Toro Gordo",
+    "size": "6 x 56"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Canones",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Canones",
+    "size": "8.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Casa Fuente",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Chateau Fuente",
+    "size": "4.5 x 50"
+   },
+   {
+    "name": "Chateau Cuban Belicoso",
+    "size": "5.75 x 52"
+   },
+   {
+    "name": "Double Chateau",
+    "size": "6.75 x 50"
+   },
+   {
+    "name": "Royal Salute",
+    "size": "7.62 x 54"
+   },
+   {
+    "name": "Chateau Fuente King T",
+    "size": "7 x 49"
+   },
+   {
+    "name": "Chateau Fuente King B",
+    "size": "6 x 55"
+   },
+   {
+    "name": "Chateau Fuente Queen B",
+    "size": "5.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Cubanitos",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Cubanitos 10",
+    "size": "4.5 x 32"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Double Chateau",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Double Chateau",
+    "size": "6.75 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Especiales",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "858 Natural",
+    "size": ""
+   },
+   {
+    "name": "Especiales Cazadores",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Magnum R Rosado Sungrown",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rosado Sun Grown Super 60",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Arturo Fuente",
+  "line": "Privada Seleccion D'Oro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Privada Seleccion D'Oro",
+    "size": "6.75 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "8-9-8",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8-9-8",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Ashton",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Magnum",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Cameroon",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Senorita 10",
+    "size": ""
+   },
+   {
+    "name": "Cigarillo 10",
+    "size": ""
+   },
+   {
+    "name": "Half Corona 5",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Cigars",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Corona",
+    "size": "5.5 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Estate Sun Grown ESG",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "20 Year Salute",
+    "size": "6.75 x 49"
+   },
+   {
+    "name": "21 Year Salute",
+    "size": "5.25 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Imperial",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Imperial",
+    "size": "5.5 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ashton",
+  "line": "Majesty",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Majesty",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Asylum",
+  "line": "13 Ogre",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   },
+   {
+    "name": "6 x 80",
+    "size": "6 x 80"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Asylum",
+  "line": "867",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Auntie - Petit Corona",
+    "size": "5 x 44"
+   },
+   {
+    "name": "Auntie - Lancero",
+    "size": "7 x 38"
+   },
+   {
+    "name": "Zero - Churchill",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Midnight - Gordo",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Asylum",
+  "line": "Insidious Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7 x 64",
+    "size": "7 x 64"
+   },
+   {
+    "name": "6 x 52",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Classic #3",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "#3",
+    "size": "7.5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Classic Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Expresivo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Limited Edition",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "10th Anniversary Limited Edition 2025",
+    "size": "6.62 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Caribe",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Special Toro",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Fogata",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "AVO",
+  "line": "Syncro Ritmo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Special Toro",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   },
+   {
+    "name": "Torpedo Largo",
+    "size": "7 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Baccarat",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Petit Corona",
+    "size": "5.5 x 44"
+   },
+   {
+    "name": "Rothschild",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Bonitas",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4.5 x 30",
+    "size": "4.5 x 30"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Nicaragua",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7 x 48",
+    "size": "7 x 48"
+   },
+   {
+    "name": "7.5 x 50",
+    "size": "7.5 x 50"
+   },
+   {
+    "name": "5.5 x 42",
+    "size": "5.5 x 42"
+   },
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 50",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Nicaragua King",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8.5 x 52",
+    "size": "8.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "No. 1",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7 x 44",
+    "size": "7 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Baccarat",
+  "line": "Panetela",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.12 x 32",
+    "size": "6.12 x 32"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bauza",
+  "line": "Bauza",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Pyramid",
+    "size": "5.5 x 55"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 50"
+   },
+   {
+    "name": "Petit Corona",
+    "size": "5 x 38"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bauza",
+  "line": "Casa",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Casa Grande",
+    "size": "6.75 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bauza",
+  "line": "Grecos",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Grecos",
+    "size": "5.5 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bauza",
+  "line": "Jaguar",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Jaguar",
+    "size": "6.5 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bolívar",
+  "line": "Aniversario",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bolívar",
+  "line": "Cofradia",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "No. 554 - Robusto",
+    "size": "5 x 54"
+   },
+   {
+    "name": "No. 654 - Toro",
+    "size": "6 x 54"
+   },
+   {
+    "name": "No. 754 - Churchill",
+    "size": "7.25 x 54"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6.25 x 50"
+   },
+   {
+    "name": "Petit",
+    "size": "4.5 x 36"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bolívar",
+  "line": "Dominican",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 49"
+   },
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Bolívar",
+  "line": "Gran Republica",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "4.5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Broadleaf",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Factory Unleashed",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro 3",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Nicaragua",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Scorpion Fumas Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Scorpion Fumas Sun Grown",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 48"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Camacho",
+  "line": "Scorpion Sun Grown",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "America",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "250th Anniversary The Republic - Robusto",
+    "size": "5.5 x 55"
+   },
+   {
+    "name": "Landmark",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Monument",
+    "size": "6.25 x 54"
+   },
+   {
+    "name": "Potomac",
+    "size": "5 x 56"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Arcana",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Firewalker – Toro",
+    "size": "6.5 x 56"
+   },
+   {
+    "name": "Thunder Smoke Toro Grande",
+    "size": "6.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Colombia",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Consigliere",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Flathead Speed Shop",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "V660 Carb",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Flavours",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Bella Vanilla Cigarillo",
+    "size": ""
+   },
+   {
+    "name": "Moontrance Cigarillo",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Surplus by CAO",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "CAO",
+  "line": "Vision",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Casa de Garcia",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "4.75 x 50"
+   },
+   {
+    "name": "Churchill",
+    "size": "6.5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "5.5 x 50"
+   },
+   {
+    "name": "Belicoso",
+    "size": "6.12 x 52"
+   },
+   {
+    "name": "Magnum",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Centenario Gold Label",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Belicoso",
+    "size": "6.25 x 52"
+   },
+   {
+    "name": "Magnum",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Centenario Red Label",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Magnum",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Magnum",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "4.75 x 50"
+   },
+   {
+    "name": "Belicoso",
+    "size": "6.12 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Casa de Garcia",
+  "line": "Nicaragua",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Chillin Moose",
+  "line": "Bull Moose",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto Gordo",
+    "size": "5 x 60"
+   },
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Gigante XL",
+    "size": "6 x 70"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Chillin Moose",
+  "line": "Bull Moose Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Gigante XL",
+    "size": "6 x 70"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Chillin Moose",
+  "line": "Chillin Moose",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Corona",
+    "size": "5.62 x 46"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Chillin Moose",
+  "line": "Shady Moose Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Chillin Moose",
+  "line": "Too",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Corona",
+    "size": "5.62 x 46"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cibao",
+  "line": "Cibao",
+  "origin": "Dominican Republic",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "6.75 x 46"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cigarro Agave",
+  "line": "538",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador Sumatra",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 38",
+    "size": "5 x 38"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cigarro Agave",
+  "line": "650",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador Sumatra",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 50",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cigarro Agave",
+  "line": "650 Pack",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador Sumatra",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 50",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CLE",
+  "line": "Chele",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 46",
+    "size": "4 x 46"
+   },
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CLE",
+  "line": "Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 40",
+    "size": "4 x 40"
+   },
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CLE",
+  "line": "Corojo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 40",
+    "size": "4 x 40"
+   },
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CLE",
+  "line": "Habano Cuarenta",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 40",
+    "size": "4 x 40"
+   },
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   },
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "CLE",
+  "line": "Prieto",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 46",
+    "size": "4 x 46"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Nica",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Serie M Reserva",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Cohiba Serie M Reserva Azul Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cohiba",
+  "line": "Weller",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Weller By Cohiba Holiday Humidor Assortment 2025",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "#84",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.12 x 54",
+    "size": "6.12 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #14",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7.25 x 54",
+    "size": "7.25 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #16",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.5 x 50",
+    "size": "6.5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #25",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.75 x 48",
+    "size": "6.75 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #28",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8.5 x 52",
+    "size": "8.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #30",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.25 x 50",
+    "size": "5.25 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Consuegra",
+  "line": "Consuegra #73",
+  "origin": "Honduras",
+  "wrapper": "Honduras",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 54",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cuba Aliados",
+  "line": "by Ernesto Perez-Carrillo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Regordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Cuba Aliados",
+  "line": "Original Blend",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Regordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "1400 CC",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "20 Acre Farm",
+  "origin": "",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5.5 x 54"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Gordito",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "20 Connecticut",
+  "origin": "Nicaragua",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Atom",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Blondie Gold",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid C-note",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaraguan",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "3.75 x 20",
+    "size": "3.75 x 20"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Cold Infusion Tea",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Croqueta",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaraguan",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Extra Ordinary Larry",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaraguan",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Gold",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaraguan",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Green",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaragua",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Acid Krush Cigarillos Classic Green",
+    "size": "4 x 32"
+   },
+   {
+    "name": "Acid Blondie",
+    "size": "4 x 38"
+   },
+   {
+    "name": "Acid Kuba Kuba",
+    "size": "5 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Liquid",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Acid Liquid",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Ltd Def Sea",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Nasty",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Acid Nasty",
+    "size": "5 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Plush",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaraguan",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.5 x 50",
+    "size": "5.5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Red",
+  "origin": "Nicaragua",
+  "wrapper": "Cameroon",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Acid Krush Cigarillos Red",
+    "size": "4 x 32"
+   },
+   {
+    "name": "Acid Liquid",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Acid Nasty",
+    "size": "5 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Acid Toast",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Blackened M81",
+  "origin": "",
+  "wrapper": "Maduro",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Corona",
+    "size": "5 x 43"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Corona Doble",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Deep Dish",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 58",
+    "size": "5 x 58"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Def Sea",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Double Perfecto",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Opulence",
+  "origin": "Nicaragua",
+  "wrapper": "Mexico",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 54"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "UC",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Metropolitan Connecticut Union",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "4.5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Tego Metro CT",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Ferio Tego",
+  "line": "Tego Metropolitan Host Hobart",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "( )",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Foundation",
+  "line": "Charter Oak Connecticut Shade",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Grande",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Rothschild",
+    "size": "4.5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Foundation",
+  "line": "Charter Oak Habano",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Grande",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Foundation",
+  "line": "Charter Oak Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Grande",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Rothschild",
+    "size": "4.5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Bourbon Collection",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7.25 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Dragonfly",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6.25 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Fat Boy",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "4 x 60",
+    "size": "4 x 60"
+   },
+   {
+    "name": "5 x 66",
+    "size": "5 x 66"
+   },
+   {
+    "name": "6 x 66",
+    "size": "6 x 66"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Grand Aged",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Real",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Treinta",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Gurkha",
+  "line": "Year Of The Dragon",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.75 x 52",
+    "size": "6.75 x 52"
+   },
+   {
+    "name": "By EP Carrillo",
+    "size": "6.62 x 54"
+   },
+   {
+    "name": "By Oliva",
+    "size": "6.5 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "by AJ Fernandez",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 54"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 54"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Miami Deco",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "H. Upmann",
+  "line": "Vintage Cameroon Rothchilde",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rothchilde",
+    "size": "5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Espada",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Epicures",
+  "origin": "Honduras",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.25 x 50",
+    "size": "5.25 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur III",
+  "origin": "Honduras",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.12 x 48",
+    "size": "6.12 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Miniatures",
+  "origin": "Honduras",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "3 x 22",
+    "size": "3 x 22"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur No. 660",
+  "origin": "Honduras",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Hoyo de Monterrey",
+  "line": "Excalibur Short Crystal",
+  "origin": "Honduras",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.25 x 50",
+    "size": "5.25 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Isla del Sol",
+  "line": "Isla del Sol",
+  "origin": "",
+  "wrapper": "Sumatra",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Aurora",
+  "line": "Sapphire",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Los Gloriosos",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Grandioso - Churchill Gordo",
+    "size": "7 x 58"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Romeo Reserve",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Black Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "No 60 Gigante",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie R Esteli Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "No. 52",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Serie S",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Presidente",
+    "size": "7 x 56"
+   },
+   {
+    "name": "Robusto Gordo",
+    "size": "5.5 x 56"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "La Gloria Cubana",
+  "line": "Spanish Press",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Gigante",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Excellentes",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.75 x 43",
+    "size": "6.75 x 43"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Licenciados",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Gordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Figurado",
+    "size": "6 x 56"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "No. 4",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.75 x 43",
+    "size": "5.75 x 43"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Panetela Linda",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "7 x 38",
+    "size": "7 x 38"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Presidentes",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8 x 50",
+    "size": "8 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Soberanos",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "8.5 x 52",
+    "size": "8.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Supreme Maduro 200",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Supreme 200",
+    "size": "5.75 x 43"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Supreme Maduro 300",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Supreme 300",
+    "size": "6.75 x 43"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Supreme Maduro 400",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Supreme 400",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Supreme Maduro 500",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Supreme 500",
+    "size": "8 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Wavell",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Licenciados",
+  "line": "Wavell Maduro",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5 x 50",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Court",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Court Tube",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Gold Label Golden Nugget",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Golden Nugget",
+    "size": "4.5 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Hyde Park",
+  "origin": "",
+  "wrapper": "Connecticut Shade",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Macanudo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Luxury Assortment",
+    "size": ""
+   },
+   {
+    "name": "Port",
+    "size": "4.5 x 60"
+   },
+   {
+    "name": "Count David",
+    "size": "5.75 x 52"
+   },
+   {
+    "name": "Astor",
+    "size": "6.75 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Miniature",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Miniature 8",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Macanudo",
+  "line": "Thames",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Thames",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "Crafted by AJ Fernandez Limited Edition",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "Espada Guard",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "( )",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "Miami Deco",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Magnum",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "Original",
+  "origin": "Dominican Republic",
+  "wrapper": "Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "No. 1",
+    "size": "6.62 x 44"
+   },
+   {
+    "name": "No. 2 Torpedo",
+    "size": "6 x 50"
+   },
+   {
+    "name": "No. 3",
+    "size": "5.5 x 44"
+   },
+   {
+    "name": "Double Corona",
+    "size": "6.25 x 50"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Memories 6",
+    "size": "4 x 33"
+   },
+   {
+    "name": "No. 4",
+    "size": "4 x 44"
+   },
+   {
+    "name": "Half Corona",
+    "size": "4.25 x 42"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "White Especial No. 3",
+  "origin": "",
+  "wrapper": "Ecuadorian Connecticut",
+  "binder": "",
+  "filler": "",
+  "strength": "Mild to medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Corona Grande",
+    "size": "6 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Montecristo",
+  "line": "White Rothchilde",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Rothschild",
+    "size": "5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "My Father",
+  "line": "Cedro Deluxe Cervantes",
+  "origin": "Nicaragua",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.5 x 44",
+    "size": "6.5 x 44"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "My Father",
+  "line": "Cedro Deluxe Eminentes",
+  "origin": "Nicaragua",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.62 x 46",
+    "size": "5.62 x 46"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "My Father",
+  "line": "No. 3 - Cremas",
+  "origin": "Nicaragua",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 49",
+    "size": "6 x 49"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "My Father",
+  "line": "No. 6",
+  "origin": "Nicaragua",
+  "wrapper": "Ecuador",
+  "binder": "",
+  "filler": "",
+  "strength": "Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6 x 60",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Notorious Cigars by Conor McGregor",
+  "line": "Notorious Cigars by Conor McGregor",
+  "origin": "Dominican Republic",
+  "wrapper": "Ecuador Habano",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Double Robusto",
+    "size": ""
+   },
+   {
+    "name": "Corona Gordo",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "Cain by Oliva",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Cain 550",
+    "size": "5.75 x 50"
+   },
+   {
+    "name": "Cain 660",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Cain Nub 460",
+    "size": "4 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "Cain Daytona by Oliva",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "CT Reserve",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "Cuba Aliados Original Blend",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Regordo",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "Flor de Oliva Corojo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Oliva",
+  "line": "Flor de Oliva Gold",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Torpedo",
+    "size": "6.5 x 52"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 50"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Padrón",
+  "line": "6000 (torpedo)",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaragua",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "5.5 x 52",
+    "size": "5.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Padrón",
+  "line": "Panetela",
+  "origin": "Nicaragua",
+  "wrapper": "Nicaragua",
+  "binder": "",
+  "filler": "",
+  "strength": "Medium to Full",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.88 x 36",
+    "size": "6.88 x 36"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Partagas",
+  "line": "Naturales",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5.5 x 49"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Quesada",
+  "line": "Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Quesada",
+  "line": "Domus Magnus",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Caligula",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Tiberius",
+    "size": "6 x 63"
+   },
+   {
+    "name": "Optimus",
+    "size": "5.75 x 52"
+   },
+   {
+    "name": "Primus",
+    "size": "6.5 x 55"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Quesada",
+  "line": "Liga F",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Quesada",
+  "line": "Quesada",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "6.5 x 52",
+    "size": "6.5 x 52"
+   },
+   {
+    "name": "5 x 54",
+    "size": "5 x 54"
+   },
+   {
+    "name": "6 x 52",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Rocky Patel",
+  "line": "Vintage 1999",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro",
+    "size": "6.5 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "1875 Bully",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Bully",
+    "size": "5 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "1875 Exhibition No. 3",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "No. 3",
+    "size": "6 x 50"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "1875 Nicaragua Fresh Pack",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "1875 Nicaragua Petit Bully",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Petit Bully",
+    "size": "4 x 38"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Crafted by AJ Fernandez",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 52"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Envy Amulet",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Toro Grande",
+    "size": "6 x 55"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Miami Deco",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Churchill",
+    "size": "7 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Primer Lote 770 Beaujolais",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Beaujolais - Belicoso",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Primer Lote 770 Bordeaux",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Bordeaux - Toro",
+    "size": "5.75 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Primer Lote 770 Burgundy",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Burgundy - Robusto",
+    "size": "4.75 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Reserva Real Nicaragua Midnight Twist Twisted",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Twisted Toro",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Reserva Real Nicaragua Midnight Twist Twisted Love Story",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Twisted Love Story",
+    "size": "4.25 x 46"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Reserve",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Reserve Titan",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Titan",
+    "size": "6 x 54"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Romeo y Julieta",
+  "line": "Vintage Lote",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Double Corona",
+    "size": "6.75 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Eighty",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Eighty",
+    "size": "6 x 80"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Medulla",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Medulla",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Oblongata",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Oblongata",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Ogre",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Ogre",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Seventy",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Seventy",
+    "size": "7 x 70"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "13 Super 11/18",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "13 Super 11/18",
+    "size": ""
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "867 Auntie",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "867 Auntie",
+    "size": "5 x 44"
+   },
+   {
+    "name": "867 Auntie",
+    "size": "7 x 38"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "867 Midnight",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "867 Midnight",
+    "size": "6 x 60"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "867 Zero",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "867 Zero",
+    "size": "7 x 48"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "Insidious Connecticut",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Insidious",
+    "size": "7 x 64"
+   },
+   {
+    "name": "Insidious",
+    "size": "6 x 52"
+   }
+  ],
+  "source": "mikes"
+ },
+ {
+  "brand": "Schizo",
+  "line": "Schizo",
+  "origin": "",
+  "wrapper": "",
+  "binder": "",
+  "filler": "",
+  "strength": "",
+  "priceLow": 0,
+  "priceHigh": 0,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 50"
+   },
+   {
+    "name": "Sixty",
+    "size": "6 x 60"
+   },
+   {
+    "name": "Toro",
+    "size": "6 x 50"
+   },
+   {
+    "name": "Churchill",
+    "size": "7 x 52"
+   },
+   {
+    "name": "Torpedo",
+    "size": "6 x 52"
+   },
+   {
+    "name": "7 x 70",
+    "size": "7 x 70"
+   }
+  ],
+  "source": "mikes"
  }
 ]

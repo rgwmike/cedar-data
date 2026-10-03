@@ -1,26 +1,22 @@
 {
  "schema": 1,
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "stores": {
-  "neptune": {
-   "name": "Neptune Cigar",
-   "home": "https://www.neptunecigar.com",
-   "pageShape": "line page: every vitola, single + box, plain HTML (often too long for the fetcher). 2026-10-01: only six line pages render (Padrón 1926/1964 Maduro, Liga No. 9, Don Carlos, Hemingway, OpusX); per-vitola pages /cigars/<slug> showed NO prices this time (cut off inside the navigation menu) except the Crux PB5 pre-order page — skip the fallback unless it starts working again"
-  },
   "holts": {
-   "name": "Holt's",
-   "home": "https://www.holts.com",
-   "pageShape": "line page: table with MSRP, single, 5-pack, box, plain HTML. Ignore the generic out-of-stock banner: ask for the literal button text beside each price (Add To Cart / Notify / Sold Out); stock is per column"
-  },
-  "smokeinn": {
-   "name": "Smoke Inn",
-   "home": "https://www.smokeinn.com",
-   "pageShape": "line page: box and 5-pack per vitola, plain HTML, no singles (any 'single' the fetcher reports is computed). Ask for each tile verbatim (pack, size, price, stock) and map by size; pace fetches (429 after ~8 quick ones — batches of 4-8 with a 45 s pause)"
+   "name": "holts",
+   "home": ""
   },
   "mikes": {
-   "name": "Mike's Cigars",
-   "home": "https://mikescigars.com",
-   "pageShape": "brand-line listing (page 1 only; ?p=2 robots-blocked); listing card range high is usually the box price but can be a pre-sale price — product pages mikescigars.com/<slug> show Single / Pack of N / Box of N with stock and fetch reliably"
+   "name": "mikes",
+   "home": ""
+  },
+  "neptune": {
+   "name": "neptune",
+   "home": ""
+  },
+  "smokeinn": {
+   "name": "smokeinn",
+   "home": ""
   }
  },
  "lines": [
@@ -243,6 +239,62 @@
     "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature"
    },
    "notes": "Neptune page too long for the fetcher. Tubos/6000/Toro come in 4-packs. Stores list 6000 as 5 x 48 (catalog 5.9 x 47)."
+  },
+  {
+   "id": "5 Vegas|Gold",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/5-vegas-gold"
+   },
+   "notes": null
+  },
+  {
+   "id": "Aging Room|Bin No. 1",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/aging-room-bin-no-1"
+   },
+   "notes": null
+  },
+  {
+   "id": "Aging Room|Quattro Nicaragua",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/aging-room-quattro-nicaragua"
+   },
+   "notes": null
+  },
+  {
+   "id": "Alec Bradley|Blind Faith",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/alec-bradley-blind-faith"
+   },
+   "notes": null
+  },
+  {
+   "id": "Alec Bradley|Gatekeeper",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/alec-bradley-gatekeeper"
+   },
+   "notes": null
+  },
+  {
+   "id": "Cohiba|Red Dot",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/cohiba"
+   },
+   "notes": null
+  },
+  {
+   "id": "Drew Estate|Acid",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/acid"
+   },
+   "notes": null
+  },
+  {
+   "id": "Montecristo|Crafted by AJ Fernandez",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/aj-fernandez-montecristo"
+   },
+   "notes": null
   }
  ]
 }
