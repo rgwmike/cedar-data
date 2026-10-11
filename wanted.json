@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-02",
+ "updated": "2026-10-10",
  "note": "Lines the monthly price task keeps fresh. Grows from the data inbox (open 'wanted:' issues on this repository) each month.",
  "lines": [
   "E.P. Carrillo|Encore",
@@ -23,10 +23,16 @@
   "Padrón|1964 Anniversary Series",
   "Arturo Fuente|Hemingway",
   "Gurkha|Prize Fighter",
-  "Arturo Fuente|Fuente Fuente OpusX",
   "Davidoff|Signature",
   "Davidoff|Aniversario",
   "My Father|Connecticut",
-  "Oliva|Serie V"
+  "Oliva|Serie V",
+  "Arturo Fuente|Fuente Opus X Oro Oscuro Perfexcion X",
+  "Arturo Fuente|Fuente OpusX",
+  "Dunbarton Tobacco & Trust|Mi Querida Triqui Traca",
+  "Foundation|The Tabernacle Havana Seed CT No. 142",
+  "Herrera Estelí|Brazilian Maduro",
+  "Oliva|Serie V Melanio",
+  "Tatuaje|Black Label"
  ]
 }
