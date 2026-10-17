@@ -8256,10 +8256,12 @@
    "fetched": "2026-10-17",
    "storesTried": [
     "holts",
+    "mikes",
     "neptune"
    ],
    "storesWithPrices": [
     "holts",
+    "mikes",
     "neptune"
    ],
    "vitolas": [
@@ -8267,9 +8269,9 @@
      "name": "Petit Robusto",
      "size": "4.5 x 50",
      "low": 8.15,
-     "median": 8.62,
+     "median": 8.2,
      "high": 9.1,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
       {
        "store": "neptune",
@@ -8298,6 +8300,20 @@
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html",
        "fetched": "2026-10-17"
+      },
+      {
+       "store": "mikes",
+       "name": "Petit Robusto",
+       "single": null,
+       "box": 163.95,
+       "count": 20,
+       "pack": 43.5,
+       "packCount": 5,
+       "perStick": 8.2,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/my-father-blue-petit-robusto",
+       "fetched": "2026-10-17"
       }
      ]
     },
@@ -8305,9 +8321,9 @@
      "name": "Robusto",
      "size": "5.25 x 52",
      "low": 9.45,
-     "median": 10.02,
+     "median": 9.55,
      "high": 10.6,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
       {
        "store": "neptune",
@@ -8336,6 +8352,20 @@
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html",
        "fetched": "2026-10-17"
+      },
+      {
+       "store": "mikes",
+       "name": "Robusto",
+       "single": null,
+       "box": 190.95,
+       "count": 20,
+       "pack": 50.5,
+       "packCount": 5,
+       "perStick": 9.55,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/my-father-blue-robusto",
+       "fetched": "2026-10-17"
       }
      ]
     },
@@ -8343,9 +8373,9 @@
      "name": "Toro",
      "size": "6 x 54",
      "low": 10.85,
-     "median": 11.47,
+     "median": 10.9,
      "high": 12.1,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
       {
        "store": "neptune",
@@ -8374,6 +8404,20 @@
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html",
        "fetched": "2026-10-17"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro",
+       "single": null,
+       "box": 217.95,
+       "count": 20,
+       "pack": 57.5,
+       "packCount": 5,
+       "perStick": 10.9,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/my-father-blue-toro",
+       "fetched": "2026-10-17"
       }
      ]
     },
@@ -8381,9 +8425,9 @@
      "name": "Toro Gordo",
      "size": "6 x 60",
      "low": 11.75,
-     "median": 12.43,
+     "median": 11.8,
      "high": 13.1,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
       {
        "store": "neptune",
@@ -8411,6 +8455,20 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html",
+       "fetched": "2026-10-17"
+      },
+      {
+       "store": "mikes",
+       "name": "Toro Gordo",
+       "single": null,
+       "box": 235.95,
+       "count": 20,
+       "pack": 62.5,
+       "packCount": 5,
+       "perStick": 11.8,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/my-father-blue-toro-gordo",
        "fetched": "2026-10-17"
       }
      ]
