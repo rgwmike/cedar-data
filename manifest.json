@@ -15,15 +15,15 @@
    "generated": "2026-10-18"
   },
   "wanted.json": {
-   "version": 6,
-   "sha256": "6fbc724c8721f7809f032aa9ced5393d6666b8dc50efd2a94b0a07063d193295",
-   "bytes": 1197,
+   "version": 7,
+   "sha256": "01c504890796011aaca101c6ce98abd2e10eeee89171abe2d8de24de6505d987",
+   "bytes": 1293,
    "generated": "2026-10-18"
   },
   "prices.json": {
-   "version": 9,
-   "sha256": "acb794b4f82edd2c69bf7c7161098fa0f3a5209d64e8b9952ce8e48d9322a304",
-   "bytes": 293002,
+   "version": 10,
+   "sha256": "8c24a1dcdeb9a8a2383491491aef4ea1f66b328ffddb1898f6024df5c1887bd3",
+   "bytes": 306689,
    "generated": "2026-10-18"
   }
  },

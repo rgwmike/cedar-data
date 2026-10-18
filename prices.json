@@ -506,6 +506,333 @@
    ]
   },
   {
+   "id": "Arturo Fuente|Añejo Reserva",
+   "display": "Arturo Fuente Añejo Reserva",
+   "fetched": "2026-10-18",
+   "storesTried": [
+    "mikes",
+    "neptune"
+   ],
+   "storesWithPrices": [
+    "mikes",
+    "neptune"
+   ],
+   "vitolas": [
+    {
+     "name": "1",
+     "size": "4 x 50",
+     "low": 28.8,
+     "median": 28.8,
+     "high": 28.8,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "1",
+       "single": 28.8,
+       "box": 680.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 28.8,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "2",
+     "size": "5 x 52",
+     "low": 36.0,
+     "median": 36.0,
+     "high": 36.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "2",
+       "single": 36.0,
+       "box": 850.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 36.0,
+       "basis": "single",
+       "inStock": false,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "50",
+     "size": "5.25 x 50",
+     "low": 17.0,
+     "median": 17.0,
+     "high": 17.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "5 1/4 x 50",
+       "single": null,
+       "box": 425.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 17.0,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-50",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "46",
+     "size": "5.62 x 46",
+     "low": 16.0,
+     "median": 16.0,
+     "high": 16.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "5 5/8 x 46",
+       "single": null,
+       "box": 400.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.0,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-46",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "5.62 x 52",
+     "size": "5.62 x 52",
+     "low": 20.0,
+     "median": 20.0,
+     "high": 20.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "5 5/8 x 52",
+       "single": null,
+       "box": 500.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.0,
+       "basis": "box",
+       "inStock": null,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-66",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "60",
+     "size": "6 x 48",
+     "low": 19.2,
+     "median": 19.2,
+     "high": 19.2,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "6 x 48",
+       "single": null,
+       "box": 480.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 19.2,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-60",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "3",
+     "size": "6 x 54",
+     "low": 45.0,
+     "median": 45.0,
+     "high": 45.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "3",
+       "single": 45.0,
+       "box": 1062.5,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 45.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "55",
+     "size": "6 x 55",
+     "low": 20.48,
+     "median": 20.48,
+     "high": 20.48,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "6 x 55",
+       "single": null,
+       "box": 512.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.48,
+       "basis": "box",
+       "inStock": null,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-55",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "4",
+     "size": "6.75 x 56",
+     "low": 49.5,
+     "median": 49.5,
+     "high": 49.5,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "4",
+       "single": 49.5,
+       "box": 1168.75,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 49.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "48",
+     "size": "7 x 48",
+     "low": 18.68,
+     "median": 18.68,
+     "high": 18.68,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "7 x 48",
+       "single": null,
+       "box": 467.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 18.68,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-48",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "5",
+     "size": "7.5 x 58",
+     "low": 51.3,
+     "median": 51.3,
+     "high": 51.3,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "5",
+       "single": 51.3,
+       "box": 1211.25,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 51.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "49",
+     "size": "7.62 x 49",
+     "low": 20.0,
+     "median": 20.0,
+     "high": 20.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "7 5/8 x 49",
+       "single": null,
+       "box": 500.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.0,
+       "basis": "box",
+       "inStock": null,
+       "url": "https://mikescigars.com/arturo-fuente-anejo-reserva-49",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "6",
+     "size": "9 x 50",
+     "low": 51.3,
+     "median": 51.3,
+     "high": 51.3,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "6",
+       "single": 51.3,
+       "box": 1211.25,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 51.3,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+       "fetched": "2026-10-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "Arturo Fuente|Don Carlos",
    "display": "Arturo Fuente Don Carlos",
    "fetched": "2026-10-17",
@@ -9067,6 +9394,43 @@
    ]
   },
   {
+   "id": "My Father|No. 1 / Classic",
+   "display": "My Father No. 1 / Classic",
+   "fetched": "2026-10-18",
+   "storesTried": [
+    "mikes"
+   ],
+   "storesWithPrices": [
+    "mikes"
+   ],
+   "vitolas": [
+    {
+     "name": "Robusto",
+     "size": "5.25 x 52",
+     "low": 12.75,
+     "median": 12.75,
+     "high": 12.75,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "5 1/4 x 52",
+       "single": 12.75,
+       "box": 177.95,
+       "count": 20,
+       "pack": 49.95,
+       "packCount": 5,
+       "perStick": 12.75,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://mikescigars.com/my-father-no-1",
+       "fetched": "2026-10-18"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "My Father|The Judge",
    "display": "My Father The Judge",
    "fetched": "2026-10-17",
@@ -10767,6 +11131,269 @@
        "inStock": true,
        "url": "https://mikescigars.com/padron-1926-serie-1-10-pd261103",
        "fetched": "2026-10-10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Padrón|1926 Serie Maduro",
+   "display": "Padrón 1926 Serie Maduro",
+   "fetched": "2026-10-18",
+   "storesTried": [
+    "mikes",
+    "neptune"
+   ],
+   "storesWithPrices": [
+    "mikes",
+    "neptune"
+   ],
+   "vitolas": [
+    {
+     "name": "4 x 48",
+     "size": "4 x 48",
+     "low": 16.35,
+     "median": 16.35,
+     "high": 16.35,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 35 Maduro",
+       "single": 16.35,
+       "box": 392.4,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "Padron 1926 Serie #6 10",
+     "size": "4.75 x 50",
+     "low": 18.45,
+     "median": 21.48,
+     "high": 24.5,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 6 Maduro",
+       "single": 24.5,
+       "box": 442.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "Padron 1926 Serie #6 10",
+       "single": null,
+       "box": null,
+       "count": 24,
+       "pack": 184.5,
+       "packCount": 10,
+       "perStick": 18.45,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/padron-1926-serie",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "Short Gordo",
+     "size": "5.25 x 56",
+     "low": 23.52,
+     "median": 23.52,
+     "high": 23.52,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "mikes",
+       "name": "Padron 1926 Serie #9",
+       "single": null,
+       "box": 588.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 23.52,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/padron-1926-serie",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "Robusto",
+     "size": "5.5 x 50",
+     "low": 20.45,
+     "median": 20.45,
+     "high": 20.45,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 47 Maduro",
+       "single": 20.45,
+       "box": 490.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "No 47",
+       "single": null,
+       "box": 490.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 20.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/padron-1926-serie-no-47-pd26473",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "Padron 1926 Serie No. 90 Tubo Maduro",
+     "size": "5.5 x 52",
+     "low": 22.45,
+     "median": 23.98,
+     "high": 25.5,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 90 Tubo Maduro",
+       "single": 25.5,
+       "box": 255.0,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 25.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "5 1/2 x 52",
+       "single": null,
+       "box": 224.5,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/padron-1926-serie-2-10-belicoso-pd262103",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "5.5 x 60",
+     "size": "5.5 x 60",
+     "low": 26.95,
+     "median": 26.95,
+     "high": 26.95,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 48 Maduro",
+       "single": 26.95,
+       "box": 269.5,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "6.5 x 54",
+     "size": "6.5 x 54",
+     "low": 32.0,
+     "median": 32.0,
+     "high": 32.0,
+     "stores": 1,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 40 Maduro",
+       "single": 32.0,
+       "box": 640.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 32.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "name": "80 Years",
+     "size": "6.75 x 54",
+     "low": 22.45,
+     "median": 24.48,
+     "high": 26.5,
+     "stores": 2,
+     "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 1 Maduro",
+       "single": 22.45,
+       "box": 636.0,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "6 3/4 x 54",
+       "single": null,
+       "box": 265.0,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/padron-1926-serie-1-10-pd261103",
+       "fetched": "2026-10-18"
       }
      ]
     }
