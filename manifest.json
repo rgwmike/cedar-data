@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "files": {
   "catalog.json": {
-   "version": 8,
-   "sha256": "bebf0bed8f95ca75957ce113f01a3bbe50c465c0ee6869418cf925ee20f85d59",
-   "bytes": 1435918,
-   "generated": "2026-10-17"
+   "version": 9,
+   "sha256": "5bd8cd7662ef44ad4a564976f0ac249a4e8c0adc2ed27d8a400bf114dcef71f8",
+   "bytes": 1435001,
+   "generated": "2026-10-18"
   },
   "sources.json": {
    "version": 7,
@@ -21,10 +21,10 @@
    "generated": "2026-10-17"
   },
   "prices.json": {
-   "version": 7,
-   "sha256": "306fbc291f4c7f30a10524e2044373c4c7acaf62390753cdc07acee3c255851c",
-   "bytes": 296431,
-   "generated": "2026-10-17"
+   "version": 8,
+   "sha256": "980a4824ab1a98cca27f42e63f7669b804bb63bacc8ece9d58603631301d8d61",
+   "bytes": 292928,
+   "generated": "2026-10-18"
   }
  },
  "catalog": {

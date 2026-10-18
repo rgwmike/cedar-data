@@ -381,9 +381,6 @@
     "name": "Pequenas",
     "size": "5 x 46"
    }
-  ],
-  "aliases": [
-   "AJ Fernandez Last Call Habano"
   ]
  },
  {
@@ -837,7 +834,6 @@
    "Anejo",
    "Fuente Anejo",
    "Arturo Fuente Sharks 77",
-   "Arturo Fuente Anejo",
    "Alfonso Anejo",
    "Partagas Anejo"
   ]
@@ -3816,8 +3812,6 @@
   "aliases": [
    "Deadwood",
    "Drew Estate Deadwood",
-   "Drew Estate Deadwood Crazy Alice",
-   "Drew Estate Deadwood Leather Rose",
    "Deadwood by Drew Estate"
   ]
  },
@@ -21827,8 +21821,7 @@
   "source": "vitolapedia",
   "aliases": [
    "La Aurora Preferidos Gold Corojo No. 1",
-   "La Aurora Preferidos Gold Corojo No. 2",
-   "La Aurora Preferidos"
+   "La Aurora Preferidos Gold Corojo No. 2"
   ]
  },
  {
@@ -32212,7 +32205,6 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Foundation Charter Oak Connecticut",
    "Foundation Connecticut Shade",
    "Foundation Cigar Company Charter Oak Connecticut Shade"
   ]
@@ -33137,10 +33129,7 @@
     "size": "5 x 50"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Romeo y Julieta 1875"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Romeo y Julieta",
@@ -34984,10 +34973,7 @@
     "size": "5 x 54"
    }
   ],
-  "source": "neptune",
-  "aliases": [
-   "Montecristo Espada"
-  ]
+  "source": "neptune"
  },
  {
   "brand": "AJ Fernandez",
@@ -36590,10 +36576,7 @@
     "size": "7 x 48"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Alec Bradley Spirit of Cuba"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Alec Bradley",
@@ -36619,10 +36602,7 @@
     "size": "5 x 50"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Alec Bradley Spirit of Cuba"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Alec Bradley",
@@ -39468,10 +39448,7 @@
     "size": "7 x 70"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Asylum Schizo"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Asylum",
@@ -39977,10 +39954,7 @@
     "size": "6.62 x 50"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Avo Limited Edition"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "AVO",
@@ -39998,10 +39972,7 @@
     "size": "6 x 54"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Avo XO"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Babalu",
@@ -41728,10 +41699,7 @@
     "size": "6 x 52"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Camacho Limited Edition"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Camacho",
@@ -48402,7 +48370,6 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Drew Estate Deadwood Dominicana Buenas Noches",
    "Drew Estate Buenas Noches"
   ]
  },
@@ -48850,55 +48817,6 @@
    }
   ],
   "source": "mikes"
- },
- {
-  "brand": "Drew Estate",
-  "line": "Liga Privada",
-  "origin": "",
-  "wrapper": "",
-  "binder": "",
-  "filler": "",
-  "strength": "",
-  "priceLow": 0,
-  "priceHigh": 0,
-  "vitolas": [
-   {
-    "name": "Unico Papas Fritas",
-    "size": "4.5 x 44"
-   },
-   {
-    "name": "Robusto",
-    "size": "5 x 54"
-   },
-   {
-    "name": "Belicoso",
-    "size": "6 x 52"
-   },
-   {
-    "name": "Corona Doble",
-    "size": "7 x 54"
-   },
-   {
-    "name": "Corona Viva",
-    "size": "6 x 48"
-   },
-   {
-    "name": "Coronets",
-    "size": "4 x 32"
-   },
-   {
-    "name": "Flying Pig",
-    "size": "4.12 x 60"
-   }
-  ],
-  "source": "mikes",
-  "aliases": [
-   "Drew Estate Liga Privada Papas Fritas",
-   "Drew Estate Liga Privada Aniversario",
-   "Drew Estate Liga Privada #9",
-   "Liga Privada #9 by Drew Estate",
-   "Liga Privada #9"
-  ]
  },
  {
   "brand": "Drew Estate",
@@ -49757,10 +49675,7 @@
     "size": "6 x 56"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "EP Carrillo Limited Edition"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "E.P. Carrillo",
@@ -61435,8 +61350,7 @@
   ],
   "source": "mikes",
   "aliases": [
-   "La Aurora Preferidos Emerald Ecuador No. 2 Tubes",
-   "La Aurora Preferidos"
+   "La Aurora Preferidos Emerald Ecuador No. 2 Tubes"
   ]
  },
  {
@@ -61465,8 +61379,7 @@
   ],
   "source": "mikes",
   "aliases": [
-   "La Aurora Preferidos Cameroon Platinum",
-   "La Aurora Preferidos"
+   "La Aurora Preferidos Cameroon Platinum"
   ]
  },
  {
@@ -61496,8 +61409,7 @@
   "source": "mikes",
   "aliases": [
    "La Aurora Preferidos Ruby Maduro No. 2",
-   "La Aurora Preferidos Maduro Ruby",
-   "La Aurora Preferidos"
+   "La Aurora Preferidos Maduro Ruby"
   ]
  },
  {
@@ -62736,8 +62648,7 @@
   "source": "mikes",
   "aliases": [
    "La Flor Dominicana Suave 2025 Grand Maduro No. 6",
-   "La Flor Dominicana Suave 2025 Grand Maduro No. 5",
-   "La Flor Dominicana Suave 2025"
+   "La Flor Dominicana Suave 2025 Grand Maduro No. 5"
   ]
  },
  {
@@ -65927,8 +65838,7 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Macanudo M Flavors by Macanudo Coffee",
-   "Macanudo M Flavors"
+   "Macanudo M Flavors by Macanudo Coffee"
   ]
  },
  {
@@ -70586,10 +70496,7 @@
     "size": "6 x 50"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Oliva Serie V"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Oliva",
@@ -70623,10 +70530,7 @@
     "size": "5.5 x 54"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Oliva Serie V"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Oliva",
@@ -70644,10 +70548,7 @@
     "size": "5.5 x 54"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Oliva Serie V Melanio"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Oliva",
@@ -70711,8 +70612,7 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Oliva Serie G Special G",
-   "Oliva Serie V"
+   "Oliva Serie G Special G"
   ]
  },
  {
@@ -73432,10 +73332,7 @@
     "size": "7 x 50"
    }
   ],
-  "source": "mikes",
-  "aliases": [
-   "Perdomo Fresco"
-  ]
+  "source": "mikes"
  },
  {
   "brand": "Perdomo",
@@ -73781,8 +73678,7 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Perdomo Lot 23 Toro Connecticut",
-   "Perdomo Lot 23"
+   "Perdomo Lot 23 Toro Connecticut"
   ]
  },
  {
@@ -82537,7 +82433,6 @@
   ],
   "source": "mikes",
   "aliases": [
-   "Trinidad X Tommy Bahama Island Collection",
    "Trinidad X Tommy Bahama Island Collection Marlin",
    "Trinidad X Tommy Bahama Island Collection Harbor",
    "Trinidad X Tommy Bahama Island Collection Breeze"
@@ -84511,5 +84406,62 @@
   "priceHigh": 0,
   "vitolas": [],
   "source": "holts"
+ },
+ {
+  "brand": "Drew Estate",
+  "line": "Liga Privada No. 9",
+  "origin": "Nicaragua",
+  "wrapper": "Connecticut Broadleaf Oscuro",
+  "binder": "Brazilian Mata Fina",
+  "filler": "Nicaraguan, Honduran",
+  "strength": "Full",
+  "priceLow": 15,
+  "priceHigh": 22,
+  "vitolas": [
+   {
+    "name": "Robusto",
+    "size": "5 x 54"
+   },
+   {
+    "name": "Belicoso",
+    "size": "6 x 52"
+   },
+   {
+    "name": "Corona Doble",
+    "size": "7 x 54"
+   },
+   {
+    "name": "Parejo Oscuro",
+    "size": "6 x 46"
+   },
+   {
+    "name": "Corona Viva",
+    "size": "6 x 46"
+   },
+   {
+    "name": "Petit Corona",
+    "size": "4 x 42"
+   },
+   {
+    "name": "Flying Pig",
+    "size": "4.125 x 60"
+   },
+   {
+    "name": "Coronets",
+    "size": "4 x 32"
+   }
+  ],
+  "aliases": [
+   "LP No. 9",
+   "LP9",
+   "Liga 9",
+   "Liga No. 9",
+   "Drew Estate No 9",
+   "Drew Estate Liga Privada #9",
+   "Liga Privada #9 by Drew Estate",
+   "Liga Privada #9",
+   "Liga Privada No 9",
+   "Drew Estate Liga Privada No. 9"
+  ]
  }
 ]
