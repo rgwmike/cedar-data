@@ -3,9 +3,9 @@
  "generated": "2026-10-17",
  "files": {
   "catalog.json": {
-   "version": 7,
-   "sha256": "17d48047e576747081bc5da632cc06edad85c5c9b33f39fdb79e3ce272715e0c",
-   "bytes": 1439466,
+   "version": 8,
+   "sha256": "bebf0bed8f95ca75957ce113f01a3bbe50c465c0ee6869418cf925ee20f85d59",
+   "bytes": 1435918,
    "generated": "2026-10-17"
   },
   "sources.json": {
