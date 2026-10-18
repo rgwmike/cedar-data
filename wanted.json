@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "note": "Lines the monthly price task keeps fresh. Grows from the data inbox (open 'wanted:' issues on this repository) each month.",
  "lines": [
   "E.P. Carrillo|Encore",
@@ -34,7 +34,6 @@
   "Herrera Estelí|Brazilian Maduro",
   "Oliva|Serie V Melanio",
   "Tatuaje|Black Label",
-  "Drew Estate|Liga Privada",
   "My Father|Blue"
  ]
 }

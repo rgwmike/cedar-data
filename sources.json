@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "updated": "2026-10-10",
+ "updated": "2026-10-18",
  "stores": {
   "holts": {
-   "name": "holts",
-   "home": ""
+   "name": "Holt's",
+   "home": "https://www.holts.com"
   },
   "mikes": {
-   "name": "mikes",
-   "home": ""
+   "name": "Mike's",
+   "home": "https://mikescigars.com"
   },
   "neptune": {
-   "name": "neptune",
-   "home": ""
+   "name": "Neptune",
+   "home": "https://www.neptunecigar.com"
   }
  },
  "lines": [
@@ -2107,13 +2107,6 @@
    "notes": null
   },
   {
-   "id": "Arturo Fuente|Gran Reserva Churchill Maduro",
-   "pages": {
-    "mikes": "https://mikescigars.com/arturo-fuente-churchill"
-   },
-   "notes": null
-  },
-  {
    "id": "Arturo Fuente|Hemingway Maduro",
    "pages": {
     "holts": "https://www.holts.com/cigars/all-cigar-brands/arturo-fuente-hemingway-maduro.html",
@@ -2259,15 +2252,6 @@
     "mikes": "https://mikescigars.com/brands/ashton-aged-maduro",
     "holts": "https://www.holts.com/cigars/all-cigar-brands/ashton-aged-maduro.html",
     "neptune": "https://www.neptunecigar.com/cigar/ashton-maduro"
-   },
-   "notes": null
-  },
-  {
-   "id": "Ashton|Ashton",
-   "pages": {
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/ashton.html",
-    "neptune": "https://www.neptunecigar.com/cigar/ashton",
-    "mikes": "https://mikescigars.com/brands/ashton"
    },
    "notes": null
   },
@@ -4176,13 +4160,6 @@
    "notes": null
   },
   {
-   "id": "Casa de Garcia|Casa de Garcia",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/casa-de-garcia"
-   },
-   "notes": null
-  },
-  {
    "id": "Casa de Garcia|Centenario Gold Label",
    "pages": {
     "mikes": "https://mikescigars.com/brands/casa-de-garcia-centenario-gold-label",
@@ -5511,14 +5488,6 @@
    "notes": null
   },
   {
-   "id": "Diesel|Diesel",
-   "pages": {
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/diesel.html",
-    "mikes": "https://mikescigars.com/brands/diesel"
-   },
-   "notes": null
-  },
-  {
    "id": "Diesel|Disciple",
    "pages": {
     "mikes": "https://mikescigars.com/brands/diesel-disciple",
@@ -6078,20 +6047,6 @@
    "notes": null
   },
   {
-   "id": "Drew Estate|Acid Blondie Candela",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/acid-green"
-   },
-   "notes": null
-  },
-  {
-   "id": "Drew Estate|Acid Blondie Maduro",
-   "pages": {
-    "mikes": "https://mikescigars.com/acid-blondie-adbl3"
-   },
-   "notes": null
-  },
-  {
    "id": "Drew Estate|Acid Blue",
    "pages": {
     "mikes": "https://mikescigars.com/brands/drew-estate-acid-blue",
@@ -6103,13 +6058,6 @@
    "id": "Drew Estate|Acid Cold Infusion Tea",
    "pages": {
     "mikes": "https://mikescigars.com/acid-cold-infusion-tea"
-   },
-   "notes": null
-  },
-  {
-   "id": "Drew Estate|Acid Def Sea",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/acid-blue"
    },
    "notes": null
   },
@@ -6139,13 +6087,6 @@
    "pages": {
     "mikes": "https://mikescigars.com/brands/drew-estate-acid-green",
     "neptune": "https://www.neptunecigar.com/cigar/acid-green"
-   },
-   "notes": null
-  },
-  {
-   "id": "Drew Estate|Acid Krush",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/acid-blue"
    },
    "notes": null
   },
@@ -6405,14 +6346,6 @@
    "notes": null
   },
   {
-   "id": "Drew Estate|Liga Privada",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/drew-estate",
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/liga-privada-9-by-drew-estate.html"
-   },
-   "notes": null
-  },
-  {
    "id": "Drew Estate|Liga Privada Aniversario",
    "pages": {
     "mikes": "https://mikescigars.com/liga-privada-anniversario-robusto",
@@ -6567,13 +6500,6 @@
    "notes": null
   },
   {
-   "id": "Drew Estate|Undercrown Maduro Dojo Dogma",
-   "pages": {
-    "neptune": "https://www.neptunecigar.com/cigar/liga-undercrown-maduro-dojo-dogma"
-   },
-   "notes": null
-  },
-  {
    "id": "Drew Estate|Undercrown Shade",
    "pages": {
     "mikes": "https://mikescigars.com/brands/drew-estate-undercrown-shade-connecticut",
@@ -6585,13 +6511,6 @@
    "id": "Drew Estate|Undercrown Shady XX Subculture Maduro",
    "pages": {
     "mikes": "https://mikescigars.com/brands/drew-estate-undercrown-maduro"
-   },
-   "notes": null
-  },
-  {
-   "id": "Drew Estate|Undercrown Sun Grown Dojo Dogma",
-   "pages": {
-    "neptune": "https://www.neptunecigar.com/cigar/liga-undercrown-sun-grown-dojo-dogma"
    },
    "notes": null
   },
@@ -8011,14 +7930,6 @@
    "notes": null
   },
   {
-   "id": "Flor de las Antillas|Flor de las Antillas",
-   "pages": {
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/flor-de-las-antillas.html",
-    "neptune": "https://www.neptunecigar.com/cigar/flor-de-las-antillas"
-   },
-   "notes": null
-  },
-  {
    "id": "Flor de las Antillas|Maduro",
    "pages": {
     "holts": "https://www.holts.com/cigars/all-cigar-brands/flor-de-las-antillas-maduro.html",
@@ -9413,13 +9324,6 @@
    "notes": null
   },
   {
-   "id": "Herrera Estelí|TAA Toro Exclusive",
-   "pages": {
-    "neptune": "https://www.neptunecigar.com/taa-cigars"
-   },
-   "notes": null
-  },
-  {
    "id": "Hiram & Solomon|Chabal",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/hiram-and-solomon-chabal"
@@ -9666,13 +9570,6 @@
    "id": "Hoyo de Monterrey|Excalibur Maduro",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/excalibur-maduro"
-   },
-   "notes": null
-  },
-  {
-   "id": "Hoyo de Monterrey|Excalibur Seleccion Suprema",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/excalibur-seleccion-suprema"
    },
    "notes": null
   },
@@ -11078,15 +10975,6 @@
    "notes": null
   },
   {
-   "id": "La Flor Dominicana|Andalusian Bull",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/la-flor-dominicana-limited-production",
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-andalusian-bull.html",
-    "neptune": "https://www.neptunecigar.com/cigar/la-flor-dominicana-andalusian-bull"
-   },
-   "notes": null
-  },
-  {
    "id": "La Flor Dominicana|Apollonia TAA 2025",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/la-flor-dominicana-apollonia-taa-2025"
@@ -11248,7 +11136,9 @@
   {
    "id": "La Flor Dominicana|Limited Production",
    "pages": {
-    "mikes": "https://mikescigars.com/brands/la-flor-dominicana-limited-production"
+    "mikes": "https://mikescigars.com/brands/la-flor-dominicana-limited-production",
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/la-flor-dominicana-andalusian-bull.html",
+    "neptune": "https://www.neptunecigar.com/cigar/la-flor-dominicana-andalusian-bull"
    },
    "notes": null
   },
@@ -12505,13 +12395,6 @@
    "notes": null
   },
   {
-   "id": "Macanudo|M Flavors Irish Cream",
-   "pages": {
-    "mikes": "https://mikescigars.com/m-flavors-by-macanudo-irish-cream-robusto"
-   },
-   "notes": null
-  },
-  {
    "id": "Macanudo|M by Myer's Rum",
    "pages": {
     "mikes": "https://mikescigars.com/brands/m-flavors-by-macanudo"
@@ -12568,13 +12451,6 @@
    "id": "Man O' War|Dark Horse",
    "pages": {
     "mikes": "https://mikescigars.com/brands/man-o-war-dark-horse"
-   },
-   "notes": null
-  },
-  {
-   "id": "Man O' War|Man O' War",
-   "pages": {
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/man-o-war.html"
    },
    "notes": null
   },
@@ -12911,13 +12787,6 @@
   },
   {
    "id": "Montecristo|Epic Vintage 12",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/montecristo-epic-vintage-12"
-   },
-   "notes": null
-  },
-  {
-   "id": "Montecristo|Epic Vintage 12 Blue",
    "pages": {
     "mikes": "https://mikescigars.com/brands/montecristo-epic-vintage-12",
     "neptune": "https://www.neptunecigar.com/cigar/montecristo-epic-vintage-12-blue"
@@ -13752,13 +13621,7 @@
    "id": "Oliva|Cain F",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/cain-f",
-    "holts": "https://www.holts.com/cigars/all-cigar-brands/cain-f-1.html"
-   },
-   "notes": null
-  },
-  {
-   "id": "Oliva|Cain F Nub",
-   "pages": {
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/cain-f-1.html",
     "mikes": "https://mikescigars.com/brands/cain-by-oliva"
    },
    "notes": null
@@ -15108,23 +14971,9 @@
    "notes": null
   },
   {
-   "id": "Plasencia|Alma Fuerte Robustus I Maduro",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/plasencia-alma-fuerte"
-   },
-   "notes": null
-  },
-  {
    "id": "Plasencia|Alma Fuerte Sixto II Hexagon",
    "pages": {
     "mikes": "https://mikescigars.com/plasencia-alma-fuerte-sixto-ii-hexagon-maduro"
-   },
-   "notes": null
-  },
-  {
-   "id": "Plasencia|Alma Fuerte Sixto II Hexagon Maduro",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/plasencia-alma-fuerte"
    },
    "notes": null
   },
@@ -15315,13 +15164,6 @@
    "notes": null
   },
   {
-   "id": "Punch|Double Corona",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/punch"
-   },
-   "notes": null
-  },
-  {
    "id": "Punch|Double Maduro",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/punch-double-maduro"
@@ -15416,13 +15258,6 @@
    "notes": null
   },
   {
-   "id": "Punch|London Club",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/punch"
-   },
-   "notes": null
-  },
-  {
    "id": "Punch|Maduro",
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/punch-maduro"
@@ -15501,7 +15336,8 @@
   {
    "id": "Quesada|Casa Magna",
    "pages": {
-    "mikes": "https://mikescigars.com/casa-magna-oscuro-churchill-gordo"
+    "mikes": "https://mikescigars.com/casa-magna-oscuro-churchill-gordo",
+    "neptune": "https://www.neptunecigar.com/cigar/casa-magna-xv-anniversary"
    },
    "notes": null
   },
@@ -15554,13 +15390,6 @@
    "pages": {
     "mikes": "https://mikescigars.com/casa-magna-maduro-belicoso-box-pressed",
     "neptune": "https://www.neptunecigar.com/cigar/casa-magna-maduro"
-   },
-   "notes": null
-  },
-  {
-   "id": "Quesada|Casa Magna XV Anniversary",
-   "pages": {
-    "neptune": "https://www.neptunecigar.com/cigar/casa-magna-xv-anniversary"
    },
    "notes": null
   },
@@ -16534,13 +16363,6 @@
    "pages": {
     "mikes": "https://mikescigars.com/brands/romeo-y-julieta-crafted-by-aj-fernandez",
     "neptune": "https://www.neptunecigar.com/cigar/romeo-y-julieta-crafted-by-aj-fernandez"
-   },
-   "notes": null
-  },
-  {
-   "id": "Romeo y Julieta|Crafted by AJ Fernandez Gordo Maduro",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/romeo-y-julieta-crafted-by-aj-fernandez"
    },
    "notes": null
   },
@@ -18653,13 +18475,6 @@
    "notes": null
   },
   {
-   "id": "Zino Platinum|Zino Platinum",
-   "pages": {
-    "mikes": "https://mikescigars.com/brands/zino-platinum"
-   },
-   "notes": null
-  },
-  {
    "id": "Zino|Honduras",
    "pages": {
     "mikes": "https://mikescigars.com/brands/zino-honduras",
@@ -18672,6 +18487,41 @@
    "pages": {
     "mikes": "https://mikescigars.com/brands/zino-nicaragua",
     "neptune": "https://www.neptunecigar.com/cigar/zino-nicaragua"
+   },
+   "notes": null
+  },
+  {
+   "id": "Arturo Fuente|Gran Reserva Maduro",
+   "pages": {
+    "mikes": "https://mikescigars.com/arturo-fuente-churchill"
+   },
+   "notes": null
+  },
+  {
+   "id": "Drew Estate|Acid Candela",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/acid-green"
+   },
+   "notes": null
+  },
+  {
+   "id": "Drew Estate|Acid Maduro",
+   "pages": {
+    "mikes": "https://mikescigars.com/acid-blondie-adbl3"
+   },
+   "notes": null
+  },
+  {
+   "id": "Drew Estate|Undercrown Sun Grown",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/liga-undercrown-sun-grown-dojo-dogma"
+   },
+   "notes": null
+  },
+  {
+   "id": "Romeo y Julieta|Crafted by AJ Fernandez Maduro",
+   "pages": {
+    "mikes": "https://mikescigars.com/brands/romeo-y-julieta-crafted-by-aj-fernandez"
    },
    "notes": null
   }

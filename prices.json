@@ -3,16 +3,16 @@
  "generated": "2026-10-18",
  "stores": {
   "neptune": {
-   "name": "neptune",
-   "home": ""
+   "name": "Neptune",
+   "home": "https://www.neptunecigar.com"
   },
   "holts": {
-   "name": "holts",
-   "home": ""
+   "name": "Holt's",
+   "home": "https://www.holts.com"
   },
   "mikes": {
-   "name": "mikes",
-   "home": ""
+   "name": "Mike's",
+   "home": "https://mikescigars.com"
   }
  },
  "note": "perStick basis: single = listed single price; box = box price / count; pack = pack price / pack size. low/median/high are across stores.",
