@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "stores": {
   "neptune": {
    "name": "Neptune",
@@ -10674,9 +10674,9 @@
    ]
   },
   {
-   "id": "Padrón|1926 Serie",
-   "display": "Padrón 1926 Serie",
-   "fetched": "2026-10-17",
+   "id": "Padrón|1926 Serie Maduro",
+   "display": "Padrón 1926 Serie Maduro",
+   "fetched": "2026-10-18",
    "storesTried": [
     "holts",
     "mikes",
@@ -10696,8 +10696,22 @@
      "low": 16.35,
      "median": 16.35,
      "high": 16.35,
-     "stores": 3,
+     "stores": 4,
      "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 35 Maduro",
+       "single": 16.35,
+       "box": 392.4,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 16.35,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
       {
        "store": "smokeinn",
        "name": "Padron 1926 Maduro No. 35",
@@ -10746,10 +10760,38 @@
      "name": "No. 6",
      "size": "4.75 x 50",
      "low": 18.45,
-     "median": 18.45,
-     "high": 18.5,
-     "stores": 3,
+     "median": 18.48,
+     "high": 24.5,
+     "stores": 4,
      "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 6 Maduro",
+       "single": 24.5,
+       "box": 442.8,
+       "count": 24,
+       "pack": null,
+       "packCount": null,
+       "perStick": 24.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "Padron 1926 Serie #6 10",
+       "single": null,
+       "box": null,
+       "count": 24,
+       "pack": 184.5,
+       "packCount": 10,
+       "perStick": 18.45,
+       "basis": "pack",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/padron-1926-serie",
+       "fetched": "2026-10-18"
+      },
       {
        "store": "smokeinn",
        "name": "Padron 1926 Maduro No. 6",
@@ -10777,31 +10819,31 @@
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
        "fetched": "2026-10-17"
-      },
-      {
-       "store": "mikes",
-       "name": "Padron 1926 Serie #6 10",
-       "single": null,
-       "box": null,
-       "count": 24,
-       "pack": 184.5,
-       "packCount": 10,
-       "perStick": 18.45,
-       "basis": "pack",
-       "inStock": true,
-       "url": "https://mikescigars.com/brands/padron-1926-serie",
-       "fetched": "2026-10-10"
       }
      ]
     },
     {
      "name": "Short Gordo",
      "size": "5.25 x 56",
-     "low": 10.21,
+     "low": 23.52,
      "median": 24.5,
      "high": 24.5,
      "stores": 4,
      "quotes": [
+      {
+       "store": "mikes",
+       "name": "Padron 1926 Serie #9",
+       "single": null,
+       "box": 588.0,
+       "count": 25,
+       "pack": null,
+       "packCount": null,
+       "perStick": 23.52,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/brands/padron-1926-serie",
+       "fetched": "2026-10-18"
+      },
       {
        "store": "smokeinn",
        "name": "Padron 1926 Maduro No. 9",
@@ -10843,48 +10885,34 @@
        "inStock": true,
        "url": "https://www.neptunecigar.com/cigar/padron-1926",
        "fetched": "2026-10-17"
-      },
-      {
-       "store": "mikes",
-       "name": "Padron 1926 Serie #9 10",
-       "single": null,
-       "box": 245.0,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 10.21,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/brands/padron-1926-serie?p=2",
-       "fetched": "2026-10-10"
       }
      ]
     },
     {
-     "name": "#47 Maduro",
-     "size": "5.5 x 50",
+     "name": "Robusto",
+     "size": "5.5 x 52",
      "low": 20.45,
-     "median": 20.45,
-     "high": 20.45,
-     "stores": 3,
+     "median": 22.45,
+     "high": 25.5,
+     "stores": 7,
      "quotes": [
       {
-       "store": "holts",
-       "name": "#47 Maduro",
-       "single": 20.45,
-       "box": 490.8,
-       "count": 24,
-       "pack": 102.25,
-       "packCount": 5,
-       "perStick": 20.45,
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 90 Tubo Maduro",
+       "single": 25.5,
+       "box": 255.0,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 25.5,
        "basis": "single",
        "inStock": true,
-       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-10-17"
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
       },
       {
        "store": "neptune",
-       "name": "Padron 1926 Serie No. 47 Natural",
+       "name": "Padron 1926 Serie No. 47 Maduro",
        "single": 20.45,
        "box": 490.8,
        "count": 24,
@@ -10893,8 +10921,22 @@
        "perStick": 20.45,
        "basis": "single",
        "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926",
-       "fetched": "2026-10-17"
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
+      {
+       "store": "mikes",
+       "name": "5 1/2 x 52",
+       "single": null,
+       "box": 224.5,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 22.45,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://mikescigars.com/padron-1926-serie-2-10-belicoso-pd262103",
+       "fetched": "2026-10-18"
       },
       {
        "store": "mikes",
@@ -10908,18 +10950,8 @@
        "basis": "box",
        "inStock": true,
        "url": "https://mikescigars.com/padron-1926-serie-no-47-pd26473",
-       "fetched": "2026-10-10"
-      }
-     ]
-    },
-    {
-     "name": "Robusto",
-     "size": "5.5 x 52",
-     "low": 22.45,
-     "median": 22.45,
-     "high": 25.5,
-     "stores": 4,
-     "quotes": [
+       "fetched": "2026-10-18"
+      },
       {
        "store": "smokeinn",
        "name": "Padron 1926 Maduro No. 2",
@@ -10936,6 +10968,20 @@
       },
       {
        "store": "holts",
+       "name": "#47 Maduro",
+       "single": 20.45,
+       "box": 490.8,
+       "count": 24,
+       "pack": 102.25,
+       "packCount": 5,
+       "perStick": 20.45,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-10-17"
+      },
+      {
+       "store": "holts",
        "name": "#2 Maduro (Torpedo)",
        "single": 22.45,
        "box": 538.8,
@@ -10947,45 +10993,31 @@
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
        "fetched": "2026-10-17"
-      },
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 90 Tubo Natural",
-       "single": 25.5,
-       "box": 255.0,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 25.5,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926",
-       "fetched": "2026-10-17"
-      },
-      {
-       "store": "mikes",
-       "name": "5 1/2 x 52",
-       "single": null,
-       "box": 224.5,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 22.45,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/padron-1926-serie-2-10-belicoso",
-       "fetched": "2026-10-10"
       }
      ]
     },
     {
-     "name": "Gordo",
+     "name": "5.5 x 60",
      "size": "5.5 x 60",
-     "low": 18.45,
+     "low": 26.95,
      "median": 26.95,
      "high": 26.95,
      "stores": 3,
      "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 48 Maduro",
+       "single": 26.95,
+       "box": 269.5,
+       "count": 10,
+       "pack": null,
+       "packCount": null,
+       "perStick": 26.95,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
       {
        "store": "holts",
        "name": "#48 Maduro",
@@ -10998,20 +11030,6 @@
        "basis": "single",
        "inStock": true,
        "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-10-17"
-      },
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 48 Natural",
-       "single": 18.45,
-       "box": 442.8,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 18.45,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926",
        "fetched": "2026-10-17"
       },
       {
@@ -11031,13 +11049,27 @@
      ]
     },
     {
-     "name": "40th Anniversary",
+     "name": "6.5 x 54",
      "size": "6.5 x 54",
      "low": 31.4,
-     "median": 68.95,
+     "median": 32.0,
      "high": 106.5,
-     "stores": 2,
+     "stores": 3,
      "quotes": [
+      {
+       "store": "neptune",
+       "name": "Padron 1926 Serie No. 40 Maduro",
+       "single": 32.0,
+       "box": 640.0,
+       "count": 20,
+       "pack": null,
+       "packCount": null,
+       "perStick": 32.0,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+       "fetched": "2026-10-18"
+      },
       {
        "store": "smokeinn",
        "name": "Padron 1926 Maduro 40th Anniversary",
@@ -11071,301 +11103,10 @@
     {
      "name": "80 Years",
      "size": "6.75 x 54",
-     "low": 26.5,
+     "low": 22.45,
      "median": 26.5,
      "high": 26.5,
      "stores": 4,
-     "quotes": [
-      {
-       "store": "smokeinn",
-       "name": "Padron 1926 Maduro No. 1",
-       "single": null,
-       "box": 636.0,
-       "count": 24,
-       "pack": 132.5,
-       "packCount": 5,
-       "perStick": 26.5,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro",
-       "fetched": "2026-10-17"
-      },
-      {
-       "store": "holts",
-       "name": "#1 Maduro",
-       "single": 26.5,
-       "box": 636.0,
-       "count": 24,
-       "pack": 132.5,
-       "packCount": 5,
-       "perStick": 26.5,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-       "fetched": "2026-10-17"
-      },
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 1 Natural",
-       "single": 26.5,
-       "box": 636.0,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 26.5,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926",
-       "fetched": "2026-10-17"
-      },
-      {
-       "store": "mikes",
-       "name": "6 3/4 x 54",
-       "single": null,
-       "box": 265.0,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 26.5,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/padron-1926-serie-1-10-pd261103",
-       "fetched": "2026-10-10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "Padrón|1926 Serie Maduro",
-   "display": "Padrón 1926 Serie Maduro",
-   "fetched": "2026-10-18",
-   "storesTried": [
-    "mikes",
-    "neptune"
-   ],
-   "storesWithPrices": [
-    "mikes",
-    "neptune"
-   ],
-   "vitolas": [
-    {
-     "name": "4 x 48",
-     "size": "4 x 48",
-     "low": 16.35,
-     "median": 16.35,
-     "high": 16.35,
-     "stores": 1,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 35 Maduro",
-       "single": 16.35,
-       "box": 392.4,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 16.35,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "Padron 1926 Serie #6 10",
-     "size": "4.75 x 50",
-     "low": 18.45,
-     "median": 21.48,
-     "high": 24.5,
-     "stores": 2,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 6 Maduro",
-       "single": 24.5,
-       "box": 442.8,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 24.5,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      },
-      {
-       "store": "mikes",
-       "name": "Padron 1926 Serie #6 10",
-       "single": null,
-       "box": null,
-       "count": 24,
-       "pack": 184.5,
-       "packCount": 10,
-       "perStick": 18.45,
-       "basis": "pack",
-       "inStock": true,
-       "url": "https://mikescigars.com/brands/padron-1926-serie",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "Short Gordo",
-     "size": "5.25 x 56",
-     "low": 23.52,
-     "median": 23.52,
-     "high": 23.52,
-     "stores": 1,
-     "quotes": [
-      {
-       "store": "mikes",
-       "name": "Padron 1926 Serie #9",
-       "single": null,
-       "box": 588.0,
-       "count": 25,
-       "pack": null,
-       "packCount": null,
-       "perStick": 23.52,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/brands/padron-1926-serie",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "Robusto",
-     "size": "5.5 x 50",
-     "low": 20.45,
-     "median": 20.45,
-     "high": 20.45,
-     "stores": 2,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 47 Maduro",
-       "single": 20.45,
-       "box": 490.8,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 20.45,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      },
-      {
-       "store": "mikes",
-       "name": "No 47",
-       "single": null,
-       "box": 490.8,
-       "count": 24,
-       "pack": null,
-       "packCount": null,
-       "perStick": 20.45,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/padron-1926-serie-no-47-pd26473",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "Padron 1926 Serie No. 90 Tubo Maduro",
-     "size": "5.5 x 52",
-     "low": 22.45,
-     "median": 23.98,
-     "high": 25.5,
-     "stores": 2,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 90 Tubo Maduro",
-       "single": 25.5,
-       "box": 255.0,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 25.5,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      },
-      {
-       "store": "mikes",
-       "name": "5 1/2 x 52",
-       "single": null,
-       "box": 224.5,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 22.45,
-       "basis": "box",
-       "inStock": true,
-       "url": "https://mikescigars.com/padron-1926-serie-2-10-belicoso-pd262103",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "5.5 x 60",
-     "size": "5.5 x 60",
-     "low": 26.95,
-     "median": 26.95,
-     "high": 26.95,
-     "stores": 1,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 48 Maduro",
-       "single": 26.95,
-       "box": 269.5,
-       "count": 10,
-       "pack": null,
-       "packCount": null,
-       "perStick": 26.95,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "6.5 x 54",
-     "size": "6.5 x 54",
-     "low": 32.0,
-     "median": 32.0,
-     "high": 32.0,
-     "stores": 1,
-     "quotes": [
-      {
-       "store": "neptune",
-       "name": "Padron 1926 Serie No. 40 Maduro",
-       "single": 32.0,
-       "box": 640.0,
-       "count": 20,
-       "pack": null,
-       "packCount": null,
-       "perStick": 32.0,
-       "basis": "single",
-       "inStock": true,
-       "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
-       "fetched": "2026-10-18"
-      }
-     ]
-    },
-    {
-     "name": "80 Years",
-     "size": "6.75 x 54",
-     "low": 22.45,
-     "median": 24.48,
-     "high": 26.5,
-     "stores": 2,
      "quotes": [
       {
        "store": "neptune",
@@ -11394,6 +11135,34 @@
        "inStock": true,
        "url": "https://mikescigars.com/padron-1926-serie-1-10-pd261103",
        "fetched": "2026-10-18"
+      },
+      {
+       "store": "smokeinn",
+       "name": "Padron 1926 Maduro No. 1",
+       "single": null,
+       "box": 636.0,
+       "count": 24,
+       "pack": 132.5,
+       "packCount": 5,
+       "perStick": 26.5,
+       "basis": "box",
+       "inStock": true,
+       "url": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro",
+       "fetched": "2026-10-17"
+      },
+      {
+       "store": "holts",
+       "name": "#1 Maduro",
+       "single": 26.5,
+       "box": 636.0,
+       "count": 24,
+       "pack": 132.5,
+       "packCount": 5,
+       "perStick": 26.5,
+       "basis": "single",
+       "inStock": true,
+       "url": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
+       "fetched": "2026-10-17"
       }
      ]
     }

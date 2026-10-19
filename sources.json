@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "stores": {
   "holts": {
    "name": "Holt's",
@@ -125,10 +125,9 @@
   {
    "id": "Padrón|1926 Serie",
    "pages": {
-    "neptune": "https://www.neptunecigar.com/cigar/padron-1926",
     "holts": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
-    "smokeinn": "https://www.smokeinn.com/cigars-padron-anniversary-1926-maduro/",
-    "mikes": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie"
+    "mikes": "https://mikescigars.com/cigars/brands/padron/padron-1926-serie",
+    "neptune": "https://www.neptunecigar.com/cigar/padron-1926"
    },
    "notes": "Neptune Natural at /cigar/padron-1926; Holt's page covers both wrappers; Mike's line page is paginated."
   },
@@ -14299,6 +14298,7 @@
   {
    "id": "Padrón|1926 Serie Maduro",
    "pages": {
+    "holts": "https://www.holts.com/cigars/all-cigar-brands/padron-1926-series.html",
     "mikes": "https://mikescigars.com/brands/padron-1926-serie",
     "neptune": "https://www.neptunecigar.com/cigar/padron-1926-maduro"
    },

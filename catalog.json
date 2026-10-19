@@ -7990,59 +7990,6 @@
  },
  {
   "brand": "Padrón",
-  "line": "1926 Serie",
-  "origin": "Nicaragua",
-  "wrapper": "Nicaraguan (Natural or Maduro, 5-yr aged)",
-  "binder": "Nicaraguan",
-  "filler": "Nicaraguan",
-  "strength": "Full",
-  "priceLow": 17,
-  "priceHigh": 36,
-  "vitolas": [
-   {
-    "name": "80 Years",
-    "size": "6.75 x 54"
-   },
-   {
-    "name": "Robusto",
-    "size": "5.5 x 52"
-   },
-   {
-    "name": "No. 6",
-    "size": "4.75 x 50"
-   },
-   {
-    "name": "Short Gordo",
-    "size": "5.25 x 56"
-   },
-   {
-    "name": "No. 35",
-    "size": "4 x 48"
-   },
-   {
-    "name": "Gordo",
-    "size": "5.5 x 60"
-   },
-   {
-    "name": "40th Anniversary",
-    "size": "6.5 x 54"
-   }
-  ],
-  "aliases": [
-   "1926 Anniversary",
-   "1926 Series",
-   "Padrón 1926 Serie #9",
-   "Padrón 1926 Serie #1",
-   "Padrón 1926 Serie #2",
-   "Padrón 1926 Serie #6",
-   "Padrón 1926 Serie No 47",
-   "Padrón 1926 Serie No 48",
-   "Padrón 1926 Series",
-   "Padrón 1926 Series #90"
-  ]
- },
- {
-  "brand": "Padrón",
   "line": "1964 Anniversary Series",
   "origin": "Nicaragua",
   "wrapper": "Nicaraguan (Natural or Maduro, 4-yr aged)",
@@ -71647,8 +71594,8 @@
   "line": "1926 Serie Maduro",
   "origin": "Nicaragua",
   "wrapper": "Nicaragua",
-  "binder": "",
-  "filler": "",
+  "binder": "Nicaraguan",
+  "filler": "Nicaraguan",
   "strength": "Full",
   "priceLow": 0,
   "priceHigh": 0,
@@ -71666,7 +71613,7 @@
     "size": "5.25 x 56"
    },
    {
-    "name": "4 x 48",
+    "name": "No. 35",
     "size": "4 x 48"
    },
    {
@@ -71676,9 +71623,19 @@
    {
     "name": "5.5 x 60",
     "size": "5.5 x 60"
+   },
+   {
+    "name": "Robusto",
+    "size": "5.5 x 52"
+   },
+   {
+    "name": "No. 6",
+    "size": "4.75 x 50"
    }
   ],
-  "source": "mikes"
+  "aliases": [
+   "Padrón 1926 Serie"
+  ]
  },
  {
   "brand": "Padrón",
