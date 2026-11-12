@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "E.P. Carrillo|Encore",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/ep-carrillo-encore",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "El Futuro",
+    "size": "5 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 217.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Majestic",
+    "size": "5.38 x 52",
+    "single": 12.75,
+    "fivePack": null,
+    "box": 228.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Celestial",
+    "size": "6.12 x 50",
+    "single": 13.0,
+    "fivePack": null,
+    "box": 219.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Valientes",
+    "size": "6.12 x 52",
+    "single": 13.45,
+    "fivePack": null,
+    "box": 229.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "El Primero",
+    "size": "6.88 x 54",
+    "single": 13.3,
+    "fivePack": null,
+    "box": 234.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Foundation|Olmec",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/foundation-olmec-maduro",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": 14.4,
+    "fivePack": null,
+    "box": 163.95,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.5 x 48",
+    "single": 13.45,
+    "fivePack": null,
+    "box": 152.95,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 15.35,
+    "fivePack": null,
+    "box": 174.95,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Grande",
+    "size": "6 x 60",
+    "single": 16.5,
+    "fivePack": null,
+    "box": 187.95,
+    "count": 12,
+    "inStock": false
+   },
+   {
+    "vitola": "DB Corona",
+    "size": "7 x 54",
+    "single": 17.0,
+    "fivePack": null,
+    "box": 192.95,
+    "count": 12,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Davidoff|Winston Churchill The Late Hour",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-winston-churchill-late-hour",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Petit Panetela",
+    "size": "4.5 x 38",
+    "single": null,
+    "fivePack": 53.5,
+    "box": null,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": 27.2,
+    "fivePack": 108.8,
+    "box": 544.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 29.6,
+    "fivePack": 118.4,
+    "box": 592.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": 31.2,
+    "fivePack": 124.8,
+    "box": 624.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "My Father|Le Bijou 1922",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-le-bijou-1922",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "100 Anos Limited Edition Corona Extra",
+    "size": "5.5 x 48",
+    "single": 13.0,
+    "fivePack": null,
+    "box": 286.0,
+    "count": 22,
+    "inStock": false
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5.62 x 55",
+    "single": 7.6,
+    "fivePack": null,
+    "box": 214.2,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 11.7,
+    "fivePack": null,
+    "box": 220.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.12 x 52",
+    "single": 12.1,
+    "fivePack": null,
+    "box": 228.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "100 Anos Limited Edition Corona Especial",
+    "size": "6.5 x 44",
+    "single": 13.0,
+    "fivePack": null,
+    "box": 286.0,
+    "count": 22,
+    "inStock": false
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 50",
+    "single": 12.55,
+    "fivePack": null,
+    "box": 237.25,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-the-judge",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Grand Robusto",
+    "size": "5 x 60",
+    "single": 13.3,
+    "fivePack": null,
+    "box": 239.4,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.62 x 46",
+    "single": 11.05,
+    "fivePack": null,
+    "box": 208.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 56",
+    "single": 12.35,
+    "fivePack": null,
+    "box": 233.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/ashton-vsg",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Enchantment",
+    "size": "4.25 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 351.45,
+    "count": 22,
+    "inStock": true
+   },
+   {
+    "vitola": "Tres Mystique",
+    "size": "4.38 x 44",
+    "single": 15.0,
+    "fivePack": null,
+    "box": 324.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Pegasus",
+    "size": "5 x 54",
+    "single": 16.8,
+    "fivePack": null,
+    "box": 302.4,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso No.1",
+    "size": "5.25 x 52",
+    "single": 15.75,
+    "fivePack": null,
+    "box": 351.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto Especial TAA",
+    "size": "5.5 x 50",
+    "single": 18.0,
+    "fivePack": null,
+    "box": 162.0,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Eclipse",
+    "size": "6 x 52",
+    "single": 20.0,
+    "fivePack": null,
+    "box": 432.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Wizard",
+    "size": "6 x 56",
+    "single": 19.0,
+    "fivePack": null,
+    "box": 632.7,
+    "count": 37,
+    "inStock": true
+   },
+   {
+    "vitola": "Illusion",
+    "size": "6.5 x 44",
+    "single": 15.85,
+    "fivePack": null,
+    "box": 342.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 55",
+    "single": 18.75,
+    "fivePack": null,
+    "box": 405.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Sorcerer",
+    "size": "7 x 49",
+    "single": 17.25,
+    "fivePack": null,
+    "box": 372.6,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Drew Estate|Liga Privada T52",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/liga-privada-t52",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Coronets",
+    "size": "4 x 32",
+    "single": null,
+    "fivePack": 22.0,
+    "box": 105.0,
+    "count": 50,
+    "inStock": true,
+    "packCount": 10
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.12 x 60",
+    "single": 19.95,
+    "fivePack": null,
+    "box": 227.43,
+    "count": 12,
+    "inStock": false
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": 17.25,
+    "fivePack": 65.6,
+    "box": 393.6,
+    "count": 24,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": 16.25,
+    "fivePack": null,
+    "box": 370.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 18.25,
+    "fivePack": 69.4,
+    "box": 416.4,
+    "count": 24,
+    "inStock": true,
+    "packCount": 4
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/plasencia-reserva-original",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Nestico",
+    "size": "4.5 x 36",
+    "single": null,
+    "fivePack": null,
+    "box": 134.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "4.75 x 52",
+    "single": 10.45,
+    "fivePack": null,
+    "box": 98.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Corta",
+    "size": "5 x 44",
+    "single": 7.6,
+    "fivePack": null,
+    "box": 143.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Cortez",
+    "size": "5.75 x 56",
+    "single": 12.85,
+    "fivePack": null,
+    "box": 169.95,
+    "count": 14,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": 12.35,
+    "fivePack": null,
+    "box": 163.67,
+    "count": 14,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona",
+    "size": "6.25 x 44",
+    "single": null,
+    "fivePack": null,
+    "box": 86.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": null,
+    "box": 102.95,
+    "count": 10,
+    "inStock": false
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/mi-querida",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Gordita",
+    "size": "4 x 48",
+    "single": 9.6,
+    "fivePack": null,
+    "box": 181.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Ancho Corto",
+    "size": "5 x 52",
+    "single": 12.3,
+    "fivePack": null,
+    "box": 232.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Fino Largo",
+    "size": "6 x 46",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 249.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Ancho Largo",
+    "size": "6 x 52",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 249.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Muy Gordo Grande",
+    "size": "6 x 56",
+    "single": 12.4,
+    "fivePack": null,
+    "box": 233.75,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Gorila Gordo",
+    "size": "6 x 60",
+    "single": 14.1,
+    "fivePack": null,
+    "box": 266.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Gran Bufalo",
+    "size": "7 x 64",
+    "single": 15.1,
+    "fivePack": null,
+    "box": 142.38,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Crux|Limitada",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/crux-limitada",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "PB5",
+    "size": "5 x 50",
+    "single": 15.7,
+    "fivePack": 73.95,
+    "box": 295.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (Line page skipped (navigation-only every run). Fallback per-vitola page https://). Not re-verified today."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/the-tabernacle",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": 13.25,
+    "fivePack": null,
+    "box": 301.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "David",
+    "size": "5 x 54",
+    "single": 14.15,
+    "fivePack": null,
+    "box": 334.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Goliath",
+    "size": "5 x 58",
+    "single": 16.1,
+    "fivePack": null,
+    "box": 371.95,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Corona",
+    "size": "5.25 x 46",
+    "single": 11.6,
+    "fivePack": null,
+    "box": 262.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 13.25,
+    "fivePack": null,
+    "box": 325.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Lancero",
+    "size": "7 x 40",
+    "single": 15.3,
+    "fivePack": null,
+    "box": 347.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Doble Corona",
+    "size": "7 x 54",
+    "single": 14.85,
+    "fivePack": null,
+    "box": 337.95,
+    "count": 24,
+    "inStock": false
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Davidoff|Millennium",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-millennium-blend-series",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Davidoff Millennium Short Robusto",
+    "size": "4.25 x 52",
+    "single": 26.4,
+    "fivePack": 105.6,
+    "box": 528.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Millennium Petite Corona",
+    "size": "4.5 x 41",
+    "single": 19.7,
+    "fivePack": 98.5,
+    "box": 492.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Davidoff Millennium Robusto Tubos",
+    "size": "5.25 x 50",
+    "single": 31.5,
+    "fivePack": 94.5,
+    "box": 630.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 3
+   },
+   {
+    "vitola": "Davidoff Millennium Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 139.6,
+    "box": 349.0,
+    "count": 10,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Millennium Piramide",
+    "size": "6.12 x 52",
+    "single": 36.3,
+    "fivePack": 145.2,
+    "box": 363.0,
+    "count": 10,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Millennium Lancero Limited Edition 2023",
+    "size": "7 x 40",
+    "single": null,
+    "fivePack": null,
+    "box": 290.0,
+    "count": 10,
+    "inStock": false
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/new-world-dorado",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": 10.35,
+    "fivePack": null,
+    "box": 101.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": 11.9,
+    "fivePack": null,
+    "box": 116.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 11.35,
+    "fivePack": null,
+    "box": 111.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": 12.1,
+    "fivePack": null,
+    "box": 118.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Padron 1964 Anniversary Principe Natural",
+    "size": "4.5 x 46",
+    "single": 14.05,
+    "fivePack": null,
+    "box": 351.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Soberano Natural",
+    "size": "5 x 52",
+    "single": 15.4,
+    "fivePack": null,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary TAA Toro Natural",
+    "size": "5 x 56",
+    "single": 17.8,
+    "fivePack": null,
+    "box": 445.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Exclusivo Natural",
+    "size": "5.5 x 50",
+    "single": 16.9,
+    "fivePack": null,
+    "box": 439.4,
+    "count": 26,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Corona Natural",
+    "size": "6 x 42",
+    "single": 14.9,
+    "fivePack": null,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Presidente Natural",
+    "size": "6 x 50",
+    "single": 21.4,
+    "fivePack": null,
+    "box": 321.0,
+    "count": 15,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Torpedo Natural",
+    "size": "6 x 52",
+    "single": 21.15,
+    "fivePack": null,
+    "box": 423.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Imperial Natural",
+    "size": "6 x 54",
+    "single": 20.15,
+    "fivePack": null,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary No. 4 Natural",
+    "size": "6.5 x 60",
+    "single": 25.6,
+    "fivePack": null,
+    "box": 512.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Pyramide Natural",
+    "size": "6.88 x 52",
+    "single": 19.8,
+    "fivePack": null,
+    "box": 495.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary Diplomatico Natural",
+    "size": "7 x 50",
+    "single": 18.7,
+    "fivePack": null,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Padron 1964 Anniversary \"A\" Natural",
+    "size": "8.25 x 50",
+    "single": 38.95,
+    "fivePack": null,
+    "box": 389.5,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only. Tried offsets 0, 20000, 38000 and 75000; the fetc). Not re-verified today."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-signature-series",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Davidoff Signature Exquisitos",
+    "size": "3.62 x 22",
+    "single": null,
+    "fivePack": null,
+    "box": 98.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Davidoff Signature Ambassadrice",
+    "size": "4.5 x 26",
+    "single": null,
+    "fivePack": null,
+    "box": 305.0,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Davidoff Signature Petite Corona",
+    "size": "4.5 x 41",
+    "single": 15.9,
+    "fivePack": 79.5,
+    "box": 397.5,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Davidoff Signature 1000",
+    "size": "4.62 x 34",
+    "single": 15.4,
+    "fivePack": 77.0,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Davidoff Signature 2000 Tubos",
+    "size": "5 x 43",
+    "single": 19.4,
+    "fivePack": 77.6,
+    "box": 388.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Signature 6000",
+    "size": "5 x 48",
+    "single": 24.8,
+    "fivePack": 99.2,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Signature No. 2 Tubos",
+    "size": "6 x 38",
+    "single": 25.7,
+    "fivePack": 102.8,
+    "box": 514.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Signature Toro",
+    "size": "6 x 54",
+    "single": 28.7,
+    "fivePack": 114.8,
+    "box": 717.5,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Signature No. 1 LE 2023",
+    "size": "7.5 x 39",
+    "single": null,
+    "fivePack": null,
+    "box": 280.0,
+    "count": 10,
+    "inStock": false
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Davidoff|Aniversario",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-aniversario-series",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Davidoff Aniversario Entreacto",
+    "size": "3.5 x 43",
+    "single": null,
+    "fivePack": 57.6,
+    "box": 288.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Aniversario Special R Tubos",
+    "size": "4.88 x 50",
+    "single": null,
+    "fivePack": 86.4,
+    "box": 576.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 3
+   },
+   {
+    "vitola": "Davidoff Aniversario Short Perfecto",
+    "size": "4.88 x 52",
+    "single": 24.5,
+    "fivePack": 98.0,
+    "box": 612.5,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Aniversario No. 3 Tubos",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 107.1,
+    "box": 714.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 3
+   },
+   {
+    "vitola": "Davidoff Aniversario Double R",
+    "size": "7.5 x 50",
+    "single": 46.8,
+    "fivePack": 187.2,
+    "box": 1170.0,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Davidoff Aniversario No. 1 Limited Edition 2023 Double Corona",
+    "size": "8.62 x 48",
+    "single": 64.0,
+    "fivePack": null,
+    "box": 640.0,
+    "count": 10,
+    "inStock": false
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "My Father|Connecticut",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-connecticut",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 52",
+    "single": 8.8,
+    "fivePack": null,
+    "box": 166.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 9.5,
+    "fivePack": null,
+    "box": 179.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Gordo",
+    "size": "6 x 60",
+    "single": 10.45,
+    "fivePack": null,
+    "box": 198.0,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida Triqui Traca",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/mi-querida-triqui-traca",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "No. 448",
+    "size": "4 x 48",
+    "single": 9.45,
+    "fivePack": null,
+    "box": 167.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 552",
+    "size": "5 x 52",
+    "single": 12.3,
+    "fivePack": null,
+    "box": 232.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 648",
+    "size": "6 x 48",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 249.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 652",
+    "size": "6 x 52",
+    "single": 13.2,
+    "fivePack": null,
+    "box": 249.05,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 764",
+    "size": "7 x 64",
+    "single": 15.1,
+    "fivePack": null,
+    "box": 142.38,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Herrera Estelí|Brazilian Maduro",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/herrera-esteli-brazilian-maduro",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Robusto Grande",
+    "size": "5.25 x 52",
+    "single": 9.7,
+    "fivePack": null,
+    "box": 220.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Lonsdale Deluxe",
+    "size": "6 x 44",
+    "single": 10.1,
+    "fivePack": null,
+    "box": 230.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Especial",
+    "size": "6 x 52",
+    "single": 10.55,
+    "fivePack": null,
+    "box": 241.0,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Tatuaje|Black Label",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/tatuaje-black-label",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Tatuaje Black Petite Corona",
+    "size": "4 x 40",
+    "single": 4.55,
+    "fivePack": null,
+    "box": 212.95,
+    "count": 50,
+    "inStock": true
+   },
+   {
+    "vitola": "Tatuaje Black Petite Robusto",
+    "size": "4 x 50",
+    "single": 8.5,
+    "fivePack": 152.95,
+    "box": null,
+    "count": null,
+    "inStock": true,
+    "packCount": 20
+   },
+   {
+    "vitola": "Private Reserve Robusto",
+    "size": "5 x 50",
+    "single": 11.4,
+    "fivePack": null,
+    "box": 216.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Tatuaje Black Britanicas Extra",
+    "size": "5.38 x 48",
+    "single": null,
+    "fivePack": null,
+    "box": 197.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Tatuaje Black Private Reserve Corona Gorda",
+    "size": "5.62 x 46",
+    "single": 9.0,
+    "fivePack": null,
+    "box": 169.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Tatuaje Black Petite Lancero",
+    "size": "6 x 38",
+    "single": 8.5,
+    "fivePack": 152.95,
+    "box": null,
+    "count": null,
+    "inStock": false,
+    "packCount": 20
+   },
+   {
+    "vitola": "Tatuaje Black Private Reserve Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": null,
+    "box": 197.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Private Reserve Torpedo",
+    "size": "6.12 x 52",
+    "single": 12.35,
+    "fivePack": null,
+    "box": 234.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Tatuaje Black Cazadores",
+    "size": "6.38 x 43",
+    "single": 10.0,
+    "fivePack": null,
+    "box": 179.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Tatuaje Black Gran Toro",
+    "size": "6.5 x 52",
+    "single": 11.4,
+    "fivePack": null,
+    "box": 215.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "My Father|Blue",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-blue",
+  "fetched": "2026-10-17",
+  "vitolas": [
+   {
+    "vitola": "Petit Robusto",
+    "size": "4.5 x 50",
+    "single": 8.15,
+    "fivePack": null,
+    "box": 161.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 52",
+    "single": 9.45,
+    "fivePack": null,
+    "box": 188.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": 10.85,
+    "fivePack": null,
+    "box": 215.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Gordo",
+    "size": "6 x 60",
+    "single": 11.75,
+    "fivePack": null,
+    "box": 233.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-17 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "Arturo Fuente|Añejo Reserva",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+  "fetched": "2026-10-18",
+  "vitolas": [
+   {
+    "vitola": "1",
+    "size": "4 x 50",
+    "single": 28.8,
+    "fivePack": null,
+    "box": 680.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2",
+    "size": "5 x 52",
+    "single": 36.0,
+    "fivePack": null,
+    "box": 850.0,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "3",
+    "size": "6 x 54",
+    "single": 45.0,
+    "fivePack": null,
+    "box": 1062.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "4",
+    "size": "6.75 x 56",
+    "single": 49.5,
+    "fivePack": null,
+    "box": 1168.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "5",
+    "size": "7.5 x 58",
+    "single": 51.3,
+    "fivePack": null,
+    "box": 1211.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "6",
+    "size": "9 x 50",
+    "single": 51.3,
+    "fivePack": null,
+    "box": 1211.25,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-18 index (prices v11): the 2026-11-01 fetch of the store page failed (fetch failed: navigation only (page text truncated at ~75-79k chars inside the b). Not re-verified today."
+ },
+ {
+  "id": "898 Collection|898 Collection",
+  "store": "mikes",
+  "url": "https://mikescigars.com/898-collection-short-royale",
+  "fetched": "2026-10-04",
+  "vitolas": [
+   {
+    "vitola": "Short Royale",
+    "size": "3.88 x 55",
+    "single": 11.1,
+    "fivePack": null,
+    "box": 173.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona",
+    "size": "5.5 x 42",
+    "single": 8.1,
+    "fivePack": 29.5,
+    "box": 132.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 49",
+    "single": 9.65,
+    "fivePack": 34.95,
+    "box": 157.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordo",
+    "size": "6 x 56",
+    "single": 14.6,
+    "fivePack": null,
+    "box": 95.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6.25 x 52",
+    "single": 9.9,
+    "fivePack": 35.95,
+    "box": 161.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Lonsdale",
+    "size": "6.5 x 42",
+    "single": 9.75,
+    "fivePack": 34.95,
+    "box": 158.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7.5 x 49",
+    "single": 10.4,
+    "fivePack": 37.5,
+    "box": 169.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Carried forward from the 2026-10-04 index: this line is in prices v11 (added by the workbench) but not in wanted.json, so the monthly task did not re-fetch it."
+ }
+]

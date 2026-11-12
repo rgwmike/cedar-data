@@ -1,0 +1,1046 @@
+[
+ {
+  "id": "E.P. Carrillo|Encore",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Majestic Robusto",
+    "size": "5.38 x 52",
+    "single": null,
+    "fivePack": 64.75,
+    "box": 245.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Celestial Toro",
+    "size": "6.12 x 50",
+    "single": null,
+    "fivePack": 66.0,
+    "box": 250.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "El Primero Churchill",
+    "size": "6.88 x 54",
+    "single": null,
+    "fivePack": 67.5,
+    "box": 256.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Valientes Torpedo",
+    "size": "6.12 x 52",
+    "single": null,
+    "fivePack": 68.5,
+    "box": 259.95,
+    "count": 20,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page (tiles titled 'Casa Carrillo Encore'): four vitolas, box of 20 + 5-pack tiles merged, no singles. Only El Primero in stock. Smoke Inn price shown below a 'Retail' strike price (standard 10%/5% off display, not a sale). Black and 10th Anniversary not listed. Prices unchanged vs 2026-10-19."
+ },
+ {
+  "id": "Foundation|Olmec",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.5 x 48",
+    "single": null,
+    "fivePack": 64.5,
+    "box": 143.99,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": null,
+    "fivePack": 69.5,
+    "box": 154.95,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 74.5,
+    "box": 165.95,
+    "count": 12,
+    "inStock": false
+   }
+  ],
+  "notes": "Olmec Maduro line page: three vitolas with box-of-12 and 5-pack prices, no singles; Toro out of stock. Double Corona and Grande not listed. Only rows named Olmec recorded (Tabernacle rows that leaked into this line on 2026-10-19 are not repeated). Unchanged vs Oct 1."
+ },
+ {
+  "id": "Arturo Fuente|OpusX Oro Oscuro",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Perfecxion No. 4",
+    "size": "5.12 x 43",
+    "single": null,
+    "fivePack": 125.0,
+    "box": 1050.0,
+    "count": 42,
+    "inStock": false
+   }
+  ],
+  "notes": "Page lists only 'Opus X Oro Oscuro Perfection #4' (box of 42 $1050, 5-pack $125), both out of stock. Store size 5 1/8 x 43 = catalog Petit Corona 5.12 x 43 slot. No Perfecxion X / Robusto / other OXO vitolas offered. Unchanged."
+ },
+ {
+  "id": "Davidoff|Winston Churchill The Late Hour",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": 108.8,
+    "box": 544.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 118.4,
+    "box": 592.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": 124.8,
+    "box": 624.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   }
+  ],
+  "notes": "Line page: three vitolas, each as box of 20 + 4-pack tiles (merged). Box tiles are back this run (Oct 1 fetch saw only 4-packs); box prices $544/$592/$624 match the Sept run. All 'Add to cart'. Petit Panetela / Belicoso not listed. 4-pack prices unchanged."
+ },
+ {
+  "id": "My Father|Le Bijou 1922",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Petite Robusto",
+    "size": "4.5 x 50",
+    "single": null,
+    "fivePack": 39.0,
+    "box": 143.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Grand Robusto",
+    "size": "5.62 x 55",
+    "single": null,
+    "fivePack": 57.5,
+    "box": 214.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 59.5,
+    "box": 221.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo Box Press",
+    "size": "6.12 x 52",
+    "single": null,
+    "fivePack": 61.5,
+    "box": 229.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 50",
+    "single": null,
+    "fivePack": 64.0,
+    "box": 237.5,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: five vitolas with named tiles this run, box + 5-pack merged, no singles, all in stock. Every box is 'Box: 20' today (Oct 1 run read Box of 23 for four vitolas); verified on the Torpedo Box Press product page (Box: 20, $229.50). Box prices are therefore ~13% below the Oct 1 figures but equal to the Sept box-of-20 prices; 5-packs unchanged. Store Grand Robusto 5 x 58 recorded at catalog 5.62 x 55; Torpedo 6 1/8 x 52 recorded 6.12 x 52."
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Grand Robusto",
+    "size": "5 x 60",
+    "single": null,
+    "fivePack": 64.5,
+    "box": 239.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 63.0,
+    "box": 268.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.62 x 46",
+    "single": null,
+    "fivePack": 56.5,
+    "box": 208.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro Fino",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 61.0,
+    "box": 226.95,
+    "count": 20,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page showed all tiles with prices this run (verbatim-tile prompt; no per-vitola fallback needed): four vitolas, box of 20 + 5-pack, no singles, all 'Add to cart'. Grand Robusto 5-pack $64.50 and Toro/Corona Gorda boxes are new captures; existing prices unchanged vs 2026-10-19."
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-ashton-vsg/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Pegasus",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": 79.95,
+    "box": 302.5,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Tres Mystique",
+    "size": "4.38 x 44",
+    "single": null,
+    "fivePack": 71.95,
+    "box": 324.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Illusion",
+    "size": "6.5 x 44",
+    "single": null,
+    "fivePack": 75.95,
+    "box": 342.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Gorda",
+    "size": "5.75 x 46",
+    "single": null,
+    "fivePack": 74.95,
+    "box": 340.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 50",
+    "single": null,
+    "fivePack": 76.95,
+    "box": 345.6,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso No. 1",
+    "size": "5.25 x 52",
+    "single": null,
+    "fivePack": 77.95,
+    "box": 351.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Enchantment",
+    "size": "4.25 x 60",
+    "single": null,
+    "fivePack": 84.95,
+    "box": 351.95,
+    "count": 22,
+    "inStock": true
+   },
+   {
+    "vitola": "Sorcerer",
+    "size": "7 x 49",
+    "single": null,
+    "fivePack": 81.95,
+    "box": 372.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 55",
+    "single": null,
+    "fivePack": 89.95,
+    "box": 405.5,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Spellbound",
+    "size": "7.5 x 54",
+    "single": null,
+    "fivePack": 94.95,
+    "box": 428.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Wizard",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 91.95,
+    "box": 632.95,
+    "count": 37,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: 11 vitolas, box + 5-pack merged, no singles, all 'Add to cart' (Torpedo back in stock). Tiles show 'Save 20%' on boxes / ~15% on packs vs retail - same prices as the last two runs, so treated as standing pricing, not a sale. Eclipse not listed. Pegasus 5-pack ($79.95) and Corona Gorda box ($340.50) newly captured. Unchanged."
+ },
+ {
+  "id": "Drew Estate|Liga Privada No. 9",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Flying Pig",
+    "size": "4.12 x 60",
+    "single": null,
+    "fivePack": 76.0,
+    "box": 214.95,
+    "count": 12,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": null,
+    "fivePack": 80.0,
+    "box": 363.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto Oscuro",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": 85.0,
+    "box": 385.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso Oscuro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 94.5,
+    "box": 428.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Doble Oscuro",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": 99.0,
+    "box": 450.5,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: six vitolas, box + pack merged, no singles; all 'Add to cart' this run (Corona Viva and Corona Doble back in stock). Flying Pig is a 4-pack; store size 3 15/16 x 60 recorded at catalog 4.12 x 60. Toro 6 x 52 is sold but not in catalogVitolas (kept). Prices unchanged. Same-size duplicates dropped by the coordinator (kept → dropped): Belicoso Oscuro → Toro (6 x 52)."
+ },
+ {
+  "id": "Drew Estate|Liga Privada T52",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Flying Pig",
+    "size": "4.12 x 60",
+    "single": null,
+    "fivePack": 76.0,
+    "box": 214.95,
+    "count": 12,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": null,
+    "fivePack": 53.5,
+    "box": 242.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": 85.0,
+    "box": 363.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 94.5,
+    "box": 428.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": 99.0,
+    "box": null,
+    "count": null,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page: six vitolas, no singles. Flying Pig 4-pack (store 3 15/16 x 60 -> catalog 4.12 x 60). Belicoso box tile prints '6 x 46' (store typo; its 5-pack tile and catalog say 6 x 52 - recorded 6 x 52). Corona Doble only as a 5-pack tile, out of stock; no box. Corona Viva back in stock. Unchanged. Same-size duplicates dropped by the coordinator (kept → dropped): Belicoso → Toro (6 x 52)."
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "4.75 x 52",
+    "single": null,
+    "fivePack": 53.0,
+    "box": 97.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 63.0,
+    "box": 116.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Cortez",
+    "size": "5.75 x 56",
+    "single": null,
+    "fivePack": 65.5,
+    "box": 121.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": 55.5,
+    "box": 204.95,
+    "count": 20,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page: four vitolas with box (10; Churchill 20) + 5-pack prices, no singles. Churchill out of stock. Robusto/Toro/Churchill boxes newly captured. Unchanged."
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Mi-Querida-Cigars/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Gordita",
+    "size": "4 x 48",
+    "single": null,
+    "fivePack": 50.5,
+    "box": 180.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Ancho Corto",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": 65.0,
+    "box": 231.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Fino Largo",
+    "size": "6 x 46",
+    "single": null,
+    "fivePack": 69.5,
+    "box": 248.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Ancho Largo",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 69.5,
+    "box": 248.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Muy Gordo Grande",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 63.5,
+    "box": 228.5,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Gorila Gordo",
+    "size": "6 x 60",
+    "single": null,
+    "fivePack": 74.5,
+    "box": 266.95,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Gran Bufalo",
+    "size": "7 x 64",
+    "single": null,
+    "fivePack": 79.5,
+    "box": 141.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: seven vitolas with proper names this run (6 x 56 = Muy Gordo Grande, 6 x 60 = Gorila Gordo, confirmed by size), box + 5-pack merged, no singles. Muy Gordo Grande out of stock; 5-pack back to $63.50 (Oct 1 read $67.00). Store Fino Largo 6 x 48 recorded at catalog 6 x 46. Pequeno 4 x 44 not listed today. Gran Bufalo is a box of 10."
+ },
+ {
+  "id": "Arturo Fuente|Don Carlos",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "No. 4",
+    "size": "5.12 x 43",
+    "single": null,
+    "fivePack": 55.0,
+    "box": 245.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 3",
+    "size": "5.5 x 44",
+    "single": null,
+    "fivePack": 59.5,
+    "box": 266.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": null,
+    "fivePack": 66.0,
+    "box": 294.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": null,
+    "fivePack": 71.0,
+    "box": 316.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": 73.0,
+    "box": 325.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6.5 x 50",
+    "single": null,
+    "fivePack": 76.5,
+    "box": 341.5,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 55",
+    "single": null,
+    "fivePack": 87.0,
+    "box": 387.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: seven vitolas with box-of-25 + 5-pack, no singles. Store Belicoso 5.375 x 52 recorded at catalog 5.5 x 52; store 'No. 2' is 6 x 55 (= catalog Toro 6 x 55 size, recorded under the store name); Robusto 5 x 50 kept at store size as last run. Presidente out of stock; No. 2 box out of stock but 5-pack in stock (inStock true). Eye of the Bull/Shark, Petite Lancero not listed. Unchanged. Coordinator: Robusto recorded at 5.25 x 50 (the Don Carlos Robusto size; catalog 5 x 50 is Personal Reserve)."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Corona",
+    "size": "5.25 x 46",
+    "single": null,
+    "fivePack": 55.5,
+    "box": 246.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 50",
+    "single": null,
+    "fivePack": 63.5,
+    "box": 282.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 69.0,
+    "box": 306.95,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "David",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": 68.0,
+    "box": 315.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Doble Corona",
+    "size": "7 x 54",
+    "single": null,
+    "fivePack": 71.5,
+    "box": 317.95,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "Lancero",
+    "size": "7 x 40",
+    "single": null,
+    "fivePack": 74.0,
+    "box": 328.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Goliath",
+    "size": "5 x 58",
+    "single": null,
+    "fivePack": 77.5,
+    "box": 361.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page gave every Tabernacle (Broadleaf) tile with the verbatim-tile prompt: seven vitolas, box + 5-pack merged, no singles. Olmec and Havana Seed tiles on the page excluded. Toro and Doble Corona out of stock; Goliath box out of stock but 5-pack in stock (inStock true). Prices unchanged."
+ },
+ {
+  "id": "Davidoff|Millennium",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/davidoff-millennium-series/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Toro",
+    "size": "6 x 50",
+    "single": null,
+    "fivePack": 139.6,
+    "box": 349.0,
+    "count": 10,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Piramides",
+    "size": "6.12 x 52",
+    "single": null,
+    "fivePack": 145.2,
+    "box": 363.0,
+    "count": 10,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Petite Corona",
+    "size": "4.5 x 41",
+    "single": null,
+    "fivePack": 98.5,
+    "box": 492.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Short Robusto",
+    "size": "4.25 x 52",
+    "single": null,
+    "fivePack": 105.6,
+    "box": 528.0,
+    "count": 20,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": null,
+    "fivePack": 122.8,
+    "box": 767.5,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   }
+  ],
+  "notes": "Line page: six products with names this run, box + pack merged (4-packs; Petite Corona 5-pack; Robusto Tubo 3-pack), no singles, all 'Add to cart'. Store lists Toro as 5 x 50 - recorded at catalog 6 x 50 as before. Robusto Tubo kept as its own row (box of 20 tubes). Unchanged. Same-size duplicates dropped by the coordinator (kept → dropped): Robusto → Robusto Tubo (5.25 x 50)."
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": 55.5,
+    "box": 102.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 61.0,
+    "box": 113.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Gordito",
+    "size": "5.5 x 60",
+    "single": null,
+    "fivePack": 64.0,
+    "box": 118.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6 x 56",
+    "single": null,
+    "fivePack": 65.0,
+    "box": 120.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: four vitolas with box-of-10 + 5-pack, no singles, all 'Add to cart'. Robusto/Toro/Gordito boxes newly captured. Unchanged."
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Principe",
+    "size": "4.5 x 46",
+    "single": null,
+    "fivePack": 70.5,
+    "box": 351.25,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona",
+    "size": "6 x 42",
+    "single": null,
+    "fivePack": 74.5,
+    "box": 372.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Monarca",
+    "size": "6.5 x 46",
+    "single": null,
+    "fivePack": 82.0,
+    "box": 408.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Exclusivo",
+    "size": "5.5 x 50",
+    "single": null,
+    "fivePack": 82.5,
+    "box": 410.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6 x 52",
+    "single": null,
+    "fivePack": 106.0,
+    "box": 423.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "Hermoso",
+    "size": "4 x 56",
+    "single": null,
+    "fivePack": 84.5,
+    "box": 439.4,
+    "count": 26,
+    "inStock": true
+   },
+   {
+    "vitola": "Diplomatico",
+    "size": "7 x 50",
+    "single": null,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5 x 52",
+    "single": null,
+    "fivePack": 95.0,
+    "box": 475.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Imperial",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 100.5,
+    "box": 503.75,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "6.5 x 60",
+    "single": null,
+    "fivePack": 128.0,
+    "box": 512.0,
+    "count": 20,
+    "inStock": false
+   }
+  ],
+  "notes": "Maduro line page: ten vitolas with proper names this run, box + 5-pack merged, no singles. No. 4 (store 6 x 60, recorded at catalog Gordo 6.5 x 60) out of stock. Prices are back at the Sept-29 level (e.g. Principe box $351.25 / 5-pack $70.50) after the ~3% dip read on Oct 1; equal to the 2026-10-19 index rows."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": null,
+    "fivePack": 38.0,
+    "box": 169.5,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": null,
+    "fivePack": 44.0,
+    "box": 198.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": null,
+    "fivePack": 56.0,
+    "box": 250.95,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.88 x 60",
+    "single": null,
+    "fivePack": 59.5,
+    "box": 266.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": null,
+    "fivePack": 61.0,
+    "box": 273.95,
+    "count": 25,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page: five Natural (Cameroon) vitolas with names this run, box-of-25 + 5-pack merged, no singles. Short Story out of stock. Store sizes approximate (Short Story 4.5 x 48, Best Seller 4.5 x 54, Work of Art 4.875 x 46/60) - catalog sizes recorded. Maduro tiles excluded. Short Story and Signature boxes newly captured. Unchanged."
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/davidoff-signature-series/",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "1000",
+    "size": "4.62 x 34",
+    "single": null,
+    "fivePack": 77.0,
+    "box": 385.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "2000",
+    "size": "5 x 43",
+    "single": null,
+    "fivePack": 93.5,
+    "box": 467.5,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "6000",
+    "size": "5 x 48",
+    "single": null,
+    "fivePack": 99.2,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 38",
+    "single": null,
+    "fivePack": 124.0,
+    "box": 620.0,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 54",
+    "single": null,
+    "fivePack": 114.8,
+    "box": 717.5,
+    "count": 25,
+    "inStock": true,
+    "packCount": 4
+   }
+  ],
+  "notes": "Line page: seven products with names this run (tubo and non-tubo kept as separate rows), box + pack merged, no singles. 1000 box tile is printed 5.625 x 34 (store typo; catalog 4.625 x 34 recorded). 2000 box and No. 2 box out of stock but their 5-packs in stock (inStock true). No. 2 Tubo 4-pack ($102.80) is listed again. Unchanged. Same-size duplicates dropped by the coordinator (kept → dropped): 2000 → 2000 Tubo (5 x 43); No. 2 → No. 2 Tubo (6 x 38)."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Opus X Oro Oscuro Perfexcion X",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "OXO page lists only the Perfection #4 (5 1/8 x 43); no Perfecxion X (6.25 x 48) product at Smoke Inn. Not carried - no row."
+ },
+ {
+  "id": "Arturo Fuente|Fuente OpusX",
+  "store": "smokeinn",
+  "url": "https://www.smokeinn.com/Arturo-Fuente-Opus-X/",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "Page lists only the limited 'Opus X Shark Taste of Love' (5.5 x 54; box of 20 $1399, 5-pack $349.75, both out of stock) - a limited release, excluded. No regular-production Opus X vitolas offered."
+ }
+]

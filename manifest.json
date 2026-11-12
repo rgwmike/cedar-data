@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-10-19",
+ "generated": "2026-11-01",
  "files": {
   "catalog.json": {
    "version": 10,
@@ -9,10 +9,10 @@
    "generated": "2026-10-19"
   },
   "sources.json": {
-   "version": 9,
-   "sha256": "4d456495eda94e323da2c1c7885955546b6ba77278abdccf14d1ffacc451c378",
-   "bytes": 475621,
-   "generated": "2026-10-19"
+   "version": 10,
+   "sha256": "32136c70802c29c51aa6c3db1bc5346a3fcd4b3525b723e853f37f44f2949587",
+   "bytes": 488731,
+   "generated": "2026-11-01"
   },
   "wanted.json": {
    "version": 8,
@@ -21,17 +21,17 @@
    "generated": "2026-10-19"
   },
   "prices.json": {
-   "version": 11,
-   "sha256": "aa6725a58c7c9f1503bede39e5593d3bdd20b77ad262af2e2072875b9e237131",
-   "bytes": 301608,
-   "generated": "2026-10-19"
+   "version": 12,
+   "sha256": "e63a509403803b6a40e0f402a1f8dbaa2e560d55f3438e15fd101cfa7bf54f31",
+   "bytes": 276702,
+   "generated": "2026-11-01"
   }
  },
  "catalog": {
   "lines": 1205
  },
  "prices": {
-  "lines": 22,
+  "lines": 35,
   "stores": [
    "neptune",
    "holts",

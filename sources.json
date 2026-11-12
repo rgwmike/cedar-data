@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-19",
+ "updated": "2026-11-01",
  "stores": {
   "holts": {
    "name": "Holt's",
@@ -24,7 +24,7 @@
     "smokeinn": "https://www.smokeinn.com/E.P.-Carrillo-Encore/",
     "mikes": "https://mikescigars.com/brands/ep-carrillo-encore"
    },
-   "notes": "Mike's page also lists Encore Black items; filter by name. Mike's box sale (~20% off) ended by 2026-10-01 except Majestic; its listing card can show the pre-sale price — trust the product page."
+   "notes": "Mike's page also lists Encore Black items; filter by name. Mike's box sale (~20% off) ended by 2026-10-01 except Majestic; its listing card can show the pre-sale price — trust the product page. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Mike's box sale is back on all five vitolas (~22% off, e.g. Celestial box $201.95 was $259.50); packs unchanged."
   },
   {
    "id": "Foundation|Olmec",
@@ -33,7 +33,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/olmec-maduro.html",
     "smokeinn": "https://www.smokeinn.com/Foundation-Cigars-Olmec-Maduro/"
    },
-   "notes": "Maduro pages; Claro at neptune /cigar/foundation-olmec-claro and smokeinn /Foundation-Cigars-Olmec-Claro/. Mike's doesn't carry Olmec."
+   "notes": "Maduro pages; Claro at neptune /cigar/foundation-olmec-claro and smokeinn /Foundation-Cigars-Olmec-Claro/. Mike's doesn't carry Olmec. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Arturo Fuente|OpusX Oro Oscuro",
@@ -41,7 +41,7 @@
     "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
     "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/"
    },
-   "notes": "Neptune prices the OXO vitolas in a sub-section of the OpusX line page (all backordered). Nobody lists a Petit Corona 5 x 42. Smoke Inn lists only Perfecxion #4; Mike's has gift tins only."
+   "notes": "Neptune prices the OXO vitolas in a sub-section of the OpusX line page (all backordered). Nobody lists a Petit Corona 5 x 42. Smoke Inn lists only Perfecxion #4; Mike's has gift tins only. 2026-11-01: Neptune line page rendered at offset 0. 2026-11-01: the 2026-10-19 index had 27 Neptune rows on this line (the whole OpusX table); today only the 9 OXO rows are recorded, so the line shows 9 priced vitolas instead of 27 — a correction, not a loss. Issue #1 (Petit Corona 5 x 42) still unlisted everywhere."
   },
   {
    "id": "Davidoff|Winston Churchill The Late Hour",
@@ -51,7 +51,7 @@
     "smokeinn": "https://www.smokeinn.com/Davidoff-Winston-Churchill-The-Late-Hour/",
     "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-winston-churchill-late-hour"
    },
-   "notes": "Mike's page also lists the regular Winston Churchill line (Petit Panetela, Belicoso at ~$12/stick) — keep only Late Hour Robusto/Toro/Churchill."
+   "notes": "Mike's page also lists the regular Winston Churchill line (Petit Panetela, Belicoso at ~$12/stick) — keep only Late Hour Robusto/Toro/Churchill. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Mike's Petit Panetela product page IS branded Late Hour (tin of 5 / unit of 25) — Petit Panetela and Belicoso kept as Late Hour vitolas; the catalog lists both. Smoke Inn box-of-20 tiles back alongside the 4-packs."
   },
   {
    "id": "My Father|Le Bijou 1922",
@@ -61,7 +61,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-my-father-le-bijou-pepin-garcia/",
     "mikes": "https://mikescigars.com/brands/my-father-le-bijou-1922"
    },
-   "notes": "Smoke Inn sells boxes of 23 (since 2026-10-01); store Grand Robusto 5 x 58 is recorded at the catalog size 5.6 x 55."
+   "notes": "Smoke Inn sells boxes of 23 (since 2026-10-01); store Grand Robusto 5 x 58 is recorded at the catalog size 5.6 x 55. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn boxes read 'Box: 20' at the Sept box-of-20 prices (verified on the Torpedo product page) — the Oct 1 '23-count' reading was a fetcher error."
   },
   {
    "id": "My Father|The Judge",
@@ -71,7 +71,7 @@
     "smokeinn": "https://www.smokeinn.com/My-Father-The-Judge-Cigars/",
     "mikes": "https://mikescigars.com/cigars/brands/myfather/my-father-the-judge"
    },
-   "notes": "2026-10-01: Smoke Inn line page showed no prices; per-vitola box pages worked (/My-Father-The-Judge-Toro-Fino-SKU223752.html, /My-Father-The-Judge-Toro.html = 6 x 56, /My-Father-The-Judge-Robusto.html)."
+   "notes": "2026-10-01: Smoke Inn line page showed no prices; per-vitola box pages worked (/My-Father-The-Judge-Toro-Fino-SKU223752.html, /My-Father-The-Judge-Toro.html = 6 x 56, /My-Father-The-Judge-Robusto.html). 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429)."
   },
   {
    "id": "Ashton|VSG",
@@ -81,7 +81,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-ashton-vsg/",
     "mikes": "https://mikescigars.com/cigars/brands/ashton-vsg"
    },
-   "notes": ""
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Drew Estate|Liga Privada No. 9",
@@ -91,7 +91,7 @@
     "smokeinn": "https://www.smokeinn.com/Drew-Estate-Liga-Privada-No-9/",
     "mikes": "https://mikescigars.com/cigars/brands/ligaprivada/liga-privada-no-9"
    },
-   "notes": "Holt's lists Corona Viva as 6 x 48; record at catalog 6 x 46 (the index names that size 'Parejo Oscuro' because the catalog lists both names at 6 x 46)."
+   "notes": "Holt's lists Corona Viva as 6 x 48; record at catalog 6 x 46 (the index names that size 'Parejo Oscuro' because the catalog lists both names at 6 x 46). 2026-11-01: Neptune line page rendered at offset 0. 2026-11-01: stores also list a Toro 6 x 52 (same size as Belicoso) — only the Belicoso row is kept per store; Coronets tin of 10 recorded as pack (packCount 10), unit of 50 as box."
   },
   {
    "id": "Drew Estate|Liga Privada T52",
@@ -101,7 +101,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-drew-estate-liga-privada-t52/",
     "mikes": "https://mikescigars.com/brands/liga-privada-t52"
    },
-   "notes": ""
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Belicoso 6 x 52 listed again at all three stores; Toro 6 x 52 dropped (same size). Smoke Inn Corona Viva box $242.95/24 + 5-pack $53.50 — well under Holt's/Mike's $384; recorded as the store's price."
   },
   {
    "id": "Plasencia|Reserva Original",
@@ -111,7 +111,7 @@
     "smokeinn": "https://www.smokeinn.com/Plasencia-Reserva-Original/",
     "mikes": "https://mikescigars.com/cigars/brands/plasencia/plasencia-reserva-original"
    },
-   "notes": "Catalog sizes corrected Sept 24 to what the stores sell (Robusto 4.75x52, Toro 6x50, Cortez 5.75x56, Churchill 7x48). Michael's \"Corona Toro\" is the Toro 6 x 50 (inbox issue #5)."
+   "notes": "Catalog sizes corrected Sept 24 to what the stores sell (Robusto 4.75x52, Toro 6x50, Cortez 5.75x56, Churchill 7x48). Michael's \"Corona Toro\" is the Toro 6 x 50 (inbox issue #5). 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Mike's boxes ~22% off (Cortez box of 10 $106.50 was $136.95)."
   },
   {
    "id": "Dunbarton Tobacco & Trust|Mi Querida",
@@ -120,7 +120,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/mi-querida.html",
     "smokeinn": "https://www.smokeinn.com/Mi-Querida-Cigars/"
    },
-   "notes": "Holt's page is clearance/sold out; weight Smoke Inn and Neptune. Mike's doesn't carry Dunbarton. Smoke Inn's fetch garbles the 6 x 56 / 6 x 60 names — map by size. Gran Bufalo 7 x 64 is sold but not in the catalog."
+   "notes": "Holt's page is clearance/sold out; weight Smoke Inn and Neptune. Mike's doesn't carry Dunbarton. Smoke Inn's fetch garbles the 6 x 56 / 6 x 60 names — map by size. Gran Bufalo 7 x 64 is sold but not in the catalog. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429)."
   },
   {
    "id": "Padrón|1926 Serie",
@@ -136,7 +136,7 @@
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/crux-limitada"
    },
-   "notes": "Only Neptune carries it. Line page is navigation-only for the fetcher; per-vitola page /cigars/crux-limitada-pb5 gave prices on 2026-09-29 (Gunner page rendered without prices; Lancero slug 404)."
+   "notes": "Only Neptune carries it. Line page is navigation-only for the fetcher; per-vitola page /cigars/crux-limitada-pb5 gave prices on 2026-09-29 (Gunner page rendered without prices; Lancero slug 404). 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Arturo Fuente|Don Carlos",
@@ -146,7 +146,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-don-carlos/",
     "mikes": "https://mikescigars.com/cigars/brands/arturofuente/arturo-fuente-don-carlos"
    },
-   "notes": "Mike's listing prices for Eye of the Bull / Eye of the Shark ($800-$900 'box') don't match a box of 20 — drop them. Neptune lists 'The Man' Robusto (limited) on the line page — exclude. Personal Reserve 5 x 50 is kept though not in the catalog. Neptune shows Eye of the Shark as 5.75 x 52 — record it at the catalog size 5.25 x 52 or it merges with the Double Robusto."
+   "notes": "Mike's listing prices for Eye of the Bull / Eye of the Shark ($800-$900 'box') don't match a box of 20 — drop them. Neptune lists 'The Man' Robusto (limited) on the line page — exclude. Personal Reserve 5 x 50 is kept though not in the catalog. Neptune shows Eye of the Shark as 5.75 x 52 — record it at the catalog size 5.25 x 52 or it merges with the Double Robusto. 2026-11-01: Neptune line page rendered at offset 0. 2026-11-01: catalog hygiene — the stores' regular Robusto (5.25 x 50, ~$14) lands in the catalog slot 'The Man Robusto' (a $35 limited; dropped from quotes), and the stores' No. 2 pyramid is 6 x 55 (catalog slot 'Toro'; catalog 'No. 2 6 x 44' is wrong). Rename the catalog vitolas and these groups label correctly. Neptune 'Box of 5' prices recorded as fivePack."
   },
   {
    "id": "Foundation|The Tabernacle",
@@ -156,7 +156,7 @@
     "smokeinn": "https://www.smokeinn.com/Foundation-The-Tabernacle-Cigars/",
     "mikes": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle"
    },
-   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name. Smoke Inn line page hides prices; per-vitola pages (/The-Tabernacle-Robusto.html etc.) work but rate-limit after ~20 fetches. 2026-10-01: Smoke Inn line page gave every price with the verbatim-tile prompt; per-vitola pages not needed."
+   "notes": "Broadleaf; Havana Seed CT No. 142 is a separate line. Mike's page mixes both plus David & Goliath — filter by name. Smoke Inn line page hides prices; per-vitola pages (/The-Tabernacle-Robusto.html etc.) work but rate-limit after ~20 fetches. 2026-10-01: Smoke Inn line page gave every price with the verbatim-tile prompt; per-vitola pages not needed. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429)."
   },
   {
    "id": "Davidoff|Millennium",
@@ -166,7 +166,7 @@
     "smokeinn": "https://www.smokeinn.com/davidoff-millennium-series/",
     "mikes": "https://mikescigars.com/brands/davidoff-millennium"
    },
-   "notes": "Neptune page too long for the fetcher (navigation only) and its per-vitola pages show no price. Davidoff packs are 4-packs. No store lists Churchill or Lonsdale. Mike's: Robusto Tubos is a pack of 3, Petit Corona a pack of 5, Toro a box of 10 — read pack/box counts per vitola."
+   "notes": "Neptune page too long for the fetcher (navigation only) and its per-vitola pages show no price. Davidoff packs are 4-packs. No store lists Churchill or Lonsdale. Mike's: Robusto Tubos is a pack of 3, Petit Corona a pack of 5, Toro a box of 10 — read pack/box counts per vitola. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429). 2026-11-01: Holt's and Smoke Inn list Tubos versions as separate products at the same size — only the plain row is kept per store."
   },
   {
    "id": "AJ Fernandez|New World Dorado",
@@ -176,7 +176,7 @@
     "smokeinn": "https://www.smokeinn.com/AJ-Fernandez-New-World-Dorado/",
     "mikes": "https://mikescigars.com/cigars/brands/newworld/new-world-dorado"
    },
-   "notes": "Stores sell Robusto, Toro, Gordito 5.5x60 and Figurado 6x56 (catalog says Gordo/Belicoso). Boxes of 10. Neptune page too long for the fetcher."
+   "notes": "Stores sell Robusto, Toro, Gordito 5.5x60 and Figurado 6x56 (catalog says Gordo/Belicoso). Boxes of 10. Neptune page too long for the fetcher. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Padrón|1964 Anniversary Series",
@@ -186,7 +186,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-padron-anniversary-1964-maduro/",
     "mikes": "https://mikescigars.com/brands/padron-1964-anniversary"
    },
-   "notes": "Maduro pages; Natural priced the same at Holt's (one page covers both). Mike's listing is paginated and page 2 is robots-blocked."
+   "notes": "Maduro pages; Natural priced the same at Holt's (one page covers both). Mike's listing is paginated and page 2 is robots-blocked. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429). 2026-11-01: Belicoso 5 x 52 listed at Holt's/Mike's (Soberano Tubos at the same size dropped). Mike's page 2 (Exclusivo, Principe, Corona, Imperial, Monarca, Diplomatico, A, TAA) is robots-blocked."
   },
   {
    "id": "Arturo Fuente|Hemingway",
@@ -196,7 +196,7 @@
     "smokeinn": "https://www.smokeinn.com/cigars-arturo-fuente-hemingway/",
     "mikes": "https://mikescigars.com/brands/arturo-fuente-hemingway"
    },
-   "notes": "Natural (Cameroon) only; Maduro is at holts .../arturo-fuente-hemingway-maduro.html and is left out of the index. Smoke Inn page shows sizes without titles. Mike's card shows Between the Lines as 4.25 x 46 — record at the catalog size."
+   "notes": "Natural (Cameroon) only; Maduro is at holts .../arturo-fuente-hemingway-maduro.html and is left out of the index. Smoke Inn page shows sizes without titles. Mike's card shows Between the Lines as 4.25 x 46 — record at the catalog size. 2026-11-01: Neptune line page rendered at offset 0. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429). 2026-11-01: the 2026-10-19 Mike's rows for Signature/Classic/Best Seller/Masterpiece were Maduro/Sungrown box cards — today's Natural boxes are lower; not a real drop."
   },
   {
    "id": "Gurkha|Prize Fighter",
@@ -204,7 +204,7 @@
     "neptune": "https://www.neptunecigar.com/cigar/gurkha-prize-fighter",
     "mikes": "https://mikescigars.com/brands/gurkha-prize-fighter"
    },
-   "notes": "Bundles of 20 at Mike's (Robusto, Toro 6x54, XO 6x60; Natural and Maduro). Neptune page too long for the fetcher. Holt's and Smoke Inn don't carry it."
+   "notes": "Bundles of 20 at Mike's (Robusto, Toro 6x54, XO 6x60; Natural and Maduro). Neptune page too long for the fetcher. Holt's and Smoke Inn don't carry it. 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Davidoff|Signature",
@@ -214,7 +214,7 @@
     "smokeinn": "https://www.smokeinn.com/davidoff-signature-series/",
     "mikes": "https://mikescigars.com/cigars/brands/davidoff/davidoff-signature"
    },
-   "notes": "Neptune page too long for the fetcher. Tubos/6000/Toro come in 4-packs. Stores list 6000 as 5 x 48 (catalog 5.9 x 47)."
+   "notes": "Neptune page too long for the fetcher. Tubos/6000/Toro come in 4-packs. Stores list 6000 as 5 x 48 (catalog 5.9 x 47). 2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Smoke Inn line page gave names AND prices with the prompt 'Quote each product tile on this page VERBATIM: name, price, size, pack/box count, stock badge' — no per-vitola fallback needed (12 s pause between fetches, no 429). 2026-11-01: Holt's and Smoke Inn list Tubos versions as separate products at the same size — only the plain row is kept per store."
   },
   {
    "id": "5 Vegas|Gold",
@@ -1869,7 +1869,7 @@
     "mikes": "https://mikescigars.com/brands/arturo-fuente-anejo",
     "neptune": "https://www.neptunecigar.com/cigar/alfonso-anejo"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Arturo Fuente|Brevas Royale",
@@ -2080,7 +2080,7 @@
     "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X/",
     "mikes": "https://mikescigars.com/brands/arturo-fuente-opusx"
    },
-   "notes": "Neptune line page lists every vitola with single prices (all backordered) and the OXO Oro Oscuro sub-section. Smoke Inn shows limited releases only; Mike's doesn't sell it online; Holt's has Lost City only. Smoke Inn's page lists only limited releases (Shark 'Taste of Love') — excluded from the index."
+   "notes": "Neptune line page lists every vitola with single prices (all backordered) and the OXO Oro Oscuro sub-section. Smoke Inn shows limited releases only; Mike's doesn't sell it online; Holt's has Lost City only. Smoke Inn's page lists only limited releases (Shark 'Taste of Love') — excluded from the index. 2026-11-01: Neptune line page rendered at offset 0. 2026-11-01: Neptune lists regular and Destino rows at the same size (Super Belicoso / Destino Super Belicoso 5.5 x 52; Shark $50 / Destino al Siglo Shark $35.61 at 5.62 x 54) — the catalog names the Destino ones, so those rows are kept. Angels Share and non-catalog limiteds dropped. Mike's shows prices only for Forbidden X boxes."
   },
   {
    "id": "Arturo Fuente|Fuente OpusX Gold & Bullet",
@@ -5219,7 +5219,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/davidoff-aniversario.html",
     "neptune": "https://www.neptunecigar.com/cigar/davidoff-aniversario-series"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified. 2026-11-01: Holt's and Smoke Inn list Tubos versions as separate products at the same size — only the plain row is kept per store."
   },
   {
    "id": "Davidoff|Aniversario No. 1 Limited Edition",
@@ -6560,7 +6560,7 @@
    "pages": {
     "neptune": "https://www.neptunecigar.com/cigar/mi-querida-triqui-traca"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Dunbarton Tobacco & Trust|Muestra de Saka",
@@ -8133,10 +8133,10 @@
   {
    "id": "Foundation|The Tabernacle Havana Seed CT No. 142",
    "pages": {
-    "mikes": "https://mikescigars.com/the-tabernacle-havana-seed-ct-142-david-perfecto",
+    "mikes": "https://mikescigars.com/cigars/brands/foundation-cigar-company/the-tabernacle",
     "holts": "https://www.holts.com/cigars/all-cigar-brands/the-tabernacle-havana-seed-ct-142.html"
    },
-   "notes": null
+   "notes": "2026-11-01: Mike's page changed from the David perfecto product page (https://mikescigars.com/the-tabernacle-havana-seed-ct-142-david-perfecto) to the listing that rendered all vitolas. Mike's listing is shared with the Broadleaf Tabernacle — keep only 'Havana Seed CT #142' cards."
   },
   {
    "id": "Foundation|The Upsetters",
@@ -9277,7 +9277,7 @@
     "mikes": "https://mikescigars.com/brands/herrera-esteli-brazilian-maduro",
     "neptune": "https://www.neptunecigar.com/cigar/herrera-esteli-brazilian-maduro"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Herrera Estelí|Broadleaf",
@@ -12935,7 +12935,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/my-father-blue.html",
     "neptune": "https://www.neptunecigar.com/cigar/my-father-blue"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "My Father|Cedro Deluxe",
@@ -12951,7 +12951,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/my-father-connecticut.html",
     "neptune": "https://www.neptunecigar.com/cigar/my-father-connecticut"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "My Father|Don Pepin Garcia Black",
@@ -13170,9 +13170,9 @@
   {
    "id": "My Father|No. 1 / Classic",
    "pages": {
-    "mikes": "https://mikescigars.com/my-father-no-3-cremas"
+    "mikes": "https://mikescigars.com/my-father-no-1"
    },
-   "notes": null
+   "notes": "2026-11-01: Mike's page changed from the No. 3 Cremas product page (https://mikescigars.com/my-father-no-3-cremas) to the listing that rendered all vitolas. Mike's No. 1 product page's Related Products block gives No. 2–6 ranges; try mikescigars.com/brands/my-father next run."
   },
   {
    "id": "My Father|No. 6",
@@ -13867,11 +13867,11 @@
   {
    "id": "Oliva|Serie V",
    "pages": {
-    "mikes": "https://mikescigars.com/oliva-serie-v-double-robusto-tube",
+    "mikes": "https://mikescigars.com/brands/oliva-serie-v",
     "holts": "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-v.html",
     "neptune": "https://www.neptunecigar.com/cigar/oliva-serie-v"
    },
-   "notes": null
+   "notes": "2026-11-01: Mike's page changed from the single product page (https://mikescigars.com/oliva-serie-v-double-robusto-tube) to the listing that rendered all vitolas. 2026-11-01: Neptune line page renders for the fetcher only with offset ≈20000–38000 (the product table sits after the brand menu). 2026-11-01: Double Robusto 5 x 54 (= Belicoso size) and Special V Figurado 6 x 60 (= Double Toro size) exist at Holt's/Neptune — dropped as same-size duplicates. Neptune No. 4 = Petit Corona $8.95 (the 2026-10-17 $15.95 was wrong)."
   },
   {
    "id": "Oliva|Serie V Maduro",
@@ -13892,11 +13892,11 @@
   {
    "id": "Oliva|Serie V Melanio",
    "pages": {
-    "mikes": "https://mikescigars.com/oliva-serie-v-melanio-gran-reserva-limitada-world-cup-2026-edition",
+    "mikes": "https://mikescigars.com/brands/oliva-serie-v-melanio",
     "holts": "https://www.holts.com/cigars/all-cigar-brands/oliva-serie-v-melanio.html",
     "neptune": "https://www.neptunecigar.com/cigar/oliva-serie-v-melanio"
    },
-   "notes": null
+   "notes": "2026-11-01: Mike's page changed from the World Cup edition product page (https://mikescigars.com/oliva-serie-v-melanio-gran-reserva-limitada-world-cup-2026-edition) to the listing that rendered all vitolas. 2026-11-01: Neptune line page renders for the fetcher only with offset ≈20000–38000 (the product table sits after the brand menu). 2026-11-01: Figurado 6.5 x 52 (= Torpedo size) dropped at Holt's; Figurado 6.5 x 54 kept (Neptune). Neptune No. 4 4.5 x 46 = Petite Corona $11.15."
   },
   {
    "id": "Oliva|Serie V Melanio 2023",
@@ -14302,7 +14302,7 @@
     "mikes": "https://mikescigars.com/brands/padron-1926-serie",
     "neptune": "https://www.neptunecigar.com/cigar/padron-1926-maduro"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page renders for the fetcher only with offset ≈20000–38000 (the product table sits after the brand menu). 2026-11-01: catalog hygiene — the stores' No. 1 (6.75 x 54, $26.50) lands in the catalog slot '80 Years' (a box-of-8 limited at $37.30, dropped from quotes); No. 47 is the catalog 'Robusto 5.5 x 50', No. 2 Belicoso the 'Robusto 5.5 x 52', No. 9 'Short Gordo', No. 40 and No. 48 have size-only slots. Padrón 1926 sells 10- and 24-count boxes; the 24 is recorded as box."
   },
   {
    "id": "Padrón|1964 Anniversary Maduro",
@@ -17382,7 +17382,7 @@
     "holts": "https://www.holts.com/cigars/all-cigar-brands/tatuaje-black.html",
     "neptune": "https://www.neptunecigar.com/cigar/tatuaje-black-label"
    },
-   "notes": null
+   "notes": "2026-11-01: Neptune line page came back as navigation only for the fetcher (its text ends inside the brand mega-menu at ~75k chars; offsets 0/20000/38000 don't reach the table); the 2026-10-17 Neptune rows were carried forward into prices.json unverified."
   },
   {
    "id": "Tatuaje|Corojo",
@@ -18524,6 +18524,16 @@
     "mikes": "https://mikescigars.com/brands/romeo-y-julieta-crafted-by-aj-fernandez"
    },
    "notes": null
+  },
+  {
+   "id": "Arturo Fuente|Fuente Opus X Oro Oscuro Perfexcion X",
+   "pages": {
+    "neptune": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+    "holts": null,
+    "smokeinn": "https://www.smokeinn.com/Arturo-Fuente-Opus-X-Oscuro-Oro/",
+    "mikes": null
+   },
+   "notes": "2026-11-01: single-vitola catalog line that duplicates the Perfecxion X of Arturo Fuente|OpusX Oro Oscuro; priced from the same pages (Neptune OXO sub-section of the OpusX page; Smoke Inn's OXO page listed only the Perfection No. 4 this run). Holt's and Mike's don't carry OXO."
   }
  ]
 }

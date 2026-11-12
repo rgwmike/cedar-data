@@ -1,0 +1,1078 @@
+[
+ {
+  "id": "E.P. Carrillo|Encore",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/ep-carrillo-encore",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Foundation|Olmec",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/foundation-olmec-maduro",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Arturo Fuente|OpusX Oro Oscuro",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 36.84,
+    "fivePack": null,
+    "box": 1068.54,
+    "count": 29,
+    "inStock": false
+   },
+   {
+    "vitola": "Oro Oscuro",
+    "size": "5.25 x 52",
+    "single": 37.77,
+    "fivePack": null,
+    "box": null,
+    "count": 15,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso XXX",
+    "size": "4.62 x 49",
+    "single": 31.65,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 42.42,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Fuente Fuente",
+    "size": "5.62 x 46",
+    "single": 32.94,
+    "fivePack": null,
+    "box": null,
+    "count": 32,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion #4",
+    "size": "5.12 x 43",
+    "single": 31.29,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion X",
+    "size": "6.25 x 49",
+    "single": 40.2,
+    "fivePack": 132.81,
+    "box": null,
+    "count": 32,
+    "inStock": false,
+    "packCount": 3
+   },
+   {
+    "vitola": "Reserva d'Chateau",
+    "size": "7 x 48",
+    "single": 43.17,
+    "fivePack": 141.72,
+    "box": null,
+    "count": 32,
+    "inStock": false,
+    "packCount": 3
+   },
+   {
+    "vitola": "Super Belicoso",
+    "size": "5.5 x 52",
+    "single": 40.2,
+    "fivePack": null,
+    "box": null,
+    "count": 29,
+    "inStock": false
+   }
+  ],
+  "notes": "OXO Oro Oscuro sub-section of the OpusX line page (shared fetch, offset 0). All rows 'Back-order' (Double Robusto was in stock last run). Box price shown only for Robusto (box of 29 $1068.54); other rows list a box count without a price. 'Tin of 3' recorded as packCount 3. New since last run: Reserva d'Chateau $43.17 and Super Belicoso $40.20. Perfecxion #4 5.12 x 43 maps to the catalog Petit Corona size. Prices otherwise identical to 2026-10-17."
+ },
+ {
+  "id": "Davidoff|Winston Churchill The Late Hour",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-winston-churchill-late-hour",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "My Father|Le Bijou 1922",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-le-bijou-1922",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "My Father|The Judge",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-the-judge",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Ashton|VSG",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/ashton-vsg",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Drew Estate|Liga Privada No. 9",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/liga-privada-no-9",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Coronets",
+    "size": "4 x 32",
+    "single": null,
+    "fivePack": 22.0,
+    "box": 105.0,
+    "count": 50,
+    "inStock": true,
+    "packCount": 10
+   },
+   {
+    "vitola": "Flying Pig",
+    "size": "4.12 x 60",
+    "single": 19.95,
+    "fivePack": null,
+    "box": 227.43,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 54",
+    "single": 17.25,
+    "fivePack": 65.6,
+    "box": 393.6,
+    "count": 24,
+    "inStock": true,
+    "packCount": 4
+   },
+   {
+    "vitola": "Corona Viva",
+    "size": "6 x 46",
+    "single": 16.25,
+    "fivePack": null,
+    "box": 370.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "6 x 52",
+    "single": 19.25,
+    "fivePack": null,
+    "box": 439.2,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Corona Doble",
+    "size": "7 x 54",
+    "single": 20.25,
+    "fivePack": null,
+    "box": 462.0,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page rendered on the first fetch (offset 0); everything 'In Stock Ships 11/02' (Flying Pig back in stock). 'Our price' recorded (MSRP shown higher, e.g. Robusto box MSRP $414 vs $393.60). Robusto/Toro packs are 4-packs. Coronets: tin of 10 $22.00 recorded as packCount 10, box of 50 $105.00, no single. Flying Pig store size 4 x 60 recorded at catalog 4.12 x 60. Store lists both Toro 6 x 52 ($18.25 / $416.40) and Belicoso 6 x 52 ($19.25 / $439.20) — Belicoso is new vs the last index (catalog has only Belicoso at 6 x 52; both kept). Same-size duplicates dropped by the coordinator (kept → dropped): Belicoso → Toro (6 x 52)."
+ },
+ {
+  "id": "Drew Estate|Liga Privada T52",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/liga-privada-t52",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Plasencia|Reserva Original",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/plasencia-reserva-original",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/mi-querida",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Crux|Limitada",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigars/crux-limitada-pb5",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "Line page skipped (navigation-only every run). Fallback per-vitola page https://www.neptunecigar.com/cigars/crux-limitada-pb5 rendered name/size (5.75 x 54) and description but no prices or stock status this time (it had prices on 2026-09-29/10-01). No prices recorded."
+ },
+ {
+  "id": "Arturo Fuente|Don Carlos",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-don-carlos",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Belicoso",
+    "size": "5.5 x 52",
+    "single": 15.35,
+    "fivePack": null,
+    "box": 326.08,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 14.91,
+    "fivePack": null,
+    "box": 316.73,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Eye of the Bull",
+    "size": "3.5 x 55",
+    "single": 22.89,
+    "fivePack": 114.48,
+    "box": 457.92,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Eye of the Shark",
+    "size": "5.25 x 52",
+    "single": 32.4,
+    "fivePack": 161.97,
+    "box": 647.82,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 2",
+    "size": "6 x 55",
+    "single": 18.26,
+    "fivePack": null,
+    "box": 388.03,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 3",
+    "size": "5.5 x 44",
+    "single": 12.54,
+    "fivePack": null,
+    "box": 266.48,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "5.12 x 43",
+    "single": 11.55,
+    "fivePack": null,
+    "box": 245.44,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Personal Reserve",
+    "size": "5 x 50",
+    "single": 34.89,
+    "fivePack": 174.48,
+    "box": 697.95,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Petite Lancero",
+    "size": "6.25 x 40",
+    "single": 24.05,
+    "fivePack": null,
+    "box": 601.25,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Presidente",
+    "size": "6.5 x 50",
+    "single": 16.06,
+    "fivePack": null,
+    "box": 341.28,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 13.86,
+    "fivePack": null,
+    "box": 294.53,
+    "count": 25,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page rendered with the full table on the first fetch (offset 0). In stock: Belicoso, No. 3, No. 4 (single; box backordered); rest 'Back-order'. Store sizes mapped to catalog: Belicoso 5.375 x 52 -> 5.5 x 52; Eye of the Shark 5.75 x 52 -> 5.25 x 52; No. 4 5 x 43 -> 5.12 x 43. Store 'No. 2' is 6 x 55 ($18.26 / $388.03) — that is the catalog 'Toro 6 x 55' size, not the catalog 'No. 2 6 x 44' (last index wrongly paired No. 3's $12.54 single with the No. 2 box). 'Box of 5' prices recorded as fivePack (Eye of the Bull, Eye of the Shark, Personal Reserve). The Man Robusto kept (in catalog). Personal Reserve 5 x 50 kept as store extra alongside Robusto 5 x 50. Double Robusto $14.91 / $316.73 is new vs last index. Prices otherwise unchanged. Same-size duplicates dropped by the coordinator (kept → dropped): Personal Reserve → Robusto (5 x 50). Coordinator: 'The Man Robusto' $35.64 (limited edition) dropped as in earlier runs; the regular Robusto ($13.86 / box 25 $294.53, back-order) recorded at 5.25 x 50 instead (store lists 5 x 50)."
+ },
+ {
+  "id": "Foundation|The Tabernacle",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/the-tabernacle",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Davidoff|Millennium",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-millennium-blend-series",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "AJ Fernandez|New World Dorado",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/new-world-dorado",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Padrón|1964 Anniversary Series",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/padron-1964-anniversary",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only. Tried offsets 0, 20000, 38000 and 75000; the fetcher's converted page is 79,126 chars and ends inside the brand mega-menu (at 'Gurkha'), so the product table is unreachable this run (it rendered on 2026-10-01)."
+ },
+ {
+  "id": "Arturo Fuente|Hemingway",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-hemingway",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Short Story",
+    "size": "4 x 49",
+    "single": 7.79,
+    "fivePack": null,
+    "box": 169.45,
+    "count": 25,
+    "inStock": false
+   },
+   {
+    "vitola": "Best Seller",
+    "size": "4.5 x 55",
+    "single": 9.12,
+    "fivePack": null,
+    "box": 198.27,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Work of Art",
+    "size": "4.88 x 60",
+    "single": 12.27,
+    "fivePack": null,
+    "box": 266.76,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Signature",
+    "size": "6 x 47",
+    "single": 11.55,
+    "fivePack": null,
+    "box": 251.21,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Classic",
+    "size": "7 x 48",
+    "single": 12.6,
+    "fivePack": null,
+    "box": 273.94,
+    "count": 25,
+    "inStock": true
+   },
+   {
+    "vitola": "Masterpiece",
+    "size": "9 x 52",
+    "single": 21.07,
+    "fivePack": null,
+    "box": 183.27,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Natural (Cameroon) line page rendered on the first fetch (offset 0). Short Story back-ordered; Masterpiece single in stock but its box of 10 is back-ordered; rest in stock. Store shows Classic 7 x 46 and Signature 6 x 46 — recorded at catalog sizes. No Between the Lines or Untold Story listed. Prices identical to 2026-10-17."
+ },
+ {
+  "id": "Gurkha|Prize Fighter",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/gurkha-prize-fighter",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Davidoff|Signature",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-signature-series",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Davidoff|Aniversario",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/davidoff-aniversario-series",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "My Father|Connecticut",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-connecticut",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Oliva|Serie V",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/oliva-serie-v",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "135th Anniversary Edicion Limitada",
+    "size": "5.5 x 54",
+    "single": 10.95,
+    "fivePack": null,
+    "box": 116.8,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Belicoso",
+    "size": "5 x 54",
+    "single": 11.4,
+    "fivePack": null,
+    "box": 242.94,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Churchill Extra",
+    "size": "7 x 52",
+    "single": 14.55,
+    "fivePack": null,
+    "box": 309.53,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Toro",
+    "size": "6 x 60",
+    "single": 14.1,
+    "fivePack": null,
+    "box": 300.52,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Lancero",
+    "size": "7 x 38",
+    "single": 10.5,
+    "fivePack": null,
+    "box": 334.75,
+    "count": 36,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 4",
+    "size": "5 x 43",
+    "single": 8.95,
+    "fivePack": null,
+    "box": 189.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "TAA Exclusive Torpedo",
+    "size": "7 x 54",
+    "single": 13.65,
+    "fivePack": null,
+    "box": 153.95,
+    "count": 12,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6 x 56",
+    "single": 13.6,
+    "fivePack": null,
+    "box": 288.95,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "Club Cigarillos",
+    "size": "3.88 x 22",
+    "single": null,
+    "fivePack": 21.85,
+    "box": 97.0,
+    "count": 100,
+    "inStock": true,
+    "packCount": 20
+   },
+   {
+    "vitola": "Senoritas",
+    "size": "4 x 31",
+    "single": null,
+    "fivePack": 23.2,
+    "box": 102.95,
+    "count": 50,
+    "inStock": false,
+    "packCount": 10
+   }
+  ],
+  "notes": "Line page rendered at offset 20000 (table sits after the brand menu). 'Our price' recorded. All in stock except Senoritas (back-order) and the TAA Torpedo box (single in stock). No. 4 5 x 43 = catalog Petit Corona; single $8.95 (last index $15.95 looks wrong). Churchill Extra $14.55 (was $14.10). Double Robusto 5 x 54 (same size as Belicoso) and Special V Figurado 6 x 60 (same size as Double Toro) are regular vitolas not in the catalog list — kept, flag for review. Club Cigarillos: tin of 20 $21.85 as packCount 20, box of 100; Senoritas: tin of 10 $23.20 as packCount 10, box of 50, store size 4.125 x 31 recorded at catalog 4 x 31. No Liga Especial or Especial Toro/Torpedo listed. Same-size duplicates dropped by the coordinator (kept → dropped): Belicoso → Double Robusto (5 x 54); Double Toro → Special V Figurado (6 x 60)."
+ },
+ {
+  "id": "Arturo Fuente|Fuente Opus X Oro Oscuro Perfexcion X",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "OXO Oro Oscuro Perfecxion X",
+    "size": "6.25 x 48",
+    "single": 40.2,
+    "fivePack": 132.81,
+    "box": null,
+    "count": 32,
+    "inStock": false,
+    "packCount": 3
+   }
+  ],
+  "notes": "Single row taken from the OXO sub-section of the OpusX line page (shared fetch). Store size 6.25 x 49 recorded at the catalog size 6.25 x 48. Back-order; tin of 3 $132.81 recorded as packCount 3; box of 32 listed without a price."
+ },
+ {
+  "id": "Arturo Fuente|Fuente OpusX",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/arturo-fuente-opus-x",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "Perfecxion No. 2",
+    "size": "6.38 x 52",
+    "single": 40.47,
+    "fivePack": null,
+    "box": null,
+    "count": 29,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion No. 4",
+    "size": "5.12 x 43",
+    "single": 28.41,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion No. 5",
+    "size": "4.88 x 40",
+    "single": 26.16,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion X",
+    "size": "6.25 x 48",
+    "single": 36.66,
+    "fivePack": 122.22,
+    "box": null,
+    "count": 32,
+    "inStock": false,
+    "packCount": 3
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5.25 x 50",
+    "single": 34.05,
+    "fivePack": 113.88,
+    "box": null,
+    "count": 29,
+    "inStock": false,
+    "packCount": 3
+   },
+   {
+    "vitola": "Reserva d'Chateau",
+    "size": "7 x 48",
+    "single": 39.06,
+    "fivePack": 129.21,
+    "box": null,
+    "count": 32,
+    "inStock": false,
+    "packCount": 3
+   },
+   {
+    "vitola": "Fuente Fuente",
+    "size": "5.62 x 46",
+    "single": 30.36,
+    "fivePack": null,
+    "box": null,
+    "count": 32,
+    "inStock": false
+   },
+   {
+    "vitola": "Double Corona",
+    "size": "7.62 x 49",
+    "single": 44.46,
+    "fivePack": null,
+    "box": null,
+    "count": 32,
+    "inStock": false
+   },
+   {
+    "vitola": "Double Robusto",
+    "size": "5.75 x 52",
+    "single": 38.52,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Belicoso XXX",
+    "size": "4.62 x 49",
+    "single": 28.68,
+    "fivePack": null,
+    "box": null,
+    "count": 42,
+    "inStock": false
+   },
+   {
+    "vitola": "Destino Super Belicoso",
+    "size": "5.5 x 52",
+    "single": 24.47,
+    "fivePack": null,
+    "box": null,
+    "count": 29,
+    "inStock": false
+   },
+   {
+    "vitola": "Destino al Siglo Shark",
+    "size": "5.62 x 54",
+    "single": 35.61,
+    "fivePack": null,
+    "box": null,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion 888",
+    "size": "6.88 x 44",
+    "single": 34.53,
+    "fivePack": null,
+    "box": null,
+    "count": 24,
+    "inStock": false
+   },
+   {
+    "vitola": "Perfecxion A",
+    "size": "9.25 x 47",
+    "single": 66.15,
+    "fivePack": null,
+    "box": null,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Magnum \"O\" 36",
+    "size": "4.75 x 56",
+    "single": 37.32,
+    "fivePack": null,
+    "box": null,
+    "count": 36,
+    "inStock": false
+   },
+   {
+    "vitola": "Petit Lancero",
+    "size": "6.25 x 39",
+    "single": 31.29,
+    "fivePack": null,
+    "box": null,
+    "count": 32,
+    "inStock": false
+   },
+   {
+    "vitola": "Destino Lancero",
+    "size": "7.5 x 41",
+    "single": 33.75,
+    "fivePack": null,
+    "box": null,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Love Affair",
+    "size": "4.5 x 52",
+    "single": 29.97,
+    "fivePack": null,
+    "box": null,
+    "count": 18,
+    "inStock": false
+   },
+   {
+    "vitola": "Pussy Cats",
+    "size": "4.25 x 42",
+    "single": 26.37,
+    "fivePack": null,
+    "box": null,
+    "count": 39,
+    "inStock": false
+   },
+   {
+    "vitola": "Forbidden X El Trece Magistral 13",
+    "size": "6.88 x 56",
+    "single": 54.0,
+    "fivePack": null,
+    "box": 1404.0,
+    "count": 26,
+    "inStock": false
+   },
+   {
+    "vitola": "2020 Dubai Arena d'Amor",
+    "size": "5 x 52",
+    "single": 60.24,
+    "fivePack": null,
+    "box": 1204.5,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "2020 Dubai Sol d'Amor",
+    "size": "6.12 x 55",
+    "single": 62.25,
+    "fivePack": null,
+    "box": 1245.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "2020 Dubai Viento d'Amor",
+    "size": "6 x 58",
+    "single": 68.4,
+    "fivePack": null,
+    "box": 1368.0,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Forbidden X Amor Sensual",
+    "size": "6.12 x 54",
+    "single": 61.8,
+    "fivePack": null,
+    "box": null,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Forbidden X Pasion d'Amor",
+    "size": "6.12 x 48",
+    "single": 57.09,
+    "fivePack": null,
+    "box": null,
+    "count": 20,
+    "inStock": false
+   },
+   {
+    "vitola": "Forbidden X Keeper of the Flame 2013",
+    "size": "6.25 x 49",
+    "single": 45.06,
+    "fivePack": null,
+    "box": null,
+    "count": 13,
+    "inStock": false
+   }
+  ],
+  "notes": "Line page rendered on the first fetch (offset 0) with the full table incl. the OXO sub-section (OXO rows written to the Oro Oscuro quotes, not here). All rows 'Back-order' except the Shark 5.62 x 54 single ('In Stock Ships 11/02', box backordered; $50.00 vs $36.48 last run — the $36.48 now sits on 'Super Belicoso', so last run may have mis-assigned). 'Tin of 3' prices recorded as packCount 3. Box prices shown only for El Trece and the three Dubai releases; other rows show a box count but no box price. Perfecxion No. 2 now $40.47 and No. 4 $28.41 (last index had No. 2 at $28.41 — likely a row swap last time). Store lists two rows at 5.5 x 52 besides the No. 77 Shark (Super Belicoso $36.48, Destino Super Belicoso $24.47) and two at 5.62 x 54 (Shark $50.00, Destino al Siglo Shark $35.61) — all kept because the catalog names both Destino vitolas; coordinator may want to pick one per size. Dropped: five 'Angels Share' rows (same sizes as the regulars, limited blend, no box price: Robusto $34.98, Perfecxion X $38.34, Fuente $31.47, Reserva d'Chateau $41.13, Double Corona $46.41 box of 32 $1485.00), Baby Shark (no size), Forbidden X Deseos d'Amor / El Beso Prohibido / Heart of the Bull 1957 (not in catalog). Same-size duplicates dropped by the coordinator (kept → dropped): Destino Super Belicoso → Super Belicoso (5.5 x 52); Destino Super Belicoso → Perfecxion No. 77 Shark (5.5 x 52); Destino al Siglo Shark → Shark (5.62 x 54)."
+ },
+ {
+  "id": "Dunbarton Tobacco & Trust|Mi Querida Triqui Traca",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/mi-querida-triqui-traca",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Herrera Estelí|Brazilian Maduro",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/herrera-esteli-brazilian-maduro",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Oliva|Serie V Melanio",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/oliva-serie-v-melanio",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "2023 Figurinos",
+    "size": "5.5 x 52",
+    "single": null,
+    "fivePack": null,
+    "box": 169.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Churchill",
+    "size": "7 x 50",
+    "single": 18.4,
+    "fivePack": null,
+    "box": 163.25,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Double Toro",
+    "size": "6 x 60",
+    "single": 19.85,
+    "fivePack": null,
+    "box": 175.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Edicion Ano 2024",
+    "size": "5.5 x 60",
+    "single": 21.8,
+    "fivePack": null,
+    "box": 190.0,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Edicion Ano 2025",
+    "size": "5 x 54",
+    "single": null,
+    "fivePack": null,
+    "box": 161.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Edicion Ano 2026",
+    "size": "5.38 x 54",
+    "single": 18.95,
+    "fivePack": null,
+    "box": 179.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "Figurado",
+    "size": "6.5 x 54",
+    "single": 19.85,
+    "fivePack": null,
+    "box": 176.1,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Limited Edition",
+    "size": "4 x 60",
+    "single": null,
+    "fivePack": null,
+    "box": 112.95,
+    "count": 10,
+    "inStock": false
+   },
+   {
+    "vitola": "No. 4",
+    "size": "4.5 x 46",
+    "single": 11.15,
+    "fivePack": null,
+    "box": 98.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Robusto",
+    "size": "5 x 52",
+    "single": 13.65,
+    "fivePack": null,
+    "box": 120.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Toro",
+    "size": "6 x 52",
+    "single": 17.35,
+    "fivePack": null,
+    "box": 153.95,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "Torpedo",
+    "size": "6.5 x 52",
+    "single": 18.4,
+    "fivePack": null,
+    "box": 162.95,
+    "count": 10,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page rendered at offset 20000. 'Our price' recorded (MSRP shown higher). All boxes of 10. Back-ordered: 2023 Figurinos (sold out), Edicion Ano 2024/2025/2026, Limited Edition 4 x 60 ('out of production'). No. 4 4.5 x 46 = catalog Petite Corona, $11.15 / $98.95 (last index put the $11.15 single on the Limited Edition 4 x 60, which has no single). Edicion Ano 2026 single $18.95 (was $19.85) and now back-ordered. Figurado 6.5 x 54 ($19.85 / $176.10) is a regular vitola not in the catalog list — kept, flag."
+ },
+ {
+  "id": "Tatuaje|Black Label",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/tatuaje-black-label",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "My Father|Blue",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/my-father-blue",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Arturo Fuente|Añejo Reserva",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/alfonso-anejo",
+  "fetched": "2026-11-01",
+  "vitolas": [],
+  "notes": "fetch failed: navigation only (page text truncated at ~75-79k chars inside the brand mega-menu; tried once at offset 20000 — the fetcher's converted page ends before the product table, so no offset can reach it)"
+ },
+ {
+  "id": "Padrón|1926 Serie Maduro",
+  "store": "neptune",
+  "url": "https://www.neptunecigar.com/cigar/padron-1926-maduro",
+  "fetched": "2026-11-01",
+  "vitolas": [
+   {
+    "vitola": "No. 2 Belicoso",
+    "size": "5.5 x 52",
+    "single": 22.45,
+    "fivePack": null,
+    "box": 538.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 35",
+    "size": "4 x 48",
+    "single": 16.35,
+    "fivePack": null,
+    "box": 392.4,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 40",
+    "size": "6.5 x 54",
+    "single": 32.0,
+    "fivePack": null,
+    "box": 640.0,
+    "count": 20,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 47",
+    "size": "5.5 x 50",
+    "single": 20.45,
+    "fivePack": null,
+    "box": 490.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 48",
+    "size": "5.5 x 60",
+    "single": 26.95,
+    "fivePack": null,
+    "box": 269.5,
+    "count": 10,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 6",
+    "size": "4.75 x 50",
+    "single": 18.45,
+    "fivePack": null,
+    "box": 442.8,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 9",
+    "size": "5.25 x 56",
+    "single": 24.5,
+    "fivePack": null,
+    "box": 588.0,
+    "count": 24,
+    "inStock": true
+   },
+   {
+    "vitola": "No. 1",
+    "size": "6.75 x 54",
+    "single": 26.5,
+    "fivePack": null,
+    "box": 636.0,
+    "count": 24,
+    "inStock": true
+   }
+  ],
+  "notes": "Line page returned navigation only at offset 0 last runs; fetched at offset 38000 and the full Maduro table rendered. All in stock (No. 1 box of 10 back-ordered but box of 24 in stock). Where the store sells both a box of 10 and a box of 24 the 24-count box is recorded (10-count: No. 1 $265.00, No. 2 $224.50, No. 6 $184.50, No. 9 $245.00). MSRP equals 'our price'. No. 6 single is $18.45 (last index showed $24.50, which is the No. 9 price). 80 Years $37.30 / box of 8 $298.40 and No. 2 Belicoso are new vs the last index. Two rows at 5.5 x 52 (No. 2 Belicoso, No. 90 Tubo) and two at 6.75 x 54 (80 Years, No. 1) as the store lists them. Same-size duplicates dropped by the coordinator (kept → dropped): 80 Years → No. 1 (6.75 x 54); No. 2 Belicoso → No. 90 Tubo (5.5 x 52). Coordinator: at 6.75 x 54 the No. 1 ($26.50 / box 24 $636) is kept and the 80 Years ($37.30 / box of 8 $298.40, limited) dropped, so the size groups match Holt's and Mike's."
+ }
+]
